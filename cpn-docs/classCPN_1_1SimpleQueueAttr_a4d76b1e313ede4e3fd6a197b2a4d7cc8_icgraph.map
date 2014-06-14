@@ -1,0 +1,10 @@
+<map id="CPN::SimpleQueueAttr::SetWriterNodeKey" name="CPN::SimpleQueueAttr::SetWriterNodeKey">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a27d586d93c5da87d93d0e965634792c9" title="Create a new queue. " alt="" coords="222,16,413,43"/>
+<area shape="rect" id="node6" href="$namespaceCPN.html#a307a6afdb5628c6937ff31040899abe5" title="CPN::MsgToQueueAttr" alt="" coords="235,71,399,97"/>
+<area shape="rect" id="node3" href="$classCPN_1_1VariantCPNLoader.html#a6ad683d702007c1bdd3afb6592d1b566" title="CPN::VariantCPNLoader\l::LoadQueue" alt="" coords="471,5,646,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1VariantCPNLoader.html#af4e1545d3095a8fb9078fb9bb67b82e3" title="CPN::VariantCPNLoader\l::LoadQueues" alt="" coords="705,5,879,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1VariantCPNLoader.html#af48f89d421e8df5eac478355ce75fddd" title="CPN::VariantCPNLoader\l::Setup" alt="" coords="929,5,1103,46"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteContextClient.html#a8f7ce191887665b2fdacd983697a3494" title="CPN::RemoteContextClient\l::DispatchMessage" alt="" coords="462,70,655,111"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="713,70,871,111"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="937,70,1095,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CPN::LocalContext::WaitForNodeStart" name="CPN::LocalContext::WaitForNodeStart">
+<area shape="rect" id="node2" href="$classCPN_1_1LocalContext.html#a95b62cd708c546d249c9e2cc0d764df0" title="CPN::LocalContext::\lInternalCheckTerminated" alt="" coords="203,5,386,46"/>
+<area shape="rect" id="node3" href="$classPthreadCondition.html#ab99fbf92eab7af6061f92fd710267969" title="PthreadCondition::Wait" alt="" coords="211,71,378,97"/>
+<area shape="rect" id="node4" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="435,63,589,105"/>
+</map>

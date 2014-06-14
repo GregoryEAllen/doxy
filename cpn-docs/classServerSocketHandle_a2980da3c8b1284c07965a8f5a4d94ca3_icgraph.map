@@ -1,0 +1,6 @@
+<map id="ServerSocketHandle::Accept" name="ServerSocketHandle::Accept">
+<area shape="rect" id="node2" href="$classServerSocketHandle.html#ad907bb5e33ee8c2c78009923b4ef9e7c" title="ServerSocketHandle\l::Accept" alt="" coords="238,5,391,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextDaemon.html#a80c834a7b6981f2afe3bb539b9b75cf7" title="CPN::RemoteContextDaemon\l::Read" alt="" coords="209,70,421,111"/>
+<area shape="rect" id="node3" href="$classCPN_1_1ConnectionServer.html#aa5f4cfc5b8de2c7d4adcdcd2f0dc8b53" title="CPN::ConnectionServer\l::Poll" alt="" coords="507,5,677,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextDaemon.html#a8add5c7cab7a499503c0d0d8f867aa93" title="Run the actual Context returns when the context is terminated and all clients have disconnected..." alt="" coords="470,77,714,104"/>
+</map>

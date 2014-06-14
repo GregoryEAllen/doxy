@@ -1,0 +1,21 @@
+<map id="CPN::Kernel::CreateQueue" name="CPN::Kernel::CreateQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a509401fca8f9969cec02df01e878b841" title="CPN::Kernel::CreateLocal\lQueue" alt="" coords="272,134,453,175"/>
+<area shape="rect" id="node4" href="$classCPN_1_1SimpleQueueAttr.html#a8bad07ddfcfcf02f8b807dc78c3186d9" title="CPN::SimpleQueueAttr\l::GetReaderNodeKey" alt="" coords="550,18,717,59"/>
+<area shape="rect" id="node5" href="$classCPN_1_1SimpleQueueAttr.html#abafe1577119c6b9bcf7a6aef9b642960" title="CPN::SimpleQueueAttr\l::GetWriterNodeKey" alt="" coords="550,251,717,293"/>
+<area shape="rect" id="node7" href="$classCPN_1_1Kernel.html#a75ed5d80a06d6861ff7ac69694ef365b" title="CPN::Kernel::CreateReader\lEndpoint" alt="" coords="266,69,459,110"/>
+<area shape="rect" id="node9" href="$classCPN_1_1Kernel.html#a9ae0566d6f67ee6d5dd69ad80ba399ae" title="CPN::Kernel::CreateWriter\lEndpoint" alt="" coords="270,199,455,241"/>
+<area shape="rect" id="node10" href="$classCPN_1_1QueueAttr.html#a71cbe009f9ec7a477d139b92f77fb3d9" title="CPN::QueueAttr::GetName" alt="" coords="266,316,459,343"/>
+<area shape="rect" id="node11" href="$classCPN_1_1SimpleQueueAttr.html#ad6dbc0f18825f708ced4a6e49db368ee" title="CPN::SimpleQueueAttr\l::GetReaderKey" alt="" coords="279,367,446,409"/>
+<area shape="rect" id="node12" href="$classCPN_1_1QueueAttr.html#a12022adb0cbbe633dc8503355002e88e" title="CPN::QueueAttr::GetReaderNode" alt="" coords="246,433,479,460"/>
+<area shape="rect" id="node13" href="$classCPN_1_1QueueAttr.html#a754b354d04de4001d6bdc56efd08a6bc" title="CPN::QueueAttr::GetReaderPort" alt="" coords="250,484,475,511"/>
+<area shape="rect" id="node14" href="$classCPN_1_1SimpleQueueAttr.html#af38e20108b3c8f1b5fce6fe4bfce4db2" title="CPN::SimpleQueueAttr\l::GetWriterKey" alt="" coords="279,535,446,577"/>
+<area shape="rect" id="node15" href="$classCPN_1_1QueueAttr.html#ae653c5f131266096411f72e63bb4e37e" title="CPN::QueueAttr::GetWriterNode" alt="" coords="250,601,475,628"/>
+<area shape="rect" id="node16" href="$classCPN_1_1QueueAttr.html#aed0f8dbf89de4e9c92aa5e3872d37f74" title="CPN::QueueAttr::GetWriterPort" alt="" coords="254,652,471,679"/>
+<area shape="rect" id="node17" href="$classCPN_1_1SimpleQueueAttr.html#a15ef232ca7a2203b74fede80776a7d4f" title="CPN::SimpleQueueAttr\l::SetReaderKey" alt="" coords="279,703,446,745"/>
+<area shape="rect" id="node18" href="$classCPN_1_1SimpleQueueAttr.html#a77c5dfd3be53e1d4bbf7514e88fac904" title="CPN::SimpleQueueAttr\l::SetReaderNodeKey" alt="" coords="279,769,446,810"/>
+<area shape="rect" id="node19" href="$classCPN_1_1SimpleQueueAttr.html#a8749cedbc10d39cb0be213df2468afe6" title="CPN::SimpleQueueAttr\l::SetWriterKey" alt="" coords="279,834,446,875"/>
+<area shape="rect" id="node20" href="$classCPN_1_1SimpleQueueAttr.html#a4d76b1e313ede4e3fd6a197b2a4d7cc8" title="CPN::SimpleQueueAttr\l::SetWriterNodeKey" alt="" coords="279,899,446,941"/>
+<area shape="rect" id="node3" href="$classCPN_1_1SimpleQueueAttr.html#ad98d7de23dd688e7fb9671b5aac1f9a7" title="CPN::SimpleQueueAttr\l::GetHint" alt="" coords="550,186,717,227"/>
+<area shape="rect" id="node6" href="$namespaceCPN.html#a228bce00d5eb2153d3dbede1aac8fe1a" title="CPN::ParseQueueHintForMBS" alt="" coords="528,84,739,111"/>
+<area shape="rect" id="node8" href="$classAutoLock.html#ae9550f948e40ae013bc6fcf3437b3159" title="AutoLock::Unlock" alt="" coords="567,135,699,161"/>
+</map>

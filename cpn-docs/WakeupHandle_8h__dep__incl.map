@@ -1,0 +1,10 @@
+<map id="include/cpn/io/WakeupHandle.h" name="include/cpn/io/WakeupHandle.h">
+<area shape="rect" id="node2" href="$ConnectionServer_8h.html" title="lib/ConnectionServer.h" alt="" coords="222,80,388,107"/>
+<area shape="rect" id="node7" href="$WakeupHandle_8cc.html" title="lib/io/WakeupHandle.cc" alt="" coords="624,80,792,107"/>
+<area shape="rect" id="node8" href="$RemoteQueueHolder_8h.html" title="An object to hold references to RemoteQueues so they can continue to work after the node has gone awa..." alt="" coords="413,80,600,107"/>
+<area shape="rect" id="node3" href="$ConnectionServer_8cc.html" title="lib/ConnectionServer.cc" alt="" coords="5,155,176,181"/>
+<area shape="rect" id="node4" href="$Kernel_8cc.html" title="Implementation for kernel functions. " alt="" coords="201,155,300,181"/>
+<area shape="rect" id="node5" href="$RDMAQueue_8cc.html" title="lib/RDMAQueue.cc" alt="" coords="324,155,463,181"/>
+<area shape="rect" id="node6" href="$RemoteQueue_8cc.html" title="lib/RemoteQueue.cc" alt="" coords="487,155,637,181"/>
+<area shape="rect" id="node9" href="$RemoteQueueHolder_8cc.html" title="lib/RemoteQueueHolder.cc" alt="" coords="663,155,855,181"/>
+</map>

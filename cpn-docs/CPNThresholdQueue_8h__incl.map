@@ -1,0 +1,19 @@
+<map id="lib/CPNThresholdQueue.h" name="lib/CPNThresholdQueue.h">
+<area shape="rect" id="node3" href="$ThresholdQueueBase_8h.html" title="ThresholdQueueBase.h" alt="" coords="487,80,657,107"/>
+<area shape="rect" id="node5" href="$QueueBase_8h.html" title="Top Representations of generic queues for the CPN library. " alt="" coords="798,80,905,107"/>
+<area shape="rect" id="node4" href="$ThresholdQueueAttr_8h.html" title="ThresholdQueueAttr.h" alt="" coords="515,155,677,181"/>
+<area shape="rect" id="node6" href="$PthreadMutex_8h.html" title="cpn/threading/PthreadMutex.h" alt="" coords="1006,229,1220,256"/>
+<area shape="rect" id="node21" href="$PthreadCondition_8h.html" title="cpn/threading/PthreadCondition.h" alt="" coords="813,155,1048,181"/>
+<area shape="rect" id="node23" href="$D4RQueue_8h.html" title="cpn/d4r/D4RQueue.h" alt="" coords="1393,560,1548,587"/>
+<area shape="rect" id="node24" href="$Logger_8h.html" title="A very simple logging interface. " alt="" coords="105,312,239,339"/>
+<area shape="rect" id="node7" href="$common_8h.html" title="cpn/common.h" alt="" coords="682,635,800,661"/>
+<area shape="rect" id="node11" href="$PthreadDefs_8h.html" title="cpn/threading/PthreadDefs.h" alt="" coords="1012,485,1217,512"/>
+<area shape="rect" id="node14" href="$PthreadErrorHandler_8h.html" title="cpn/threading/PthreadError\lHandler.h" alt="" coords="752,395,947,437"/>
+<area shape="rect" id="node20" href="$PthreadMutexAttr_8h.html" title="cpn/threading/PthreadMutex\lAttr.h" alt="" coords="1005,305,1208,346"/>
+<area shape="rect" id="node15" href="$ErrnoException_8h.html" title="cpn/utils/ErrnoException.h" alt="" coords="751,485,937,512"/>
+<area shape="rect" id="node16" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="63,560,216,587"/>
+<area shape="rect" id="node22" href="$PthreadConditionAttr_8h.html" title="cpn/threading/PthreadCondition\lAttr.h" alt="" coords="604,305,828,346"/>
+<area shape="rect" id="node25" href="$ReentrantLock_8h.html" title="A reentrant lock implementation. " alt="" coords="327,403,545,429"/>
+<area shape="rect" id="node26" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="474,485,624,512"/>
+<area shape="rect" id="node27" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="210,485,397,512"/>
+</map>

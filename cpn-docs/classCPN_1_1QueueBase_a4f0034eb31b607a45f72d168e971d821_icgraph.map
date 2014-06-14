@@ -1,0 +1,5 @@
+<map id="CPN::QueueBase::InternalReset" name="CPN::QueueBase::InternalReset">
+<area shape="rect" id="node2" href="$classCPN_1_1ThresholdQueue.html#a672f03e8699ea0750c7219f6c6c96c57" title="CPN::ThresholdQueue\l::InternalReset" alt="" coords="247,5,409,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1QueueBase.html#ac5f173220602df4aafb9d585ac1f6a97" title="CPN::QueueBase::Reset" alt="" coords="241,71,415,97"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#afb120cdc934d0c2e0a2b266a2f408ad8" title="CPN::RemoteQueue::Internal\lReset" alt="" coords="464,5,669,46"/>
+</map>

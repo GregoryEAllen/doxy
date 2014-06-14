@@ -1,0 +1,7 @@
+<map id="CPN::RemoteQueue::ReadBlockPacket" name="CPN::RemoteQueue::ReadBlockPacket">
+<area shape="rect" id="node2" href="$classThresholdQueueBase.html#a19a2dc5a8e6cea9877bc6c9cfb3eef84" title="ThresholdQueueBase\l::Count" alt="" coords="301,5,459,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Packet.html#aa023bc087d7ab53513cc41b4760dda4b" title="CPN::Packet::Requested" alt="" coords="292,71,468,97"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#abeee628ce525dbe76f89316f85dfe99b" title="CPN::RemoteQueue::Update\lClock" alt="" coords="278,122,482,163"/>
+<area shape="rect" id="node5" href="$classCPN_1_1Packet.html#aa84df19667aaf4e177b9f6364aa703e3" title="CPN::Packet::WriteClock" alt="" coords="531,104,706,131"/>
+<area shape="rect" id="node6" href="$classCPN_1_1Packet.html#a186899edf7d0f415ce4ada4062eb1419" title="CPN::Packet::ReadClock" alt="" coords="531,155,706,181"/>
+</map>

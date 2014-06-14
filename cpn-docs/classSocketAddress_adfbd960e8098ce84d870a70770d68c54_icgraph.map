@@ -1,0 +1,8 @@
+<map id="SocketAddress::CreateIP" name="SocketAddress::CreateIP">
+<area shape="rect" id="node2" href="$classCPN_1_1ConnectionServer.html#ac44d20b3d3764fc5a3928acf8eab4b33" title="CPN::ConnectionServer\l::ConnectWriter" alt="" coords="237,5,408,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1Kernel.html#a0568a15f36131f587980ce2d67ad380a" title="CPN::Kernel::Kernel" alt="" coords="250,71,395,97"/>
+<area shape="rect" id="node6" href="$classCPN_1_1VariantCPNLoader.html#aeb57a9e3c3d86d3b32f20514fb9103fc" title="CPN::VariantCPNLoader\l::LoadContext" alt="" coords="235,122,410,163"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="459,5,682,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="731,5,938,46"/>
+<area shape="rect" id="node7" href="$classCPN_1_1VariantCPNLoader.html#a24d966084e0e803fd02bfe4d546451c5" title="CPN::VariantCPNLoader\l::GetKernelAttr" alt="" coords="483,122,658,163"/>
+</map>

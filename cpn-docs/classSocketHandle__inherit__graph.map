@@ -1,0 +1,5 @@
+<map id="SocketHandle" name="SocketHandle">
+<area shape="rect" id="node3" href="$classCPN_1_1ConnectionServer_1_1PendingConnection.html" title="CPN::ConnectionServer\l::PendingConnection" alt="" coords="5,155,176,197"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextDaemon_1_1Client.html" title="CPN::RemoteContextDaemon\l::Client" alt="" coords="201,155,412,197"/>
+<area shape="rect" id="node2" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="155,5,243,32"/>
+</map>

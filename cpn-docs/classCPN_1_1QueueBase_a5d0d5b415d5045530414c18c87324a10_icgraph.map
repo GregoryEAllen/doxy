@@ -1,0 +1,7 @@
+<map id="CPN::QueueBase::QueueLength" name="CPN::QueueBase::QueueLength">
+<area shape="rect" id="node2" href="$classCPN_1_1ThresholdQueue_1_1TQImpl.html#a270ceb9c20d5df43b781368e57678ef0" title="CPN::ThresholdQueue\l::TQImpl::Grow" alt="" coords="281,82,442,123"/>
+<area shape="rect" id="node3" href="$classCPN_1_1ThresholdQueue.html#ac31e76601a0261c0a66a2f39ce098066" title="CPN::ThresholdQueue\l::UnlockedGrow" alt="" coords="491,69,653,110"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#aafff7e59c0efd91fe91977898bd3c9b9" title="CPN::RemoteQueue::GrowPacket" alt="" coords="709,5,941,32"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#aa9212855a064fa3c9799033bc99702f3" title="CPN::RemoteQueue::UnlockedGrow" alt="" coords="701,141,949,168"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a220105f8533abaee8c95e15506b769d7" title="CPN::RemoteQueue::Enqueue\lPacket" alt="" coords="719,69,932,110"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CPN::RemoteContextServer::NewBroadcastMessage" name="CPN::RemoteContextServer::NewBroadcastMessage">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextServer.html#a6790d0649470a069ce3bb32d4263f98f" title="CPN::RemoteContextServer\l::SignalKernelEnd" alt="" coords="254,5,453,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextServer.html#a500c276f993cb745adc4cabe121c75ad" title="CPN::RemoteContextServer\l::SignalKernelStart" alt="" coords="254,70,453,111"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextServer.html#ac483939fa5a123eaa2e3185879da0984" title="CPN::RemoteContextServer\l::SignalNodeEnd" alt="" coords="254,135,453,177"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContextServer.html#a283c4408d685f9cb33271319b5d4ea6a" title="CPN::RemoteContextServer\l::SignalNodeStart" alt="" coords="254,201,453,242"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextServer.html#ab328f20abc011f7a041ead301834f1b7" title="Process the given message. " alt="" coords="502,103,701,145"/>
+</map>

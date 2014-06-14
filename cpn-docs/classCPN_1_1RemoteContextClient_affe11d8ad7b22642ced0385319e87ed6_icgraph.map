@@ -1,0 +1,6 @@
+<map id="CPN::RemoteContextClient::InternalTerminate" name="CPN::RemoteContextClient::InternalTerminate">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#a8f7ce191887665b2fdacd983697a3494" title="CPN::RemoteContextClient\l::DispatchMessage" alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextClient.html#a852b3423fb1d587f2a1f85a5f09c9c9e" title="Signal to the Context that the network is terminating. After this call most methods will throw a Shut..." alt="" coords="249,70,442,111"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="491,38,648,79"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="696,38,853,79"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CPN::SimpleQueueAttr::GetWriterKey" name="CPN::SimpleQueueAttr::GetWriterKey">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a27d586d93c5da87d93d0e965634792c9" title="Create a new queue. " alt="" coords="223,31,414,57"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContextClient.html#a34b91d47d6572156210da0a104597359" title="CPN::RemoteContextClient\l::SendQueueMsg" alt="" coords="222,118,415,159"/>
+<area shape="rect" id="node3" href="$classCPN_1_1VariantCPNLoader.html#a6ad683d702007c1bdd3afb6592d1b566" title="CPN::VariantCPNLoader\l::LoadQueue" alt="" coords="474,5,649,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1VariantCPNLoader.html#af4e1545d3095a8fb9078fb9bb67b82e3" title="CPN::VariantCPNLoader\l::LoadQueues" alt="" coords="707,5,882,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1VariantCPNLoader.html#af48f89d421e8df5eac478355ce75fddd" title="CPN::VariantCPNLoader\l::Setup" alt="" coords="931,5,1106,46"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteContextClient.html#aaf80f049483ebd9d2ef0672073076c9a" title="Tell a given kernel that it needs to create a queue write end. " alt="" coords="465,70,658,111"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteContextClient.html#ac4caac64c0d879d1c5b8a5fb1c6da8ea" title="Tell a given kernel that it needs to create a queue read end. " alt="" coords="465,135,658,177"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteContextClient.html#acc4294079152a5b6da8aa33740ea21bc" title="Tell a given kernel that it needs to create a queue. " alt="" coords="465,201,658,242"/>
+</map>

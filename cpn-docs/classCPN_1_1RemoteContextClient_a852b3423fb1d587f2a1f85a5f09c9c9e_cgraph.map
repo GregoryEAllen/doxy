@@ -1,0 +1,6 @@
+<map id="CPN::RemoteContextClient::Terminate" name="CPN::RemoteContextClient::Terminate">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#affe11d8ad7b22642ced0385319e87ed6" title="CPN::RemoteContextClient\l::InternalTerminate" alt="" coords="249,27,442,69"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextClient.html#ab02e707f278aa5348f9bba665e80f8f5" title="CPN::RemoteContextClient\l::SendMessage" alt="" coords="249,93,442,134"/>
+<area shape="rect" id="node3" href="$PthreadFunctional_8h.html#af9c4b70e3200c291008845f5c5744363" title="CreatePthreadFunctional" alt="" coords="498,5,678,32"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html#acf5d29b1bf21a0e8fd1231c21b26059d" title="CPN::RemoteContextClient\l::TerminateThread" alt="" coords="491,57,685,98"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="lib/RemoteContextClient.cc" name="lib/RemoteContextClient.cc">
+<area shape="rect" id="node3" href="$RemoteContextClient_8h.html" title="cpn/remote_context\l/RemoteContextClient.h" alt="" coords="870,155,1044,197"/>
+<area shape="rect" id="node13" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="953,592,1140,619"/>
+<area shape="rect" id="node30" href="$ErrnoException_8h.html" title="cpn/utils/ErrnoException.h" alt="" coords="1267,592,1453,619"/>
+<area shape="rect" id="node37" href="$KernelBase_8h.html" title="cpn/bits/KernelBase.h" alt="" coords="419,509,579,536"/>
+<area shape="rect" id="node38" href="$Exceptions_8h.html" title="The exceptions specified for the CPN network. " alt="" coords="747,592,877,619"/>
+<area shape="rect" id="node39" href="$AutoUnlock_8h.html" title="cpn/utils/AutoUnlock.h" alt="" coords="1587,163,1751,189"/>
+<area shape="rect" id="node40" href="$PthreadFunctional_8h.html" title="cpn/threading/PthreadFunctional.h" alt="" coords="2441,80,2681,107"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="cpn/common.h" alt="" coords="1478,741,1596,768"/>
+<area shape="rect" id="node8" href="$RCTXMT_8h.html" title="cpn/remote_context\l/RCTXMT.h" alt="" coords="1559,321,1709,362"/>
+<area shape="rect" id="node9" href="$Context_8h.html" title="The Context abstract data type. " alt="" coords="929,328,1039,355"/>
+<area shape="rect" id="node19" href="$QueueAttr_8h.html" title="Definition of the queue attributes. " alt="" coords="217,592,343,619"/>
+<area shape="rect" id="node23" href="$NodeAttr_8h.html" title="Definition for node attributes. " alt="" coords="458,592,576,619"/>
+<area shape="rect" id="node26" href="$PthreadMutex_8h.html" title="cpn/threading/PthreadMutex.h" alt="" coords="2191,328,2405,355"/>
+<area shape="rect" id="node33" href="$PthreadCondition_8h.html" title="cpn/threading/PthreadCondition.h" alt="" coords="2025,245,2260,272"/>
+<area shape="rect" id="node10" href="$Logger_8h.html" title="A very simple logging interface. " alt="" coords="910,419,1044,445"/>
+<area shape="rect" id="node11" href="$ReentrantLock_8h.html" title="A reentrant lock implementation. " alt="" coords="1120,509,1339,536"/>
+<area shape="rect" id="node12" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="1109,667,1259,693"/>
+<area shape="rect" id="node14" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="778,667,931,693"/>
+<area shape="rect" id="node20" href="$QueueDatatypes_8h.html" title="Defintions of and helper functions for queue datatypes. " alt="" coords="5,667,173,693"/>
+<area shape="rect" id="node27" href="$PthreadDefs_8h.html" title="cpn/threading/PthreadDefs.h" alt="" coords="2449,592,2655,619"/>
+<area shape="rect" id="node29" href="$PthreadErrorHandler_8h.html" title="cpn/threading/PthreadError\lHandler.h" alt="" coords="2101,502,2296,543"/>
+<area shape="rect" id="node32" href="$PthreadMutexAttr_8h.html" title="cpn/threading/PthreadMutex\lAttr.h" alt="" coords="2287,411,2489,453"/>
+<area shape="rect" id="node34" href="$PthreadConditionAttr_8h.html" title="cpn/threading/PthreadCondition\lAttr.h" alt="" coords="1887,411,2111,453"/>
+<area shape="rect" id="node41" href="$PthreadLib_8h.html" title="cpn/threading/PthreadLib.h" alt="" coords="2599,163,2793,189"/>
+<area shape="rect" id="node42" href="$PthreadBase_8h.html" title="cpn/threading/PthreadBase.h" alt="" coords="2817,328,3025,355"/>
+<area shape="rect" id="node43" href="$PthreadScheduleParam_8h.html" title="cpn/threading/PthreadSchedule\lParam.h" alt="" coords="3119,502,3341,543"/>
+<area shape="rect" id="node45" href="$PthreadAttr_8h.html" title="cpn/threading/PthreadAttr.h" alt="" coords="2957,419,3157,445"/>
+</map>

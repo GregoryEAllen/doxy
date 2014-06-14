@@ -1,0 +1,10 @@
+<map id="CPN::QueueBase::UnlockedNumChannels" name="CPN::QueueBase::UnlockedNumChannels">
+<area shape="rect" id="node2" href="$classCPN_1_1QueueBase.html#a89338c4b580556b441724c401ad31564" title="CPN::QueueBase::Internal\lFlush" alt="" coords="275,57,461,98"/>
+<area shape="rect" id="node5" href="$classCPN_1_1QueueBase.html#a4f0034eb31b607a45f72d168e971d821" title="CPN::QueueBase::Internal\lReset" alt="" coords="275,122,461,163"/>
+<area shape="rect" id="node9" href="$classCPN_1_1QueueBase.html#a099aa543489fee254054f61567846d85" title="CPN::QueueBase::NumChannels" alt="" coords="253,188,483,215"/>
+<area shape="rect" id="node3" href="$classCPN_1_1QueueBase.html#ac749454f433c23b5e3dc6c8def19c399" title="CPN::QueueBase::Flush" alt="" coords="547,5,719,32"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#ae726431ea792d2b70d08a6dde32f68f2" title="CPN::RemoteQueue::Internal\lFlush" alt="" coords="531,57,736,98"/>
+<area shape="rect" id="node6" href="$classCPN_1_1ThresholdQueue.html#a672f03e8699ea0750c7219f6c6c96c57" title="CPN::ThresholdQueue\l::InternalReset" alt="" coords="553,122,714,163"/>
+<area shape="rect" id="node8" href="$classCPN_1_1QueueBase.html#ac5f173220602df4aafb9d585ac1f6a97" title="CPN::QueueBase::Reset" alt="" coords="546,188,721,215"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#afb120cdc934d0c2e0a2b266a2f408ad8" title="CPN::RemoteQueue::Internal\lReset" alt="" coords="784,122,989,163"/>
+</map>

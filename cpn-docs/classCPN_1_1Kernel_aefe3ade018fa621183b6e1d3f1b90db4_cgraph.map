@@ -1,0 +1,5 @@
+<map id="CPN::Kernel::NotifyTerminate" name="CPN::Kernel::NotifyTerminate">
+<area shape="rect" id="node2" href="$classSync_1_1StatusHandler.html#a66106e5921756268ba983416f3308b42" title="Sync::StatusHandler\l::CompareAndPost" alt="" coords="279,5,433,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#a2a775de44401dad0b9800761b3cc996a" title="CPN::Kernel::SendWakeup" alt="" coords="262,71,450,97"/>
+<area shape="rect" id="node4" href="$classSync_1_1ReentrantCondition.html#a76e9e9197ae537c5c45a4a2c78e73bf6" title="Sync::ReentrantCondition\l::Signal" alt="" coords="499,63,683,105"/>
+</map>

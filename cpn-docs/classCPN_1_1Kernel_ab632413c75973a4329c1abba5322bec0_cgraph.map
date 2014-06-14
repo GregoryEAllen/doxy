@@ -1,0 +1,7 @@
+<map id="CPN::Kernel::LogState" name="CPN::Kernel::LogState">
+<area shape="rect" id="node2" href="$classLogger.html#ac25cb052d8f2be9a3be062d584cf23af" title="Logger::Error" alt="" coords="255,5,361,32"/>
+<area shape="rect" id="node6" href="$classSync_1_1StatusHandler.html#a05e5c957162c9472e3783744e022e458" title="Sync::StatusHandler::Get" alt="" coords="216,56,400,83"/>
+<area shape="rect" id="node3" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="449,5,557,32"/>
+<area shape="rect" id="node4" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="606,5,703,32"/>
+<area shape="rect" id="node5" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="752,5,893,32"/>
+</map>

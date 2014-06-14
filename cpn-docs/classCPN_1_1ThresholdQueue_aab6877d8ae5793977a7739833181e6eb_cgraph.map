@@ -1,0 +1,10 @@
+<map id="CPN::ThresholdQueue::InternalEnqueue" name="CPN::ThresholdQueue::InternalEnqueue">
+<area shape="rect" id="node2" href="$classThresholdQueueBase.html#a19a2dc5a8e6cea9877bc6c9cfb3eef84" title="ThresholdQueueBase\l::Count" alt="" coords="633,167,791,208"/>
+<area shape="rect" id="node3" href="$classThresholdQueueBase.html#a78754acc4fb8ef250e38b7dfdbef59ed" title="ThresholdQueueBase\l::Dequeue" alt="" coords="217,40,375,81"/>
+<area shape="rect" id="node4" href="$classThresholdQueueBase.html#aceb26824319619e1a97c617b46c5b3f2" title="ThresholdQueueBase\l::Enqueue" alt="" coords="217,105,375,147"/>
+<area shape="rect" id="node5" href="$classThresholdQueueBase.html#a8f55b751db4a06be257901422b2fb032" title="ThresholdQueueBase\l::GetRawDequeuePtr" alt="" coords="217,171,375,212"/>
+<area shape="rect" id="node6" href="$classThresholdQueueBase.html#ad30d3f9f0048ca2ec733d58cfb5ea85e" title="ThresholdQueueBase\l::MaxThreshold" alt="" coords="425,225,583,267"/>
+<area shape="rect" id="node7" href="$classThresholdQueueBase.html#a7461658339d5ccac0968e3a896217768" title="ThresholdQueueBase\l::GetRawEnqueuePtr" alt="" coords="217,288,375,329"/>
+<area shape="rect" id="node9" href="$classThresholdQueueBase.html#ad17d293988a1067539f82d34bf73b435" title="ThresholdQueueBase\l::NumChannels" alt="" coords="217,353,375,395"/>
+<area shape="rect" id="node8" href="$classThresholdQueueBase.html#a12db1ee24701f01563200e54804c07c0" title="ThresholdQueueBase\l::Freespace" alt="" coords="425,291,583,332"/>
+</map>

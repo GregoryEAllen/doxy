@@ -1,0 +1,8 @@
+<map id="FileHandle" name="FileHandle">
+<area shape="rect" id="node2" href="$classServerSocketHandle.html" title="ServerSocketHandle" alt="" coords="142,9,295,36"/>
+<area shape="rect" id="node4" href="$classSocketHandle.html" title="A FileHandle customized with some socket specific functionality and functions. " alt="" coords="163,64,274,91"/>
+<area shape="rect" id="node7" href="$classWakeupHandle.html" title="A convenience handle for event loops so that one can interrupt a Poll before it times out..." alt="" coords="160,115,277,141"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextDaemon.html" title="CPN::RemoteContextDaemon" alt="" coords="345,5,557,32"/>
+<area shape="rect" id="node5" href="$classCPN_1_1ConnectionServer_1_1PendingConnection.html" title="CPN::ConnectionServer\l::PendingConnection" alt="" coords="365,57,536,98"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContextDaemon_1_1Client.html" title="CPN::RemoteContextDaemon\l::Client" alt="" coords="345,122,557,163"/>
+</map>

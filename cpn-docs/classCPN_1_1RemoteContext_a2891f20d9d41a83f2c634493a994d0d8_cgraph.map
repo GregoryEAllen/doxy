@@ -1,0 +1,5 @@
+<map id="CPN::RemoteContext::~RemoteContext" name="CPN::RemoteContext::~RemoteContext">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContext.html#a05aa50f26296135397b6fabd673a0e69" title="CPN::RemoteContext\l::EndWrite" alt="" coords="211,5,368,46"/>
+<area shape="rect" id="node3" href="$classSocketHandle.html#a2c76e383e0b3e1b78c2cbae5244baf1d" title="Shutdown the write end of this socket. Any future attempt to write to this socket will fail..." alt="" coords="417,12,631,39"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="681,12,794,39"/>
+</map>

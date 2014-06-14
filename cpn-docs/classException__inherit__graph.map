@@ -1,0 +1,8 @@
+<map id="Exception" name="Exception">
+<area shape="rect" id="node3" href="$classAssertException.html" title="The exception thrown by the ASSERT macro. " alt="" coords="341,5,467,32"/>
+<area shape="rect" id="node4" href="$classCPN_1_1BrokenQueueException.html" title="An exception indicating that the node tried to write to a shutdown queue. " alt="" coords="301,56,507,83"/>
+<area shape="rect" id="node5" href="$classCPN_1_1ShutdownException.html" title="An exception indicating that the Kernel has shut down. " alt="" coords="313,107,495,133"/>
+<area shape="rect" id="node6" href="$classCPN_1_1TypeMismatchException.html" title="An exception indicating that there is a type mismatch in the queue. " alt="" coords="299,157,509,184"/>
+<area shape="rect" id="node7" href="$classErrnoException.html" title="ErrnoException" alt="" coords="345,208,463,235"/>
+<area shape="rect" id="node2" title="STL class. " alt="" coords="5,107,117,133"/>
+</map>

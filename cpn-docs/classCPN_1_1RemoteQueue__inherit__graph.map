@@ -1,0 +1,9 @@
+<map id="CPN::RemoteQueue" name="CPN::RemoteQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1ThresholdQueue.html" title="A version of the ThresholdQueue that provides the CPN Queue interface This queue implementation creat..." alt="" coords="5,155,165,181"/>
+<area shape="rect" id="node3" href="$classCPN_1_1QueueBase.html" title="The base class for all queues in the CPN library. " alt="" coords="20,80,151,107"/>
+<area shape="rect" id="node4" href="$classD4R_1_1QueueBase.html" title="D4R::QueueBase" alt="" coords="20,5,151,32"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueueBase.html" title="CPN::RemoteQueueBase" alt="" coords="191,155,372,181"/>
+<area shape="rect" id="node6" href="$classCPN_1_1PacketEncoder.html" title="CPN::PacketEncoder" alt="" coords="396,155,548,181"/>
+<area shape="rect" id="node7" href="$classCPN_1_1PacketDecoder.html" title="CPN::PacketDecoder" alt="" coords="572,155,727,181"/>
+<area shape="rect" id="node8" href="$classCPN_1_1PacketHandler.html" title="CPN::PacketHandler" alt="" coords="574,80,724,107"/>
+</map>

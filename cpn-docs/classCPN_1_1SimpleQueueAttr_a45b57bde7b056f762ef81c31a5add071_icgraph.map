@@ -1,0 +1,6 @@
+<map id="CPN::SimpleQueueAttr::SetMaxWriteThreshold" name="CPN::SimpleQueueAttr::SetMaxWriteThreshold">
+<area shape="rect" id="node2" href="$namespaceCPN.html#a307a6afdb5628c6937ff31040899abe5" title="CPN::MsgToQueueAttr" alt="" coords="227,12,391,39"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#a8f7ce191887665b2fdacd983697a3494" title="CPN::RemoteContextClient\l::DispatchMessage" alt="" coords="441,5,634,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="683,5,840,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="888,5,1045,46"/>
+</map>

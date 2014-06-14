@@ -1,0 +1,14 @@
+<map id="SocketAddress::Family" name="SocketAddress::Family">
+<area shape="rect" id="node2" href="$classSocketHandle.html#a263a349d0207eb027f3fde3446d946ad" title="SocketHandle::Connect" alt="" coords="247,20,419,47"/>
+<area shape="rect" id="node3" href="$classSocketAddress.html#adfbd960e8098ce84d870a70770d68c54" title="Return a list of valid socket address for the given service number or port number. " alt="" coords="243,71,423,97"/>
+<area shape="rect" id="node10" href="$classSocketAddress.html#a28382250ea8c84334fd35fa5e373f256" title="SocketAddress::GetServ" alt="" coords="244,121,423,148"/>
+<area shape="rect" id="node11" href="$classSocketAddress.html#a32508d0fa3708d9af033156527042c78" title="SocketAddress::GetType" alt="" coords="244,172,423,199"/>
+<area shape="rect" id="node12" href="$classServerSocketHandle.html#ac3152340fb35646be2666dfcd5ac832b" title="ServerSocketHandle\l::Listen" alt="" coords="257,223,410,265"/>
+<area shape="rect" id="node13" href="$classSocketAddress.html#a65bb88905bdd7427988979d68979af8a" title="SocketAddress::SocketAddress" alt="" coords="222,289,445,316"/>
+<area shape="rect" id="node4" href="$classCPN_1_1ConnectionServer.html#ac44d20b3d3764fc5a3928acf8eab4b33" title="CPN::ConnectionServer\l::ConnectWriter" alt="" coords="496,5,667,46"/>
+<area shape="rect" id="node7" href="$classCPN_1_1Kernel.html#a0568a15f36131f587980ce2d67ad380a" title="CPN::Kernel::Kernel" alt="" coords="509,71,654,97"/>
+<area shape="rect" id="node8" href="$classCPN_1_1VariantCPNLoader.html#aeb57a9e3c3d86d3b32f20514fb9103fc" title="CPN::VariantCPNLoader\l::LoadContext" alt="" coords="494,122,669,163"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="718,5,941,46"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="990,5,1197,46"/>
+<area shape="rect" id="node9" href="$classCPN_1_1VariantCPNLoader.html#a24d966084e0e803fd02bfe4d546451c5" title="CPN::VariantCPNLoader\l::GetKernelAttr" alt="" coords="742,122,917,163"/>
+</map>

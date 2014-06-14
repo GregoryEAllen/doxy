@@ -1,0 +1,6 @@
+<map id="CPN::Kernel::CreateLocalQueue" name="CPN::Kernel::CreateLocalQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1SimpleQueueAttr.html#ad98d7de23dd688e7fb9671b5aac1f9a7" title="CPN::SimpleQueueAttr\l::GetHint" alt="" coords="257,5,423,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1SimpleQueueAttr.html#a8bad07ddfcfcf02f8b807dc78c3186d9" title="CPN::SimpleQueueAttr\l::GetReaderNodeKey" alt="" coords="257,70,423,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1SimpleQueueAttr.html#abafe1577119c6b9bcf7a6aef9b642960" title="CPN::SimpleQueueAttr\l::GetWriterNodeKey" alt="" coords="257,135,423,177"/>
+<area shape="rect" id="node5" href="$namespaceCPN.html#a228bce00d5eb2153d3dbede1aac8fe1a" title="CPN::ParseQueueHintForMBS" alt="" coords="235,201,445,228"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="FileHandle::FD" name="FileHandle::FD">
+<area shape="rect" id="node2" href="$classServerSocketHandle.html#a362e719047087de6d14796a8b970cd29" title="ServerSocketHandle\l::Accept" alt="" coords="211,5,365,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextDaemon_1_1Client.html#a2a241e1bdea062fb6d05fafdffb1481b" title="CPN::RemoteContextDaemon\l::Client::Client" alt="" coords="473,114,685,155"/>
+<area shape="rect" id="node4" href="$classSocketHandle.html#a263a349d0207eb027f3fde3446d946ad" title="SocketHandle::Connect" alt="" coords="202,121,374,148"/>
+<area shape="rect" id="node5" href="$classCPN_1_1ConnectionServer.html#ac44d20b3d3764fc5a3928acf8eab4b33" title="CPN::ConnectionServer\l::ConnectWriter" alt="" coords="203,223,373,265"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="467,879,690,921"/>
+<area shape="rect" id="node8" href="$classSocketHandle.html#a7cd7d14c26a21a091616d58c4ae513e1" title="Create a socket pair. " alt="" coords="195,289,381,316"/>
+<area shape="rect" id="node9" href="$classFileHandle.html#ad0ebb0619a5dce5d0f7beb3480e4d68c" title="Tell the OS to flush any buffers it has. May not be supported for all file types. ..." alt="" coords="223,340,353,367"/>
+<area shape="rect" id="node10" href="$classCPN_1_1ConnectionServer.html#a816dbb23c57bd37763f9e81e61e5e403" title="CPN::ConnectionServer\l::GetAddress" alt="" coords="203,391,373,433"/>
+<area shape="rect" id="node11" href="$classSocketHandle.html#af6b79c7472f69aa893232c3a9b669f63" title="SocketHandle::GetKeepAlive" alt="" coords="186,457,390,484"/>
+<area shape="rect" id="node12" href="$classSocketHandle.html#a6896b56afb4af3510f6572ec548d660b" title="SocketHandle::GetLingerTimeout" alt="" coords="171,508,405,535"/>
+<area shape="rect" id="node13" href="$classSocketHandle.html#a46bc1e045462bd7bd325384aa6c38ced" title="SocketHandle::GetNoDelay" alt="" coords="190,559,386,585"/>
+<area shape="rect" id="node14" href="$classSocketHandle.html#aadcab9a6d99b9624915ee693d2defe67" title="Get and clear any pending error. " alt="" coords="191,610,385,651"/>
+<area shape="rect" id="node15" href="$classSocketHandle.html#a5317f4df9a70fea8d18d963a72ab33f8" title="SocketHandle::GetReceive\lBufferSize" alt="" coords="193,675,383,717"/>
+<area shape="rect" id="node16" href="$classSocketHandle.html#a9a8b85f77c0953a12bf1bf56761e9b35" title="SocketHandle::GetReceive\lTimeout" alt="" coords="193,741,383,782"/>
+<area shape="rect" id="node17" href="$classSocketHandle.html#a85febc30136141386af8ea87274e1dcb" title="SocketHandle::GetSendBufferSize" alt="" coords="168,807,408,833"/>
+<area shape="rect" id="node18" href="$classSocketHandle.html#aaecad23d7ab2800f06fc4c10de2629d2" title="SocketHandle::GetSendTimeout" alt="" coords="175,857,401,884"/>
+<area shape="rect" id="node19" href="$classFileHandle.html#acdf56f330d3a7c589b4d4ffa06976f59" title="Test if the current file is in blocking or non blocking mode. " alt="" coords="209,908,367,935"/>
+<area shape="rect" id="node20" href="$classServerSocketHandle.html#ac3152340fb35646be2666dfcd5ac832b" title="ServerSocketHandle\l::Listen" alt="" coords="211,959,365,1001"/>
+<area shape="rect" id="node21" href="$classFileHandle.html#a18b6cc4b2f1bb88ab91e44c633cf7a26" title="poll a list of FileHandles for any activity and call the appropriate On method. " alt="" coords="229,1076,347,1103"/>
+<area shape="rect" id="node26" href="$classCPN_1_1RemoteContextDaemon.html#a8add5c7cab7a499503c0d0d8f867aa93" title="Run the actual Context returns when the context is terminated and all clients have disconnected..." alt="" coords="457,1127,701,1153"/>
+<area shape="rect" id="node27" href="$classFileHandle.html#a737fbf86201731890c7248546e4f42b2" title="Manipulate how the current file handles blocking. " alt="" coords="203,1177,373,1204"/>
+<area shape="rect" id="node28" href="$classWakeupHandle.html#a6ac3baee200a53440bb91dea555ba04b" title="WakeupHandle::WakeupHandle" alt="" coords="469,1253,689,1280"/>
+<area shape="rect" id="node29" href="$classSocketHandle.html#aadaf701a6cad1bd6cf695b4fa41d0271" title="SocketHandle::SetKeepAlive" alt="" coords="187,1228,389,1255"/>
+<area shape="rect" id="node30" href="$classSocketHandle.html#a39777243eb25a7571c85eb35d5837e99" title="Set the linger socket options. " alt="" coords="172,1279,404,1305"/>
+<area shape="rect" id="node31" href="$classSocketHandle.html#ae43ed4a359fb2c4e3e500c01f340137e" title="SocketHandle::SetNoDelay" alt="" coords="191,172,385,199"/>
+<area shape="rect" id="node32" href="$classSocketHandle.html#aac47f828b855af99c820255ab391aaf5" title="SocketHandle::SetReceive\lBufferSize" alt="" coords="193,1381,383,1422"/>
+<area shape="rect" id="node33" href="$classSocketHandle.html#ad09760e269d16f274caf37ac138bfe38" title="SocketHandle::SetReceive\lTimeout" alt="" coords="193,1446,383,1487"/>
+<area shape="rect" id="node34" href="$classSocketHandle.html#a5d63199a707ef328174e6f49a4bc960f" title="SocketHandle::SetSendBufferSize" alt="" coords="169,1512,407,1539"/>
+<area shape="rect" id="node35" href="$classSocketHandle.html#a29b113109304e26e5d2da914237d1bee" title="SocketHandle::SetSendTimeout" alt="" coords="175,1563,401,1589"/>
+<area shape="rect" id="node36" href="$classSocketHandle.html#a47d3ea17091e68eb0f0b43b21b0ed12c" title="Shutdown the read end of this socket. This does NOT close the socket! Any future attempt to read from..." alt="" coords="181,1613,395,1640"/>
+<area shape="rect" id="node37" href="$classSocketHandle.html#a2c76e383e0b3e1b78c2cbae5244baf1d" title="Shutdown the write end of this socket. Any future attempt to write to this socket will fail..." alt="" coords="181,1664,395,1691"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1249,1066,1455,1107"/>
+<area shape="rect" id="node22" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="500,945,657,986"/>
+<area shape="rect" id="node24" href="$classCPN_1_1ConnectionServer.html#aa5f4cfc5b8de2c7d4adcdcd2f0dc8b53" title="CPN::ConnectionServer\l::Poll" alt="" coords="493,1010,664,1051"/>
+<area shape="rect" id="node25" href="$classFileHandle.html#ac853b111efc8cd5d9ea6bb8fd6fdacb0" title="FileHandle::Poll" alt="" coords="519,1076,638,1103"/>
+<area shape="rect" id="node23" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="773,943,931,985"/>
+<area shape="rect" id="node38" href="$classCPN_1_1RemoteContext.html#a05aa50f26296135397b6fabd673a0e69" title="CPN::RemoteContext\l::EndWrite" alt="" coords="500,1689,657,1730"/>
+<area shape="rect" id="node40" href="$classCPN_1_1RemoteQueue.html#a501e5a5f8d041357fd1adaf52a69f51d" title="CPN::RemoteQueue::SendEnd\lOfReadPacket" alt="" coords="471,1623,686,1665"/>
+<area shape="rect" id="node43" href="$classCPN_1_1RemoteQueue.html#a43ead825ed41004fd23bcb5568a44fe5" title="CPN::RemoteQueue::SendEnd\lOfWritePacket" alt="" coords="471,1558,686,1599"/>
+<area shape="rect" id="node39" href="$classCPN_1_1RemoteContext.html#a2891f20d9d41a83f2c634493a994d0d8" title="CPN::RemoteContext\l::~RemoteContext" alt="" coords="773,1689,931,1730"/>
+<area shape="rect" id="node41" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="749,1558,955,1599"/>
+<area shape="rect" id="node42" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="1003,1249,1200,1290"/>
+</map>

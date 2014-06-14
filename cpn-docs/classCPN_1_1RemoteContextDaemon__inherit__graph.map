@@ -1,0 +1,5 @@
+<map id="CPN::RemoteContextDaemon" name="CPN::RemoteContextDaemon">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextServer.html" title="the server for the remote context. " alt="" coords="5,80,203,107"/>
+<area shape="rect" id="node3" href="$classServerSocketHandle.html" title="ServerSocketHandle" alt="" coords="227,80,380,107"/>
+<area shape="rect" id="node4" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="260,5,348,32"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="lib/RemoteQueue.h" name="lib/RemoteQueue.h">
+<area shape="rect" id="node3" href="$RemoteQueueBase_8h.html" title="RemoteQueueBase.h" alt="" coords="2406,80,2564,107"/>
+<area shape="rect" id="node4" href="$CPNThresholdQueue_8h.html" title="Default threshold queue implementation. " alt="" coords="2216,80,2381,107"/>
+<area shape="rect" id="node31" href="$PacketDecoder_8h.html" title="PacketDecoder.h" alt="" coords="2640,155,2771,181"/>
+<area shape="rect" id="node34" href="$PacketEncoder_8h.html" title="PacketEncoder.h" alt="" coords="2070,155,2199,181"/>
+<area shape="rect" id="node36" href="$SocketHandle_8h.html" title="cpn/io/SocketHandle.h" alt="" coords="916,155,1081,181"/>
+<area shape="rect" id="node5" href="$ThresholdQueueBase_8h.html" title="ThresholdQueueBase.h" alt="" coords="2247,155,2417,181"/>
+<area shape="rect" id="node7" href="$QueueBase_8h.html" title="Top Representations of generic queues for the CPN library. " alt="" coords="1802,155,1909,181"/>
+<area shape="rect" id="node6" href="$ThresholdQueueAttr_8h.html" title="ThresholdQueueAttr.h" alt="" coords="2251,229,2413,256"/>
+<area shape="rect" id="node8" href="$PthreadMutex_8h.html" title="cpn/threading/PthreadMutex.h" alt="" coords="1363,304,1577,331"/>
+<area shape="rect" id="node23" href="$PthreadCondition_8h.html" title="cpn/threading/PthreadCondition.h" alt="" coords="1623,229,1859,256"/>
+<area shape="rect" id="node25" href="$D4RQueue_8h.html" title="cpn/d4r/D4RQueue.h" alt="" coords="747,635,901,661"/>
+<area shape="rect" id="node26" href="$Logger_8h.html" title="A very simple logging interface. " alt="" coords="2167,387,2301,413"/>
+<area shape="rect" id="node9" href="$common_8h.html" title="cpn/common.h" alt="" coords="1359,709,1477,736"/>
+<area shape="rect" id="node13" href="$PthreadDefs_8h.html" title="cpn/threading/PthreadDefs.h" alt="" coords="1667,560,1872,587"/>
+<area shape="rect" id="node16" href="$PthreadErrorHandler_8h.html" title="cpn/threading/PthreadError\lHandler.h" alt="" coords="1384,470,1579,511"/>
+<area shape="rect" id="node22" href="$PthreadMutexAttr_8h.html" title="cpn/threading/PthreadMutex\lAttr.h" alt="" coords="1243,379,1445,421"/>
+<area shape="rect" id="node17" href="$ErrnoException_8h.html" title="cpn/utils/ErrnoException.h" alt="" coords="1405,560,1592,587"/>
+<area shape="rect" id="node18" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="2201,635,2353,661"/>
+<area shape="rect" id="node24" href="$PthreadConditionAttr_8h.html" title="cpn/threading/PthreadCondition\lAttr.h" alt="" coords="1704,379,1928,421"/>
+<area shape="rect" id="node27" href="$ReentrantLock_8h.html" title="A reentrant lock implementation. " alt="" coords="1755,477,1973,504"/>
+<area shape="rect" id="node28" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="1230,560,1380,587"/>
+<area shape="rect" id="node29" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="2099,560,2287,587"/>
+<area shape="rect" id="node32" href="$PacketHeader_8h.html" title="Declarations of a generic binary packet format. " alt="" coords="2691,229,2815,256"/>
+<area shape="rect" id="node37" href="$FileHandle_8h.html" title="A class to make it easy to deal with file descriptors. " alt="" coords="986,229,1128,256"/>
+<area shape="rect" id="node41" href="$SocketAddress_8h.html" title="cpn/io/SocketAddress.h" alt="" coords="402,560,573,587"/>
+<area shape="rect" id="node38" href="$IteratorRef_8h.html" title="This allows the encapsulation of an arbitrary iterator of a specific type. This allows for non templa..." alt="" coords="563,635,721,661"/>
+</map>

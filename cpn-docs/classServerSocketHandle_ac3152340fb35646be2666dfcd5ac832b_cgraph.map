@@ -1,0 +1,6 @@
+<map id="ServerSocketHandle::Listen" name="ServerSocketHandle::Listen">
+<area shape="rect" id="node2" href="$classSocketAddress.html#a73b7ebe5b0527adcc051ea08d21ab140" title="SocketAddress::Family" alt="" coords="214,5,381,32"/>
+<area shape="rect" id="node3" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="241,56,354,83"/>
+<area shape="rect" id="node4" href="$classSocketAddress.html#a9100510b7c4c5454c9012f06da74b417" title="SocketAddress::GetAddr" alt="" coords="208,107,387,133"/>
+<area shape="rect" id="node5" href="$classSocketAddress.html#a76d096b153ca6e75e1a3e6c75e09a562" title="SocketAddress::GetLen" alt="" coords="211,157,383,184"/>
+</map>

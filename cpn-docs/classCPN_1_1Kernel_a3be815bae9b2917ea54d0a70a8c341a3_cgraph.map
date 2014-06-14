@@ -1,0 +1,9 @@
+<map id="CPN::Kernel::NodeTerminated" name="CPN::Kernel::NodeTerminated">
+<area shape="rect" id="node2" href="$classSync_1_1StatusHandler.html#a05e5c957162c9472e3783744e022e458" title="Sync::StatusHandler::Get" alt="" coords="269,5,453,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#a2a775de44401dad0b9800761b3cc996a" title="CPN::Kernel::SendWakeup" alt="" coords="267,56,455,83"/>
+<area shape="rect" id="node4" href="$classSync_1_1ReentrantCondition.html#a76e9e9197ae537c5c45a4a2c78e73bf6" title="Sync::ReentrantCondition\l::Signal" alt="" coords="504,70,688,111"/>
+<area shape="rect" id="node5" href="$classLogger.html#a10e3c0f647678365b77770cfc3ec151d" title="Logger::Warn" alt="" coords="308,157,415,184"/>
+<area shape="rect" id="node6" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="542,157,650,184"/>
+<area shape="rect" id="node7" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="737,157,834,184"/>
+<area shape="rect" id="node8" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="883,157,1024,184"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="lib/ConnectionServer.h" name="lib/ConnectionServer.h">
+<area shape="rect" id="node3" href="$ServerSocketHandle_8h.html" title="cpn/io/ServerSocketHandle.h" alt="" coords="602,80,808,107"/>
+<area shape="rect" id="node9" href="$PthreadMutex_8h.html" title="cpn/threading/PthreadMutex.h" alt="" coords="1155,229,1369,256"/>
+<area shape="rect" id="node31" href="$SocketHandle_8h.html" title="cpn/io/SocketHandle.h" alt="" coords="833,80,999,107"/>
+<area shape="rect" id="node32" href="$WakeupHandle_8h.html" title="cpn/io/WakeupHandle.h" alt="" coords="1023,80,1193,107"/>
+<area shape="rect" id="node33" href="$Logger_8h.html" title="A very simple logging interface. " alt="" coords="2230,312,2364,339"/>
+<area shape="rect" id="node37" href="$Future_8h.html" title="cpn/threading/Future.h" alt="" coords="1645,80,1811,107"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="cpn/common.h" alt="" coords="1199,635,1317,661"/>
+<area shape="rect" id="node8" href="$FileHandle_8h.html" title="A class to make it easy to deal with file descriptors. " alt="" coords="819,155,961,181"/>
+<area shape="rect" id="node25" href="$SocketAddress_8h.html" title="cpn/io/SocketAddress.h" alt="" coords="462,485,633,512"/>
+<area shape="rect" id="node20" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="1793,485,1943,512"/>
+<area shape="rect" id="node21" href="$IteratorRef_8h.html" title="This allows the encapsulation of an arbitrary iterator of a specific type. This allows for non templa..." alt="" coords="563,560,721,587"/>
+<area shape="rect" id="node10" href="$PthreadDefs_8h.html" title="cpn/threading/PthreadDefs.h" alt="" coords="1461,485,1667,512"/>
+<area shape="rect" id="node13" href="$PthreadErrorHandler_8h.html" title="cpn/threading/PthreadError\lHandler.h" alt="" coords="1264,395,1459,437"/>
+<area shape="rect" id="node19" href="$PthreadMutexAttr_8h.html" title="cpn/threading/PthreadMutex\lAttr.h" alt="" coords="1139,305,1341,346"/>
+<area shape="rect" id="node14" href="$ErrnoException_8h.html" title="cpn/utils/ErrnoException.h" alt="" coords="1251,485,1437,512"/>
+<area shape="rect" id="node15" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="2251,560,2404,587"/>
+<area shape="rect" id="node34" href="$ReentrantLock_8h.html" title="A reentrant lock implementation. " alt="" coords="2019,403,2237,429"/>
+<area shape="rect" id="node35" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="2201,485,2388,512"/>
+<area shape="rect" id="node38" href="$PthreadCondition_8h.html" title="cpn/threading/PthreadCondition.h" alt="" coords="1610,155,1845,181"/>
+<area shape="rect" id="node39" href="$PthreadConditionAttr_8h.html" title="cpn/threading/PthreadCondition\lAttr.h" alt="" coords="1517,305,1741,346"/>
+</map>

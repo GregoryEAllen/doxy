@@ -1,0 +1,16 @@
+<map id="CPN::RemoteContextClient::SendCreateQueue" name="CPN::RemoteContextClient::SendCreateQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#a532214ac4caece6ef98de7b2b6b7a323" title="CPN::RemoteContextClient\l::InternalCheckTerminated" alt="" coords="249,299,442,341"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#a34b91d47d6572156210da0a104597359" title="CPN::RemoteContextClient\l::SendQueueMsg" alt="" coords="249,365,442,406"/>
+<area shape="rect" id="node4" href="$classCPN_1_1SimpleQueueAttr.html#ad98d7de23dd688e7fb9671b5aac1f9a7" title="CPN::SimpleQueueAttr\l::GetHint" alt="" coords="505,5,671,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1SimpleQueueAttr.html#a561dc6c3b8c8448c6a680813ecf23b12" title="CPN::SimpleQueueAttr\l::GetDatatype" alt="" coords="505,70,671,111"/>
+<area shape="rect" id="node6" href="$classCPN_1_1SimpleQueueAttr.html#a0c4e84ec46c68e8d3886f5103b108f01" title="CPN::SimpleQueueAttr\l::GetLength" alt="" coords="505,135,671,177"/>
+<area shape="rect" id="node7" href="$classCPN_1_1SimpleQueueAttr.html#a826299ee32439de595b3d084b00ad89d" title="CPN::SimpleQueueAttr\l::GetMaxThreshold" alt="" coords="505,201,671,242"/>
+<area shape="rect" id="node8" href="$classCPN_1_1SimpleQueueAttr.html#a62ad02dc2807ffd658f0b8d5c39c4be4" title="CPN::SimpleQueueAttr\l::GetNumChannels" alt="" coords="505,266,671,307"/>
+<area shape="rect" id="node9" href="$classCPN_1_1SimpleQueueAttr.html#ad6dbc0f18825f708ced4a6e49db368ee" title="CPN::SimpleQueueAttr\l::GetReaderKey" alt="" coords="505,331,671,373"/>
+<area shape="rect" id="node10" href="$classCPN_1_1SimpleQueueAttr.html#af38e20108b3c8f1b5fce6fe4bfce4db2" title="CPN::SimpleQueueAttr\l::GetWriterKey" alt="" coords="505,397,671,438"/>
+<area shape="rect" id="node11" href="$classCPN_1_1SimpleQueueAttr.html#a8bad07ddfcfcf02f8b807dc78c3186d9" title="CPN::SimpleQueueAttr\l::GetReaderNodeKey" alt="" coords="505,462,671,503"/>
+<area shape="rect" id="node12" href="$classCPN_1_1SimpleQueueAttr.html#abafe1577119c6b9bcf7a6aef9b642960" title="CPN::SimpleQueueAttr\l::GetWriterNodeKey" alt="" coords="505,527,671,569"/>
+<area shape="rect" id="node13" href="$classCPN_1_1SimpleQueueAttr.html#aeaa03fc96104d2084acfa385a643b4bd" title="CPN::SimpleQueueAttr\l::GetAlpha" alt="" coords="505,593,671,634"/>
+<area shape="rect" id="node14" href="$classCPN_1_1SimpleQueueAttr.html#abf108f9264347f00ab776c18f506dfcb" title="CPN::SimpleQueueAttr\l::GetMaxWriteThreshold" alt="" coords="501,658,675,699"/>
+<area shape="rect" id="node15" href="$classCPN_1_1RemoteContextClient.html#ab02e707f278aa5348f9bba665e80f8f5" title="CPN::RemoteContextClient\l::SendMessage" alt="" coords="491,723,685,765"/>
+</map>

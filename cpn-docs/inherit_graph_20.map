@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCPN_1_1QueueReleaser.html" title="CPN::QueueReleaser" alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$classCPN_1_1PseudoNode.html" title="CPN::PseudoNode" alt="" coords="208,31,347,57"/>
+<area shape="rect" id="node3" href="$classCPN_1_1ExternalEndpoint.html" title="CPN::ExternalEndpoint" alt="" coords="395,5,560,32"/>
+<area shape="rect" id="node4" href="$classCPN_1_1NodeBase.html" title="The definition common to all nodes in the process network. " alt="" coords="416,56,539,83"/>
+</map>

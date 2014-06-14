@@ -1,0 +1,14 @@
+<map id="CPN::RemoteQueue::GetState" name="CPN::RemoteQueue::GetState">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a7f664e99737bfa9ac6bd07cf3f7dde2d" title="CPN::RemoteQueue::ClockString" alt="" coords="269,5,499,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#aa98e3aa69954a9d523a6523caea5bc37" title="CPN::RemoteQueue::Unlocked\lCount" alt="" coords="547,42,763,83"/>
+<area shape="rect" id="node5" href="$classCPN_1_1ThresholdQueue.html#a6bfc81884335bbd41f65ec6d0acda729" title="CPN::ThresholdQueue\l::UnlockedFreespace" alt="" coords="303,107,465,149"/>
+<area shape="rect" id="node7" href="$classCPN_1_1ThresholdQueue.html#aa0c0938d93b61ce7dd8ffc76aeb74f97" title="CPN::ThresholdQueue\l::UnlockedMaxThreshold" alt="" coords="295,173,473,214"/>
+<area shape="rect" id="node9" href="$classCPN_1_1ThresholdQueue.html#a56743d8f3ff6bec28265acdcef5bd9ce" title="CPN::ThresholdQueue\l::UnlockedNumDequeued" alt="" coords="291,238,477,279"/>
+<area shape="rect" id="node11" href="$classCPN_1_1ThresholdQueue.html#a807f5ba9e2f9714fdd2d8540da259017" title="CPN::ThresholdQueue\l::UnlockedNumEnqueued" alt="" coords="292,303,476,345"/>
+<area shape="rect" id="node13" href="$classCPN_1_1RemoteQueue.html#a83b4b1c006245cf3eaa5a52bfbb6e4f3" title="CPN::RemoteQueue::Unlocked\lQueueLength" alt="" coords="276,369,492,410"/>
+<area shape="rect" id="node4" href="$classThresholdQueueBase.html#a19a2dc5a8e6cea9877bc6c9cfb3eef84" title="ThresholdQueueBase\l::Count" alt="" coords="811,75,970,117"/>
+<area shape="rect" id="node6" href="$classThresholdQueueBase.html#a12db1ee24701f01563200e54804c07c0" title="ThresholdQueueBase\l::Freespace" alt="" coords="575,107,734,149"/>
+<area shape="rect" id="node8" href="$classThresholdQueueBase.html#ad30d3f9f0048ca2ec733d58cfb5ea85e" title="ThresholdQueueBase\l::MaxThreshold" alt="" coords="575,173,734,214"/>
+<area shape="rect" id="node10" href="$classThresholdQueueBase.html#a9fe61d8d54950e88ae150a653706be40" title="ThresholdQueueBase\l::ElementsDequeued" alt="" coords="575,238,734,279"/>
+<area shape="rect" id="node12" href="$classThresholdQueueBase.html#a6b83282e9d538504908fb951a165ef31" title="ThresholdQueueBase\l::ElementsEnqueued" alt="" coords="575,303,734,345"/>
+</map>

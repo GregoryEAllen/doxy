@@ -1,0 +1,18 @@
+<map id="include/cpn/io/SocketAddress.h" name="include/cpn/io/SocketAddress.h">
+<area shape="rect" id="node2" href="$ServerSocketHandle_8h.html" title="include/cpn/io/ServerSocket\lHandle.h" alt="" coords="388,81,586,122"/>
+<area shape="rect" id="node7" href="$Kernel_8cc.html" title="Implementation for kernel functions. " alt="" coords="419,261,518,288"/>
+<area shape="rect" id="node11" href="$SocketHandle_8h.html" title="include/cpn/io/SocketHandle.h" alt="" coords="653,88,867,115"/>
+<area shape="rect" id="node17" href="$SocketAddress_8cc.html" title="lib/io/SocketAddress.cc" alt="" coords="892,88,1061,115"/>
+<area shape="rect" id="node3" href="$RemoteContextDaemon_8h.html" title="include/cpn/remote\l_context/RemoteContextDaemon.h" alt="" coords="279,171,527,213"/>
+<area shape="rect" id="node5" href="$ConnectionServer_8h.html" title="lib/ConnectionServer.h" alt="" coords="720,179,886,205"/>
+<area shape="rect" id="node10" href="$ServerSocketHandle_8cc.html" title="lib/io/ServerSocketHandle.cc" alt="" coords="51,179,254,205"/>
+<area shape="rect" id="node4" href="$RemoteContextDaemon_8cc.html" title="lib/RemoteContextDaemon.cc" alt="" coords="182,261,395,288"/>
+<area shape="rect" id="node6" href="$ConnectionServer_8cc.html" title="lib/ConnectionServer.cc" alt="" coords="717,261,889,288"/>
+<area shape="rect" id="node8" href="$RDMAQueue_8cc.html" title="lib/RDMAQueue.cc" alt="" coords="914,261,1053,288"/>
+<area shape="rect" id="node9" href="$RemoteQueue_8cc.html" title="lib/RemoteQueue.cc" alt="" coords="543,261,693,288"/>
+<area shape="rect" id="node12" href="$RemoteContext_8h.html" title="include/cpn/remote\l_context/RemoteContext.h" alt="" coords="1041,171,1234,213"/>
+<area shape="rect" id="node15" href="$SocketHandle_8cc.html" title="lib/io/SocketHandle.cc" alt="" coords="1259,179,1422,205"/>
+<area shape="rect" id="node16" href="$RemoteQueue_8h.html" title="lib/RemoteQueue.h" alt="" coords="551,179,695,205"/>
+<area shape="rect" id="node13" href="$RemoteContext_8cc.html" title="lib/RemoteContext.cc" alt="" coords="1276,261,1434,288"/>
+<area shape="rect" id="node14" href="$VariantCPNLoader_8cc.html" title="lib/VariantCPNLoader.cc" alt="" coords="1077,261,1251,288"/>
+</map>

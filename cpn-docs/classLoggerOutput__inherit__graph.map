@@ -1,0 +1,8 @@
+<map id="LoggerOutput" name="LoggerOutput">
+<area shape="rect" id="node2" href="$classCPN_1_1Context.html" title="The CPN::Context abstraction that holds all the global state for the process network. " alt="" coords="116,80,223,107"/>
+<area shape="rect" id="node6" href="$classLogger.html" title="Logger object that is used for forwarding log messages. " alt="" coords="247,80,313,107"/>
+<area shape="rect" id="node7" href="$classLoggerStdOutput.html" title="A LoggerOutput implementation that prints to stdout. " alt="" coords="338,80,469,107"/>
+<area shape="rect" id="node3" href="$classCPN_1_1LocalContext.html" title="A local implementation of the Context interface. " alt="" coords="5,155,144,181"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html" title="This abstract class is the remote context client. " alt="" coords="169,155,361,181"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContext.html" title="CPN::RemoteContext" alt="" coords="187,229,344,256"/>
+</map>

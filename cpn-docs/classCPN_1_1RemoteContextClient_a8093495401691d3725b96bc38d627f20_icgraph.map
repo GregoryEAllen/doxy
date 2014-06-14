@@ -1,0 +1,10 @@
+<map id="CPN::RemoteContextClient::GetEndpointInfo" name="CPN::RemoteContextClient::GetEndpointInfo">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#acb2b9081c805556dde3fa959c7e9d158" title="CPN::RemoteContextClient\l::GetReaderKernel" alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#a854e0b06ab2fe3ebd74ac54ae642f58c" title="CPN::RemoteContextClient\l::GetReaderName" alt="" coords="249,70,442,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html#af028a0b16d16bb85326fb87a982ffa9a" title="CPN::RemoteContextClient\l::GetReaderNode" alt="" coords="249,135,442,177"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextClient.html#ad81d133388100fd8a5df1996191707bc" title="CPN::RemoteContextClient\l::GetReadersWriter" alt="" coords="249,201,442,242"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContextClient.html#ad7d355c6bf5cd9a6f3b3bf2564341db3" title="CPN::RemoteContextClient\l::GetWriterKernel" alt="" coords="249,266,442,307"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteContextClient.html#a439c1b3288e3bac590c80254df5d150b" title="CPN::RemoteContextClient\l::GetWriterName" alt="" coords="249,331,442,373"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteContextClient.html#a2965482387991f7f479e0bece2d0905f" title="CPN::RemoteContextClient\l::GetWriterNode" alt="" coords="249,397,442,438"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteContextClient.html#a1519e4ee2bb4ed143bdebcdb45ecea71" title="CPN::RemoteContextClient\l::GetWritersReader" alt="" coords="249,462,442,503"/>
+</map>

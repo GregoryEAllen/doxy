@@ -1,0 +1,13 @@
+<map id="CPN::Packet::WriteClock" name="CPN::Packet::WriteClock">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#abeee628ce525dbe76f89316f85dfe99b" title="CPN::RemoteQueue::Update\lClock" alt="" coords="230,299,434,341"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#a220105f8533abaee8c95e15506b769d7" title="CPN::RemoteQueue::Enqueue\lPacket" alt="" coords="495,5,708,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#ab8bcd1d824759205e6d3d9bb43cccbe5" title="CPN::RemoteQueue::Dequeue\lPacket" alt="" coords="494,70,709,111"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a6897ebe18ce800126e14907d1de0f570" title="CPN::RemoteQueue::ReadBlock\lPacket" alt="" coords="490,135,713,177"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#ae329d82fac5f39e08e8065bbb292099c" title="CPN::RemoteQueue::WriteBlock\lPacket" alt="" coords="490,201,713,242"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#a20c03ccb948334f37bf43dc9fde32251" title="CPN::RemoteQueue::EndOfWrite\lPacket" alt="" coords="488,266,715,307"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#a9e73884b7f10c9d611ad9f55ca08464a" title="CPN::RemoteQueue::EndOfRead\lPacket" alt="" coords="488,331,715,373"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteQueue.html#aafff7e59c0efd91fe91977898bd3c9b9" title="CPN::RemoteQueue::GrowPacket" alt="" coords="485,397,717,424"/>
+<area shape="rect" id="node10" href="$classCPN_1_1RemoteQueue.html#a03077397a51caeeef041f3e7ac674d51" title="CPN::RemoteQueue::D4RTag\lPacket" alt="" coords="498,449,705,490"/>
+<area shape="rect" id="node11" href="$classCPN_1_1RemoteQueue.html#a44e54007ed91c3ca607cf91076317989" title="CPN::RemoteQueue::FlushPacket" alt="" coords="485,515,718,541"/>
+<area shape="rect" id="node12" href="$classCPN_1_1RemoteQueue.html#a0dc1957266c8586f71fd8260a1e829e8" title="CPN::RemoteQueue::ResetPacket" alt="" coords="483,565,719,592"/>
+</map>

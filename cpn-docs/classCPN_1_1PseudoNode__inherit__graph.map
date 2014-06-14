@@ -1,0 +1,5 @@
+<map id="CPN::PseudoNode" name="CPN::PseudoNode">
+<area shape="rect" id="node3" href="$classCPN_1_1ExternalEndpoint.html" title="CPN::ExternalEndpoint" alt="" coords="5,155,171,181"/>
+<area shape="rect" id="node4" href="$classCPN_1_1NodeBase.html" title="The definition common to all nodes in the process network. " alt="" coords="195,155,317,181"/>
+<area shape="rect" id="node2" href="$classCPN_1_1QueueReleaser.html" title="CPN::QueueReleaser" alt="" coords="95,5,249,32"/>
+</map>

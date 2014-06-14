@@ -1,0 +1,7 @@
+<map id="CPN::ThresholdQueue::InternalDequeue" name="CPN::ThresholdQueue::InternalDequeue">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#af19245ae4868725f61725958c6cc202a" title="CPN::RemoteQueue::Internal\lDequeue" alt="" coords="237,5,443,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#aeb9fc3c28b33f4a02404357c258daaa0" title="CPN::RemoteQueue::SendEnqueue\lPacket" alt="" coords="217,70,463,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="512,70,717,111"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="765,70,963,111"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1011,70,1218,111"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CPN::QueueBase::UnlockedNumDequeued" name="CPN::QueueBase::UnlockedNumDequeued">
+<area shape="rect" id="node2" href="$classCPN_1_1QueueBase.html#af34869c1a04d7acd241012efae5deced" title="For debugging ONLY!! Otherwise non deterministic output. " alt="" coords="273,12,471,39"/>
+<area shape="rect" id="node7" href="$classCPN_1_1QueueBase.html#a71f67157bbd66f198e755a91b8007f0a" title="CPN::QueueBase::NumDequeued" alt="" coords="254,63,490,89"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#a188c018a1307508024895aa33d8462be" title="For debug ONLY! " alt="" coords="539,12,754,39"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="803,5,1008,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="1056,5,1253,46"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1302,5,1509,46"/>
+</map>

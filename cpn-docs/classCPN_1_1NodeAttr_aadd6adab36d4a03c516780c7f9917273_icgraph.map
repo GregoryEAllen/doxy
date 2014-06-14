@@ -1,0 +1,6 @@
+<map id="CPN::NodeAttr::GetKernelKey" name="CPN::NodeAttr::GetKernelKey">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a1812530830eacb8696ac0d0c1ab1401e" title="CPN::Kernel::CreateNode" alt="" coords="265,12,447,39"/>
+<area shape="rect" id="node3" href="$classCPN_1_1VariantCPNLoader.html#ac21c1933edbf9761a188fd9c9adce1a5" title="CPN::VariantCPNLoader\l::LoadNode" alt="" coords="497,5,671,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1VariantCPNLoader.html#a5f67158b09d145710895e9a55e1c7259" title="CPN::VariantCPNLoader\l::LoadNodes" alt="" coords="721,5,895,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1VariantCPNLoader.html#af48f89d421e8df5eac478355ce75fddd" title="CPN::VariantCPNLoader\l::Setup" alt="" coords="945,5,1119,46"/>
+</map>

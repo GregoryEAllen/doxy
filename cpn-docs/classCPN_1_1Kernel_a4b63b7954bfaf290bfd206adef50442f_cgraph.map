@@ -1,0 +1,6 @@
+<map id="CPN::Kernel::~Kernel" name="CPN::Kernel::~Kernel">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a28ee2a9c98174628455cac2e1b5349b5" title="CPN::Kernel::Terminate" alt="" coords="211,5,381,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#ae5d14c70a749c8523ad70e5e266a6976" title="CPN::Kernel::Wait" alt="" coords="230,56,362,83"/>
+<area shape="rect" id="node4" href="$classSync_1_1StatusHandler.html#a05e5c957162c9472e3783744e022e458" title="Sync::StatusHandler::Get" alt="" coords="429,27,613,53"/>
+<area shape="rect" id="node5" href="$classSync_1_1StatusHandler.html#a64ba0a389b8c4fe2c6d9bfcf1dcedc6e" title="Sync::StatusHandler\l::CompareAndWait" alt="" coords="445,78,598,119"/>
+</map>

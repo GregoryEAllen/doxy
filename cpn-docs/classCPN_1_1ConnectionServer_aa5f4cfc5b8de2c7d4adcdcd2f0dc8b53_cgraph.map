@@ -1,0 +1,20 @@
+<map id="CPN::ConnectionServer::Poll" name="CPN::ConnectionServer::Poll">
+<area shape="rect" id="node2" href="$classServerSocketHandle.html#ad907bb5e33ee8c2c78009923b4ef9e7c" title="ServerSocketHandle\l::Accept" alt="" coords="226,30,379,71"/>
+<area shape="rect" id="node4" href="$classErrnoException.html#a075df1c5a8d3eda6e7e3bc47121fef7f" title="ErrnoException::Error" alt="" coords="224,121,381,148"/>
+<area shape="rect" id="node5" href="$classLogger.html#ac25cb052d8f2be9a3be062d584cf23af" title="Logger::Error" alt="" coords="250,172,355,199"/>
+<area shape="rect" id="node9" href="$classFileHandle.html#a18b6cc4b2f1bb88ab91e44c633cf7a26" title="poll a list of FileHandles for any activity and call the appropriate On method. " alt="" coords="243,223,362,249"/>
+<area shape="rect" id="node15" href="$classFileHandle.html#a26f62e8199a528cc90e0a328fa339443" title="Set that the file is currently readable or not. " alt="" coords="439,324,593,351"/>
+<area shape="rect" id="node17" href="$classWakeupHandle.html#afa463e067ac79aa4b32a0aa97fc06d1a" title="Read until not readable anymore. " alt="" coords="224,324,381,351"/>
+<area shape="rect" id="node19" href="$classErrnoException.html#a934ecdbc4001c2e6e9b88313be594401" title="ErrnoException::what" alt="" coords="225,375,381,401"/>
+<area shape="rect" id="node3" href="$classServerSocketHandle.html#a2980da3c8b1284c07965a8f5a4d94ca3" title="ServerSocketHandle\l::Accept" alt="" coords="439,5,593,46"/>
+<area shape="rect" id="node6" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="462,71,570,97"/>
+<area shape="rect" id="node7" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="679,71,777,97"/>
+<area shape="rect" id="node8" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="853,71,995,97"/>
+<area shape="rect" id="node10" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="459,121,573,148"/>
+<area shape="rect" id="node11" href="$classFileHandle.html#aff8cac9f35f0d8ef08a4583bc60a92a3" title="Called by Poll when it detects that the file is readable. " alt="" coords="429,223,603,249"/>
+<area shape="rect" id="node13" href="$classFileHandle.html#aabd8fdac6feed227c0d0a866d7b750e4" title="Called by Poll when it detects that the file is writeable. " alt="" coords="429,172,603,199"/>
+<area shape="rect" id="node16" href="$classFileHandle.html#ab1949dea354091b7d10940014aee8796" title="Set that this file is currently writeable or not. " alt="" coords="439,273,593,300"/>
+<area shape="rect" id="node12" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="651,299,805,325"/>
+<area shape="rect" id="node14" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="651,172,805,199"/>
+<area shape="rect" id="node18" href="$classFileHandle.html#a13febebf6f66694159bd9ddce927ac24" title="Read data from the file descriptor. " alt="" coords="452,375,580,401"/>
+</map>

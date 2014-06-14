@@ -1,0 +1,14 @@
+<map id="lib/io/WakeupHandle.cc" name="lib/io/WakeupHandle.cc">
+<area shape="rect" id="node3" href="$WakeupHandle_8h.html" title="cpn/io/WakeupHandle.h" alt="" coords="499,80,669,107"/>
+<area shape="rect" id="node14" href="$ErrnoException_8h.html" title="cpn/utils/ErrnoException.h" alt="" coords="780,485,967,512"/>
+<area shape="rect" id="node25" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="1042,485,1229,512"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="cpn/common.h" alt="" coords="387,635,505,661"/>
+<area shape="rect" id="node8" href="$FileHandle_8h.html" title="A class to make it easy to deal with file descriptors. " alt="" coords="321,155,463,181"/>
+<area shape="rect" id="node9" href="$PthreadMutex_8h.html" title="cpn/threading/PthreadMutex.h" alt="" coords="609,229,823,256"/>
+<area shape="rect" id="node20" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="301,312,451,339"/>
+<area shape="rect" id="node21" href="$IteratorRef_8h.html" title="This allows the encapsulation of an arbitrary iterator of a specific type. This allows for non templa..." alt="" coords="6,560,164,587"/>
+<area shape="rect" id="node10" href="$PthreadDefs_8h.html" title="cpn/threading/PthreadDefs.h" alt="" coords="449,485,655,512"/>
+<area shape="rect" id="node13" href="$PthreadErrorHandler_8h.html" title="cpn/threading/PthreadError\lHandler.h" alt="" coords="640,395,835,437"/>
+<area shape="rect" id="node19" href="$PthreadMutexAttr_8h.html" title="cpn/threading/PthreadMutex\lAttr.h" alt="" coords="476,305,679,346"/>
+<area shape="rect" id="node15" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="1075,560,1228,587"/>
+</map>

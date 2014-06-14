@@ -1,0 +1,5 @@
+<map id="D4R::QueueBase::ReadBlock" name="D4R::QueueBase::ReadBlock">
+<area shape="rect" id="node2" href="$classD4R_1_1QueueBase.html#ab5e5c5fb585a49bdfe6883258eee19c7" title="D4R::QueueBase::ReadBlocked" alt="" coords="259,5,479,32"/>
+<area shape="rect" id="node3" href="$classD4R_1_1QueueBase.html#aba5123543ffffd2852e4751c4a89cc2a" title="D4R::QueueBase::Signal" alt="" coords="281,56,458,83"/>
+<area shape="rect" id="node4" href="$classD4R_1_1QueueBase.html#afa6537f32d60f7ecc46bc9fc5b59e505" title="D4R::QueueBase::Wait" alt="" coords="287,107,452,133"/>
+</map>

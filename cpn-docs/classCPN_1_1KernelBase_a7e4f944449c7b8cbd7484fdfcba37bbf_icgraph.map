@@ -1,0 +1,6 @@
+<map id="CPN::KernelBase::RemoteCreateQueue" name="CPN::KernelBase::RemoteCreateQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#a8f7ce191887665b2fdacd983697a3494" title="CPN::RemoteContextClient\l::DispatchMessage" alt="" coords="286,5,479,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1LocalContext.html#a318fe73cefded94205606f1eae0ea86f" title="Tell a given kernel that it needs to create a queue. " alt="" coords="309,70,457,111"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="528,5,685,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="733,5,891,46"/>
+</map>

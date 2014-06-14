@@ -1,0 +1,5 @@
+<map id="CPN::RemoteContext::SendMessage" name="CPN::RemoteContext::SendMessage">
+<area shape="rect" id="node2" href="$classFileHandle.html#acc4c70826361f12e2968df41aa31cb81" title="FileHandle::Closed" alt="" coords="211,5,349,32"/>
+<area shape="rect" id="node3" href="$classFileHandle.html#aacccb55cfc45f233a12319f157b8fb68" title="Write data to the file descriptor. " alt="" coords="216,56,344,83"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="397,56,552,83"/>
+</map>

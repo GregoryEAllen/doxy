@@ -1,0 +1,9 @@
+<map id="D4R::QueueBase::ReadBlocked" name="D4R::QueueBase::ReadBlocked">
+<area shape="rect" id="node2" href="$classD4R_1_1QueueBase.html#a52810551b01bc61af61475fbf90c4acf" title="D4R::QueueBase::ReadBlock" alt="" coords="275,56,479,83"/>
+<area shape="rect" id="node3" href="$classCPN_1_1QueueBase.html#ad0b74a30e13286a1eb8553edf8ce5273" title="CPN::QueueBase::WaitForData" alt="" coords="529,56,746,83"/>
+<area shape="rect" id="node4" href="$classCPN_1_1QueueBase.html#a187761f1c484443f5d7f6cb73acfa603" title="CPN::QueueBase::GetRawDequeuePtr" alt="" coords="795,31,1058,57"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#ab2aac4b1e2afeec1c7e70f4b83d421cd" title="CPN::RemoteQueue::WaitForData" alt="" coords="809,81,1044,108"/>
+<area shape="rect" id="node5" href="$classCPN_1_1QueueBase.html#a161cadb9f60b2eb855c2f5712fefb9fe" title="CPN::QueueBase::Dequeue" alt="" coords="1107,5,1304,32"/>
+<area shape="rect" id="node6" href="$classCPN_1_1QueueBase.html#a617fcae989850ed7276337f11fc360fd" title="CPN::QueueBase::RawDequeue" alt="" coords="1353,31,1575,57"/>
+<area shape="rect" id="node7" href="$classCPN_1_1QueueBase.html#a4809757541e78c67a87babb95289f046" title="CPN::QueueBase::RawDequeue" alt="" coords="1625,31,1847,57"/>
+</map>

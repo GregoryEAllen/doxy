@@ -1,0 +1,9 @@
+<map id="CPN::RemoteQueueHolder" name="CPN::RemoteQueueHolder">
+<area shape="rect" id="node2" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="411,88,522,115"/>
+<area shape="rect" id="node12" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="721,228,809,255"/>
+<area shape="rect" id="node3" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="131,80,285,107"/>
+<area shape="rect" id="node6" href="$classPthreadCondition.html" title="PthreadCondition" alt="" coords="401,7,533,33"/>
+<area shape="rect" id="node4" href="$classint.html" title="int" alt="" coords="6,228,45,255"/>
+<area shape="rect" id="node11" href="$classWakeupHandle.html" title="A convenience handle for event loops so that one can interrupt a Poll before it times out..." alt="" coords="1052,239,1169,265"/>
+<area shape="rect" id="node13" href="$classbool.html" title="bool" alt="" coords="442,177,491,204"/>
+</map>

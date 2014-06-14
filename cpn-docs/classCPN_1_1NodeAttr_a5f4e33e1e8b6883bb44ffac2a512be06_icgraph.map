@@ -1,0 +1,9 @@
+<map id="CPN::NodeAttr::GetKey" name="CPN::NodeAttr::GetKey">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#aca59ea4824736b17d8d45720ac80b304" title="CPN::Kernel::InternalCreateNode" alt="" coords="225,37,455,64"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteContextClient.html#ae223d881b2c1752423a41cb8dbafb2d4" title="Tell a given kernel that it needs to create a node. " alt="" coords="243,89,437,130"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#a1812530830eacb8696ac0d0c1ab1401e" title="CPN::Kernel::CreateNode" alt="" coords="529,12,711,39"/>
+<area shape="rect" id="node7" href="$classCPN_1_1Kernel.html#a945b90693d376a02660d769f18655e15" title="CPN::Kernel::RemoteCreateNode" alt="" coords="504,63,736,89"/>
+<area shape="rect" id="node4" href="$classCPN_1_1VariantCPNLoader.html#ac21c1933edbf9761a188fd9c9adce1a5" title="CPN::VariantCPNLoader\l::LoadNode" alt="" coords="785,5,959,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1VariantCPNLoader.html#a5f67158b09d145710895e9a55e1c7259" title="CPN::VariantCPNLoader\l::LoadNodes" alt="" coords="1009,5,1183,46"/>
+<area shape="rect" id="node6" href="$classCPN_1_1VariantCPNLoader.html#af48f89d421e8df5eac478355ce75fddd" title="CPN::VariantCPNLoader\l::Setup" alt="" coords="1233,5,1407,46"/>
+</map>

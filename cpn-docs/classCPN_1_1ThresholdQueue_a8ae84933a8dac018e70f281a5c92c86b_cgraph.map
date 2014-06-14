@@ -1,0 +1,5 @@
+<map id="CPN::ThresholdQueue::ThresholdQueue" name="CPN::ThresholdQueue::ThresholdQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1SimpleQueueAttr.html#a0c4e84ec46c68e8d3886f5103b108f01" title="CPN::SimpleQueueAttr\l::GetLength" alt="" coords="217,5,383,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1SimpleQueueAttr.html#a826299ee32439de595b3d084b00ad89d" title="CPN::SimpleQueueAttr\l::GetMaxThreshold" alt="" coords="217,70,383,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1SimpleQueueAttr.html#a62ad02dc2807ffd658f0b8d5c39c4be4" title="CPN::SimpleQueueAttr\l::GetNumChannels" alt="" coords="217,135,383,177"/>
+</map>

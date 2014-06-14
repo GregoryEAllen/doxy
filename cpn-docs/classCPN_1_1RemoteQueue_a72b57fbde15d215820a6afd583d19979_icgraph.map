@@ -1,0 +1,7 @@
+<map id="CPN::RemoteQueue::UnlockedShutdown" name="CPN::RemoteQueue::UnlockedShutdown">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="277,7,483,49"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a1223495e8c0f875a1ed1179a92d5c97b" title="CPN::RemoteQueue::Shutdown" alt="" coords="270,75,490,101"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="552,5,749,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="811,38,1018,79"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="539,70,762,111"/>
+</map>

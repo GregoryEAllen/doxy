@@ -1,0 +1,3 @@
+<map id="FileHandle::~FileHandle" name="FileHandle::~FileHandle">
+<area shape="rect" id="node2" href="$classFileHandle.html#a5cd5b33f7f0274cd4d22d7c3c6b3ab19" title="Clear all internal state including the file descriptor! WARNING does not close the file! ..." alt="" coords="227,5,359,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="lib/KernelBase.cc" name="lib/KernelBase.cc">
+<area shape="rect" id="node3" href="$KernelBase_8h.html" title="cpn/bits/KernelBase.h" alt="" coords="509,80,669,107"/>
+<area shape="rect" id="node16" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="367,155,555,181"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="cpn/common.h" alt="" coords="445,304,563,331"/>
+<area shape="rect" id="node8" href="$QueueAttr_8h.html" title="Definition of the queue attributes. " alt="" coords="207,155,333,181"/>
+<area shape="rect" id="node13" href="$NodeAttr_8h.html" title="Definition for node attributes. " alt="" coords="631,229,749,256"/>
+<area shape="rect" id="node9" href="$QueueDatatypes_8h.html" title="Defintions of and helper functions for queue datatypes. " alt="" coords="55,229,224,256"/>
+<area shape="rect" id="node17" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="301,229,453,256"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PthreadAttr::ScheduleScope" name="PthreadAttr::ScheduleScope">
+<area shape="rect" id="node2" href="$classPthreadAttr.html#a93dc9bc70fec11b203f6995aef172f28" title="PthreadAttr::InProcessScope" alt="" coords="256,5,461,32"/>
+<area shape="rect" id="node3" href="$classPthreadAttr.html#a3948c1e0b7b0f200c6a092e09dceb010" title="PthreadAttr::InSystemScope" alt="" coords="257,56,461,83"/>
+<area shape="rect" id="node4" href="$classPthreadAttr.html#a452cc9077bb6a2f4454012807cba60c9" title="PthreadAttr::ProcessScope" alt="" coords="261,107,456,133"/>
+<area shape="rect" id="node5" href="$classPthreadAttr.html#a72d03241a41de598b2f8075be711e883" title="PthreadAttr::SystemScope" alt="" coords="262,157,455,184"/>
+<area shape="rect" id="node6" href="$classPthreadAttr.html#a18fe956d7a07f725f26daef6cadffa18" title="PthreadAttr::PthreadAttr" alt="" coords="509,157,688,184"/>
+</map>

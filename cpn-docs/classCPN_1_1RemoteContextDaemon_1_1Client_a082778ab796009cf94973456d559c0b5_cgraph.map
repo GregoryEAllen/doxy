@@ -1,0 +1,7 @@
+<map id="CPN::RemoteContextDaemon::Client::Send" name="CPN::RemoteContextDaemon::Client::Send">
+<area shape="rect" id="node2" href="$classFileHandle.html#acc4c70826361f12e2968df41aa31cb81" title="FileHandle::Closed" alt="" coords="276,5,415,32"/>
+<area shape="rect" id="node3" href="$classErrnoException.html#a075df1c5a8d3eda6e7e3bc47121fef7f" title="ErrnoException::Error" alt="" coords="267,56,424,83"/>
+<area shape="rect" id="node4" href="$classErrnoException.html#a934ecdbc4001c2e6e9b88313be594401" title="ErrnoException::what" alt="" coords="267,107,423,133"/>
+<area shape="rect" id="node5" href="$classFileHandle.html#aacccb55cfc45f233a12319f157b8fb68" title="Write data to the file descriptor. " alt="" coords="281,157,409,184"/>
+<area shape="rect" id="node6" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="472,157,627,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="include/cpn/bits/PseudoNode.h" name="include/cpn/bits/PseudoNode.h">
+<area shape="rect" id="node2" href="$common_8h.html" title="cpn/common.h" alt="" coords="322,379,440,405"/>
+<area shape="rect" id="node6" href="$QueueReleaser_8h.html" title="cpn/bits/QueueReleaser.h" alt="" coords="44,304,229,331"/>
+<area shape="rect" id="node7" href="$Logger_8h.html" title="A very simple logging interface. " alt="" coords="435,80,569,107"/>
+<area shape="rect" id="node8" href="$ReentrantLock_8h.html" title="A reentrant lock implementation. " alt="" coords="209,155,428,181"/>
+<area shape="rect" id="node9" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="306,304,456,331"/>
+<area shape="rect" id="node10" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="356,229,544,256"/>
+<area shape="rect" id="node11" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="583,304,736,331"/>
+</map>

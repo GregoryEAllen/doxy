@@ -1,0 +1,10 @@
+<map id="lib/RemoteQueueBase.h" name="lib/RemoteQueueBase.h">
+<area shape="rect" id="node2" href="$RemoteQueueHolder_8h.html" title="An object to hold references to RemoteQueues so they can continue to work after the node has gone awa..." alt="" coords="247,80,433,107"/>
+<area shape="rect" id="node7" href="$RemoteQueue_8h.html" title="lib/RemoteQueue.h" alt="" coords="79,80,223,107"/>
+<area shape="rect" id="node8" href="$RDMAQueue_8h.html" title="lib/RDMAQueue.h" alt="" coords="458,80,589,107"/>
+<area shape="rect" id="node9" href="$RemoteQueueBase_8cc.html" title="lib/RemoteQueueBase.cc" alt="" coords="614,80,796,107"/>
+<area shape="rect" id="node3" href="$Kernel_8cc.html" title="Implementation for kernel functions. " alt="" coords="396,155,495,181"/>
+<area shape="rect" id="node4" href="$RDMAQueue_8cc.html" title="lib/RDMAQueue.cc" alt="" coords="519,155,657,181"/>
+<area shape="rect" id="node5" href="$RemoteQueue_8cc.html" title="lib/RemoteQueue.cc" alt="" coords="5,155,155,181"/>
+<area shape="rect" id="node6" href="$RemoteQueueHolder_8cc.html" title="lib/RemoteQueueHolder.cc" alt="" coords="180,155,372,181"/>
+</map>

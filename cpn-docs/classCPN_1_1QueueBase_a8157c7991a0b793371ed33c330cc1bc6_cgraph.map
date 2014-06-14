@@ -1,0 +1,5 @@
+<map id="CPN::QueueBase::NotifyFreespace" name="CPN::QueueBase::NotifyFreespace">
+<area shape="rect" id="node2" href="$classPthreadCondition.html#af19e3e3f13f3b600b8705856c07f7480" title="PthreadCondition::Broadcast" alt="" coords="296,12,501,39"/>
+<area shape="rect" id="node4" href="$classCPN_1_1QueueBase.html#af59be783dd669efa40fc99f42d6b8d09" title="CPN::QueueBase::Unlocked\lFreespace" alt="" coords="299,63,498,105"/>
+<area shape="rect" id="node3" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="550,5,703,46"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ErrnoException::Error" name="ErrnoException::Error">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="239,5,396,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a613f967b3e920a83023201af47d3f35c" title="CPN::RemoteQueue::Handle\lError" alt="" coords="216,70,419,111"/>
+<area shape="rect" id="node9" href="$classCPN_1_1ConnectionServer.html#aa5f4cfc5b8de2c7d4adcdcd2f0dc8b53" title="CPN::ConnectionServer\l::Poll" alt="" coords="232,135,403,177"/>
+<area shape="rect" id="node10" href="$classCPN_1_1RemoteContextDaemon_1_1Client.html#ac38b07bc0f9e1a8e703a0c07170b03e1" title="CPN::RemoteContextDaemon\l::Client::Read" alt="" coords="211,201,423,242"/>
+<area shape="rect" id="node11" href="$classCPN_1_1RemoteContextDaemon_1_1Client.html#a082778ab796009cf94973456d559c0b5" title="CPN::RemoteContextDaemon\l::Client::Send" alt="" coords="211,266,423,307"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="496,5,653,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="726,65,949,106"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="472,127,677,169"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="998,98,1205,139"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="739,130,936,171"/>
+</map>

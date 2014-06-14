@@ -1,0 +1,5 @@
+<map id="SocketAddress::Lookup" name="SocketAddress::Lookup">
+<area shape="rect" id="node2" href="$classSocketAddress.html#a2c73b1a92c39a0c279e4b01c2bb6998c" title="SocketAddress::CreateIP" alt="" coords="258,5,438,32"/>
+<area shape="rect" id="node3" href="$classSocketAddress.html#a1f3ca4cedafcd876efe4c21ba3b72484" title="SocketAddress::CreateIPFromHost" alt="" coords="227,56,469,83"/>
+<area shape="rect" id="node4" href="$classSocketAddress.html#aca6419dcbd652230df7ef88954b11f4d" title="Return a list of valid socket addresses for the given service name All CreateIP functions create IP a..." alt="" coords="227,107,469,133"/>
+</map>

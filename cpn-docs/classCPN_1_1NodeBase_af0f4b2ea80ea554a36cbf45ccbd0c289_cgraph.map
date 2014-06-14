@@ -1,0 +1,4 @@
+<map id="CPN::NodeBase::Shutdown" name="CPN::NodeBase::Shutdown">
+<area shape="rect" id="node2" href="$classCPN_1_1PseudoNode.html#ad0af5e1d8f9085f7bc9ae72b43a07408" title="Perform actions (like joining a thread) before destruction. " alt="" coords="249,5,458,32"/>
+<area shape="rect" id="node3" href="$classAutoLock.html#ae9550f948e40ae013bc6fcf3437b3159" title="AutoLock::Unlock" alt="" coords="507,5,639,32"/>
+</map>

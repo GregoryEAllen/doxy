@@ -1,0 +1,8 @@
+<map id="CPN::Kernel::RemoteCreateNode" name="CPN::Kernel::RemoteCreateNode">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#aca59ea4824736b17d8d45720ac80b304" title="CPN::Kernel::InternalCreateNode" alt="" coords="286,107,517,133"/>
+<area shape="rect" id="node3" href="$classCPN_1_1NodeFactory.html#aa419a1a59d3c13ea06b3d715713d5283" title="CPN::NodeFactory::Create" alt="" coords="579,5,768,32"/>
+<area shape="rect" id="node4" href="$classSync_1_1StatusHandler.html#a05e5c957162c9472e3783744e022e458" title="Sync::StatusHandler::Get" alt="" coords="581,56,765,83"/>
+<area shape="rect" id="node5" href="$classCPN_1_1NodeAttr.html#a5f4e33e1e8b6883bb44ffac2a512be06" title="CPN::NodeAttr::GetKey" alt="" coords="589,107,758,133"/>
+<area shape="rect" id="node6" href="$classCPN_1_1Kernel.html#ad61f4b01a9c2456555d13d12ecd26755" title="Return a pointer to the node factory that produces the given node type. May load a shared library to ..." alt="" coords="569,157,778,184"/>
+<area shape="rect" id="node7" href="$classCPN_1_1NodeAttr.html#a1d1cefe2259e7e517e82f194c820370d" title="CPN::NodeAttr::GetTypeName" alt="" coords="566,208,781,235"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CPN::RemoteQueue::SendEndOfReadPacket" name="CPN::RemoteQueue::SendEndOfReadPacket">
+<area shape="rect" id="node2" href="$classLogger.html#a33460c453854c1a10b71051788cb097e" title="Logger::Debug" alt="" coords="331,5,447,32"/>
+<area shape="rect" id="node6" href="$classCPN_1_1PacketEncoder.html#ae6079a56cf4178378f0dd3f40d8d21cd" title="CPN::PacketEncoder\l::SendPacket" alt="" coords="313,57,465,98"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#a2788a3cc09f8bb100565c0976716ab55" title="CPN::RemoteQueue::SetupPacket" alt="" coords="270,123,509,149"/>
+<area shape="rect" id="node11" href="$classSocketHandle.html#a2c76e383e0b3e1b78c2cbae5244baf1d" title="Shutdown the write end of this socket. Any future attempt to write to this socket will fail..." alt="" coords="282,173,497,200"/>
+<area shape="rect" id="node13" href="$classErrnoException.html#a934ecdbc4001c2e6e9b88313be594401" title="ErrnoException::what" alt="" coords="311,224,467,251"/>
+<area shape="rect" id="node3" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="611,5,719,32"/>
+<area shape="rect" id="node4" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="822,5,919,32"/>
+<area shape="rect" id="node5" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="968,5,1109,32"/>
+<area shape="rect" id="node7" href="$classCPN_1_1PacketEncoder.html#aaea024675543cc427b55ac41eb6a45ee" title="CPN::PacketEncoder\l::WriteBytes" alt="" coords="589,57,741,98"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteQueue.html#a65f3df285b7da49e9e3c459200a553c6" title="CPN::RemoteQueue::TickClock" alt="" coords="558,123,773,149"/>
+<area shape="rect" id="node10" href="$classCPN_1_1Packet.html#a186899edf7d0f415ce4ada4062eb1419" title="CPN::Packet::ReadClock" alt="" coords="578,173,753,200"/>
+<area shape="rect" id="node12" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="609,224,722,251"/>
+</map>

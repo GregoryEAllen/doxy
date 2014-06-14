@@ -1,0 +1,7 @@
+<map id="Logger" name="Logger">
+<area shape="rect" id="node2" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="5,112,115,139"/>
+<area shape="rect" id="node3" href="$classSync_1_1ReentrantLock.html" title="Sync::ReentrantLock" alt="" coords="139,112,292,139"/>
+<area shape="rect" id="node5" href="$classint.html" title="int" alt="" coords="317,112,355,139"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="390,112,476,139"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="365,6,501,47"/>
+</map>

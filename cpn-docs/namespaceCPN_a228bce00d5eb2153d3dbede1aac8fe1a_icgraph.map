@@ -1,0 +1,12 @@
+<map id="CPN::ParseQueueHintForMBS" name="CPN::ParseQueueHintForMBS">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a509401fca8f9969cec02df01e878b841" title="CPN::Kernel::CreateLocal\lQueue" alt="" coords="271,97,452,138"/>
+<area shape="rect" id="node8" href="$classCPN_1_1Kernel.html#a75ed5d80a06d6861ff7ac69694ef365b" title="CPN::Kernel::CreateReader\lEndpoint" alt="" coords="265,31,458,73"/>
+<area shape="rect" id="node10" href="$classCPN_1_1Kernel.html#a9ae0566d6f67ee6d5dd69ad80ba399ae" title="CPN::Kernel::CreateWriter\lEndpoint" alt="" coords="269,162,454,203"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#a27d586d93c5da87d93d0e965634792c9" title="Create a new queue. " alt="" coords="511,71,702,97"/>
+<area shape="rect" id="node7" href="$classCPN_1_1Kernel.html#a2e549114def8b4a612d2f708c73a7da9" title="CPN::Kernel::RemoteCreate\lQueue" alt="" coords="507,122,706,163"/>
+<area shape="rect" id="node4" href="$classCPN_1_1VariantCPNLoader.html#a6ad683d702007c1bdd3afb6592d1b566" title="CPN::VariantCPNLoader\l::LoadQueue" alt="" coords="755,63,930,105"/>
+<area shape="rect" id="node5" href="$classCPN_1_1VariantCPNLoader.html#af4e1545d3095a8fb9078fb9bb67b82e3" title="CPN::VariantCPNLoader\l::LoadQueues" alt="" coords="979,63,1154,105"/>
+<area shape="rect" id="node6" href="$classCPN_1_1VariantCPNLoader.html#af48f89d421e8df5eac478355ce75fddd" title="CPN::VariantCPNLoader\l::Setup" alt="" coords="1203,63,1378,105"/>
+<area shape="rect" id="node9" href="$classCPN_1_1Kernel.html#a7bcc1245f9c384d0da57766484bdd3ef" title="CPN::Kernel::RemoteCreate\lReader" alt="" coords="507,5,706,46"/>
+<area shape="rect" id="node11" href="$classCPN_1_1Kernel.html#a9771467a44ce8bacc826f4ca7939c10d" title="CPN::Kernel::RemoteCreate\lWriter" alt="" coords="507,187,706,229"/>
+</map>

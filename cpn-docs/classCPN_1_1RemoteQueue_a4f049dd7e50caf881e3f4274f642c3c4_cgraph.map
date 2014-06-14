@@ -1,0 +1,8 @@
+<map id="CPN::RemoteQueue::SendD4RTagPacket" name="CPN::RemoteQueue::SendD4RTagPacket">
+<area shape="rect" id="node2" href="$classCPN_1_1Packet.html#a88f568c1fadf9369e03476f2c33de557" title="CPN::Packet::DataLength" alt="" coords="290,5,473,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1PacketEncoder.html#ae6079a56cf4178378f0dd3f40d8d21cd" title="CPN::PacketEncoder\l::SendPacket" alt="" coords="305,57,457,98"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a2788a3cc09f8bb100565c0976716ab55" title="CPN::RemoteQueue::SetupPacket" alt="" coords="262,123,501,149"/>
+<area shape="rect" id="node4" href="$classCPN_1_1PacketEncoder.html#aaea024675543cc427b55ac41eb6a45ee" title="CPN::PacketEncoder\l::WriteBytes" alt="" coords="581,57,733,98"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#a65f3df285b7da49e9e3c459200a553c6" title="CPN::RemoteQueue::TickClock" alt="" coords="550,123,765,149"/>
+<area shape="rect" id="node7" href="$classCPN_1_1Packet.html#a186899edf7d0f415ce4ada4062eb1419" title="CPN::Packet::ReadClock" alt="" coords="570,173,745,200"/>
+</map>

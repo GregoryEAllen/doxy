@@ -1,0 +1,7 @@
+<map id="include/cpn/IQueue.h" name="include/cpn/IQueue.h">
+<area shape="rect" id="node2" href="$common_8h.html" title="cpn/common.h" alt="" coords="172,229,290,256"/>
+<area shape="rect" id="node6" href="$QueueReader_8h.html" title="The definition of reader end of the queue. " alt="" coords="30,155,204,181"/>
+<area shape="rect" id="node8" href="$QueueDatatypes_8h.html" title="Defintions of and helper functions for queue datatypes. " alt="" coords="510,155,678,181"/>
+<area shape="rect" id="node11" href="$Exceptions_8h.html" title="The exceptions specified for the CPN network. " alt="" coords="234,80,365,107"/>
+<area shape="rect" id="node12" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="280,155,433,181"/>
+</map>

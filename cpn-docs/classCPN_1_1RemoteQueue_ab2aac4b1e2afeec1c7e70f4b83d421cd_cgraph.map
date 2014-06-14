@@ -1,0 +1,15 @@
+<map id="CPN::RemoteQueue::WaitForData" name="CPN::RemoteQueue::WaitForData">
+<area shape="rect" id="node2" href="$classCPN_1_1QueueBase.html#a7f976cd52a34b543d5a2fdd176b68f07" title="CPN::QueueBase::ReadBlocked" alt="" coords="555,65,776,92"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a1b0d369be386183f5c96bb0ef2600382" title="CPN::RemoteQueue::Signal" alt="" coords="299,15,495,41"/>
+<area shape="rect" id="node7" href="$classCPN_1_1QueueBase.html#a0c3463dae4781d62c98e591541a7c5f0" title="CPN::QueueBase::Wait" alt="" coords="314,116,481,143"/>
+<area shape="rect" id="node8" href="$classCPN_1_1QueueBase.html#ad0b74a30e13286a1eb8553edf8ce5273" title="CPN::QueueBase::WaitForData" alt="" coords="289,171,506,197"/>
+<area shape="rect" id="node3" href="$classCPN_1_1KernelBase.html#a88deb37eefb8d70e693a346a4b7a14dd" title="CPN::KernelBase::CheckTerminated" alt="" coords="825,5,1074,32"/>
+<area shape="rect" id="node4" href="$classCPN_1_1QueueBase.html#a83145a88a72c940157d32efd2fb152b3" title="CPN::QueueBase::Unlocked\lCount" alt="" coords="850,57,1049,98"/>
+<area shape="rect" id="node6" href="$classCPN_1_1QueueBase.html#a670adfb2b909576dc8f014359936238e" title="CPN::QueueBase::Signal" alt="" coords="576,15,755,41"/>
+<area shape="rect" id="node9" href="$classD4R_1_1QueueBase.html#a52810551b01bc61af61475fbf90c4acf" title="D4R::QueueBase::ReadBlock" alt="" coords="563,172,767,199"/>
+<area shape="rect" id="node13" href="$classPthreadCondition.html#ab99fbf92eab7af6061f92fd710267969" title="PthreadCondition::Wait" alt="" coords="582,252,749,279"/>
+<area shape="rect" id="node10" href="$classD4R_1_1QueueBase.html#ab5e5c5fb585a49bdfe6883258eee19c7" title="D4R::QueueBase::ReadBlocked" alt="" coords="839,123,1059,149"/>
+<area shape="rect" id="node11" href="$classD4R_1_1QueueBase.html#aba5123543ffffd2852e4751c4a89cc2a" title="D4R::QueueBase::Signal" alt="" coords="861,173,1038,200"/>
+<area shape="rect" id="node12" href="$classD4R_1_1QueueBase.html#afa6537f32d60f7ecc46bc9fc5b59e505" title="D4R::QueueBase::Wait" alt="" coords="867,224,1032,251"/>
+<area shape="rect" id="node14" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="873,275,1026,317"/>
+</map>

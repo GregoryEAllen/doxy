@@ -1,0 +1,5 @@
+<map id="Logger::Error" name="Logger::Error">
+<area shape="rect" id="node2" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="161,5,269,32"/>
+<area shape="rect" id="node3" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="318,5,415,32"/>
+<area shape="rect" id="node4" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="464,5,605,32"/>
+</map>

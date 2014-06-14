@@ -1,0 +1,6 @@
+<map id="include/cpn/Kernel.h" name="include/cpn/Kernel.h">
+<area shape="rect" id="node2" href="$VariantCPNLoader_8h.html" title="include/cpn/VariantCPNLoader.h" alt="" coords="5,80,232,107"/>
+<area shape="rect" id="node4" href="$Kernel_8cc.html" title="Implementation for kernel functions. " alt="" coords="256,80,355,107"/>
+<area shape="rect" id="node5" href="$NodeBase_8cc.html" title="Implementation for the NodeBase class. " alt="" coords="379,80,503,107"/>
+<area shape="rect" id="node3" href="$VariantCPNLoader_8cc.html" title="lib/VariantCPNLoader.cc" alt="" coords="31,155,205,181"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CPN::RemoteQueue::SendEndOfReadPacket" name="CPN::RemoteQueue::SendEndOfReadPacket">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="269,5,475,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="523,5,720,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="769,5,975,46"/>
+</map>

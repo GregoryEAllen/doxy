@@ -1,0 +1,5 @@
+<map id="CPN::RemoteQueue::WriteBytes" name="CPN::RemoteQueue::WriteBytes">
+<area shape="rect" id="node2" href="$classFileHandle.html#aacccb55cfc45f233a12319f157b8fb68" title="Write data to the file descriptor. " alt="" coords="284,5,412,32"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#ab90f4dabec3ebfdfcb54cd741d136bf6" title="scatter gather io version of Write " alt="" coords="281,56,415,83"/>
+<area shape="rect" id="node3" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="464,31,619,57"/>
+</map>

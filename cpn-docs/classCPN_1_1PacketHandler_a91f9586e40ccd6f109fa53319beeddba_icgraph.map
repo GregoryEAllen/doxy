@@ -1,0 +1,8 @@
+<map id="CPN::PacketHandler::IDWriterPacket" name="CPN::PacketHandler::IDWriterPacket">
+<area shape="rect" id="node2" href="$classCPN_1_1PacketHandler.html#a3abb2163e560cc7b473faa1fdf05e51c" title="CPN::PacketHandler\l::FirePacket" alt="" coords="206,5,357,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1PacketDecoder.html#a6b52ef17c136cb472e17078b3af36234" title="CPN::PacketDecoder\l::ReleaseDecoderBytes" alt="" coords="405,5,576,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a9dbdd9b58f33e3d0cdd5e0cd4327540f" title="CPN::RemoteQueue::Read" alt="" coords="624,12,813,39"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="861,5,1067,46"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="1115,5,1312,46"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1361,5,1567,46"/>
+</map>

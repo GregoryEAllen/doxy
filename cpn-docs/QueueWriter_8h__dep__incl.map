@@ -1,0 +1,5 @@
+<map id="include/cpn/bits/QueueWriter.h" name="include/cpn/bits/QueueWriter.h">
+<area shape="rect" id="node2" href="$OQueue_8h.html" title="Definition and implementation of an adaptor for the CPN QueueWriter. " alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$PseudoNode_8cc.html" title="lib/PseudoNode.cc" alt="" coords="192,80,331,107"/>
+<area shape="rect" id="node4" href="$QueueWriter_8cc.html" title="Implementation for the QueueWriter. " alt="" coords="355,80,492,107"/>
+</map>

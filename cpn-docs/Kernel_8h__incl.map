@@ -1,0 +1,16 @@
+<map id="include/cpn/Kernel.h" name="include/cpn/Kernel.h">
+<area shape="rect" id="node2" href="$common_8h.html" title="cpn/common.h" alt="" coords="1011,453,1129,480"/>
+<area shape="rect" id="node6" href="$KernelAttr_8h.html" title="Definition of the kernel attributes. " alt="" coords="857,304,983,331"/>
+<area shape="rect" id="node9" href="$NodeAttr_8h.html" title="Definition for node attributes. " alt="" coords="370,304,488,331"/>
+<area shape="rect" id="node12" href="$QueueAttr_8h.html" title="Definition of the queue attributes. " alt="" coords="219,304,345,331"/>
+<area shape="rect" id="node16" href="$KernelBase_8h.html" title="cpn/bits/KernelBase.h" alt="" coords="380,229,540,256"/>
+<area shape="rect" id="node17" href="$ReentrantLock_8h.html" title="A reentrant lock implementation. " alt="" coords="1356,229,1575,256"/>
+<area shape="rect" id="node23" href="$StatusHandler_8h.html" title="Declaration and implementation for the StatusHandler. " alt="" coords="1436,155,1655,181"/>
+<area shape="rect" id="node24" href="$Logger_8h.html" title="A very simple logging interface. " alt="" coords="1159,155,1293,181"/>
+<area shape="rect" id="node26" href="$Context_8h.html" title="The Context abstract data type. " alt="" coords="969,80,1079,107"/>
+<area shape="rect" id="node27" href="$NodeLoader_8h.html" title="cpn/bits/NodeLoader.h" alt="" coords="615,304,781,331"/>
+<area shape="rect" id="node13" href="$QueueDatatypes_8h.html" title="Defintions of and helper functions for queue datatypes. " alt="" coords="5,379,173,405"/>
+<area shape="rect" id="node18" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="1311,379,1461,405"/>
+<area shape="rect" id="node19" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="1503,304,1691,331"/>
+<area shape="rect" id="node20" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="1538,379,1691,405"/>
+</map>

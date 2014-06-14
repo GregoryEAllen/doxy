@@ -1,0 +1,10 @@
+<map id="ThresholdQueueBase::NumChannels" name="ThresholdQueueBase::NumChannels">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a220105f8533abaee8c95e15506b769d7" title="CPN::RemoteQueue::Enqueue\lPacket" alt="" coords="509,5,723,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1ThresholdQueue.html#aab6877d8ae5793977a7739833181e6eb" title="CPN::ThresholdQueue\l::InternalEnqueue" alt="" coords="257,69,418,110"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#aeb9fc3c28b33f4a02404357c258daaa0" title="CPN::RemoteQueue::SendEnqueue\lPacket" alt="" coords="214,134,461,175"/>
+<area shape="rect" id="node9" href="$classCPN_1_1ThresholdQueue.html#aa674e478cbf8f6426b6939a39ce8a6b8" title="CPN::ThresholdQueue\l::UnlockedNumChannels" alt="" coords="248,199,427,241"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#aa8f0bd50457b2ca44e58f55999061b48" title="CPN::RemoteQueue::Internal\lEnqueue" alt="" coords="513,70,719,111"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="513,135,719,177"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="771,135,968,177"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1017,135,1223,177"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="FileHandle::Readable" name="FileHandle::Readable">
+<area shape="rect" id="node2" href="$classServerSocketHandle.html#a362e719047087de6d14796a8b970cd29" title="ServerSocketHandle\l::Accept" alt="" coords="242,13,395,54"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextDaemon_1_1Client.html#a2a241e1bdea062fb6d05fafdffb1481b" title="CPN::RemoteContextDaemon\l::Client::Client" alt="" coords="213,78,425,119"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#aff8cac9f35f0d8ef08a4583bc60a92a3" title="Called by Poll when it detects that the file is readable. " alt="" coords="232,195,405,221"/>
+<area shape="rect" id="node12" href="$classCPN_1_1RemoteContextDaemon.html#a8add5c7cab7a499503c0d0d8f867aa93" title="Run the actual Context returns when the context is terminated and all clients have disconnected..." alt="" coords="739,304,983,331"/>
+<area shape="rect" id="node13" href="$classCPN_1_1RemoteContextDaemon.html#a80c834a7b6981f2afe3bb539b9b75cf7" title="CPN::RemoteContextDaemon\l::Read" alt="" coords="478,355,690,397"/>
+<area shape="rect" id="node14" href="$classFileHandle.html#a13febebf6f66694159bd9ddce927ac24" title="Read data from the file descriptor. " alt="" coords="255,245,383,272"/>
+<area shape="rect" id="node17" href="$classFileHandle.html#ab31588eee83a02a15bd47634505ba49a" title="scatter gather io version of Read " alt="" coords="251,405,386,432"/>
+<area shape="rect" id="node19" href="$classSocketHandle.html#a4e1defbf584b88e8be1a74bea54fac3a" title="SocketHandle::Recv" alt="" coords="244,144,393,171"/>
+<area shape="rect" id="node23" href="$classWakeupHandle.html#a6ac3baee200a53440bb91dea555ba04b" title="WakeupHandle::WakeupHandle" alt="" coords="209,456,429,483"/>
+<area shape="rect" id="node5" href="$classFileHandle.html#a18b6cc4b2f1bb88ab91e44c633cf7a26" title="poll a list of FileHandles for any activity and call the appropriate On method. " alt="" coords="525,136,643,163"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="783,70,940,111"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="1033,157,1255,198"/>
+<area shape="rect" id="node10" href="$classCPN_1_1ConnectionServer.html#aa5f4cfc5b8de2c7d4adcdcd2f0dc8b53" title="CPN::ConnectionServer\l::Poll" alt="" coords="776,238,947,279"/>
+<area shape="rect" id="node11" href="$classFileHandle.html#ac853b111efc8cd5d9ea6bb8fd6fdacb0" title="FileHandle::Poll" alt="" coords="802,136,921,163"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="1065,70,1223,111"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1305,81,1511,122"/>
+<area shape="rect" id="node15" href="$classCPN_1_1RemoteQueue.html#a03077397a51caeeef041f3e7ac674d51" title="CPN::RemoteQueue::D4RTag\lPacket" alt="" coords="481,238,687,279"/>
+<area shape="rect" id="node16" href="$classWakeupHandle.html#afa463e067ac79aa4b32a0aa97fc06d1a" title="Read until not readable anymore. " alt="" coords="505,187,663,213"/>
+<area shape="rect" id="node18" href="$classCPN_1_1RemoteQueue.html#a220105f8533abaee8c95e15506b769d7" title="CPN::RemoteQueue::Enqueue\lPacket" alt="" coords="477,421,691,462"/>
+<area shape="rect" id="node20" href="$classCPN_1_1RemoteQueue.html#a9dbdd9b58f33e3d0cdd5e0cd4327540f" title="CPN::RemoteQueue::Read" alt="" coords="489,19,679,45"/>
+<area shape="rect" id="node21" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="759,5,964,46"/>
+<area shape="rect" id="node22" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="1045,5,1243,46"/>
+</map>

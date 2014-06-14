@@ -1,0 +1,11 @@
+<map id="Sync::ReentrantCondition::Signal" name="Sync::ReentrantCondition::Signal">
+<area shape="rect" id="node2" href="$classCPN_1_1PseudoNode.html#a00adf1c36ed4fad6d7f533487bc48540" title="for use by the CPN::Kernel to create a new read endpoint. " alt="" coords="244,5,479,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1PseudoNode.html#a22c30816651f39c16605a65973b8c96f" title="for use by the CPN::Kernel to create a new writer endpoint. " alt="" coords="248,56,475,83"/>
+<area shape="rect" id="node4" href="$classCPN_1_1Kernel.html#a3be815bae9b2917ea54d0a70a8c341a3" title="Called by the node in the cleanup routine. TO BE CALLED ONLY BY THE CPN INTERNALS. " alt="" coords="534,132,746,159"/>
+<area shape="rect" id="node8" href="$classCPN_1_1PseudoNode.html#a8f3e9b6b0f5a278846973c10475fc3f7" title="Called by the kernel when it is shutting down. " alt="" coords="237,157,485,184"/>
+<area shape="rect" id="node9" href="$classCPN_1_1Kernel.html#a2a775de44401dad0b9800761b3cc996a" title="CPN::Kernel::SendWakeup" alt="" coords="267,208,455,235"/>
+<area shape="rect" id="node5" href="$classCPN_1_1Kernel.html#a156bee2381b1571d1fd879db38f3477c" title="CPN::Kernel::DestroyExternal\lEndpoint" alt="" coords="795,95,1002,137"/>
+<area shape="rect" id="node6" href="$classCPN_1_1NodeBase.html#a54d64beffef7c214abeebdfe8fb20ade" title="CPN::NodeBase::EntryPoint" alt="" coords="801,161,997,188"/>
+<area shape="rect" id="node7" href="$classCPN_1_1NodeBase.html#a1bdf0246d82eb6767aedfd3e12d9168e" title="CPN::NodeBase::NodeBase" alt="" coords="1051,161,1248,188"/>
+<area shape="rect" id="node10" href="$classCPN_1_1Kernel.html#aefe3ade018fa621183b6e1d3f1b90db4" title="CPN::Kernel::NotifyTerminate" alt="" coords="537,208,743,235"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="ThresholdQueueBase::Freespace" name="ThresholdQueueBase::Freespace">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a220105f8533abaee8c95e15506b769d7" title="CPN::RemoteQueue::Enqueue\lPacket" alt="" coords="747,252,960,294"/>
+<area shape="rect" id="node3" href="$classThresholdQueueBase.html#a32a904392805a18e3d87ba4c287e5921" title="ThresholdQueueBase\l::Full" alt="" coords="237,128,395,170"/>
+<area shape="rect" id="node5" href="$classThresholdQueueBase.html#a7461658339d5ccac0968e3a896217768" title="ThresholdQueueBase\l::GetRawEnqueuePtr" alt="" coords="237,223,395,264"/>
+<area shape="rect" id="node11" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="213,303,419,344"/>
+<area shape="rect" id="node14" href="$classCPN_1_1ThresholdQueue.html#a6bfc81884335bbd41f65ec6d0acda729" title="CPN::ThresholdQueue\l::UnlockedFreespace" alt="" coords="235,398,397,439"/>
+<area shape="rect" id="node4" href="$classCPN_1_1ThresholdQueue.html#a1059b6a1dbadefcc8185029aafeb51dd" title="CPN::ThresholdQueue\l::UnlockedFull" alt="" coords="502,70,663,111"/>
+<area shape="rect" id="node6" href="$classThresholdQueue.html#ab1cd1581b8b0f9487ae654d37e280e2b" title="ThresholdQueue::GetEnqueuePtr" alt="" coords="467,136,698,162"/>
+<area shape="rect" id="node7" href="$classThresholdQueueBase.html#a762f67529bb0c573a10095b6057b5b39" title="ThresholdQueueBase\l::Grow" alt="" coords="503,187,662,228"/>
+<area shape="rect" id="node8" href="$classCPN_1_1ThresholdQueue.html#aab6877d8ae5793977a7739833181e6eb" title="CPN::ThresholdQueue\l::InternalEnqueue" alt="" coords="502,318,663,359"/>
+<area shape="rect" id="node10" href="$classCPN_1_1ThresholdQueue.html#a5bc6fced644512d51ca01f60de71c967" title="CPN::ThresholdQueue\l::InternalGetRawEnqueuePtr" alt="" coords="483,252,683,294"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteQueue.html#aa8f0bd50457b2ca44e58f55999061b48" title="CPN::RemoteQueue::Internal\lEnqueue" alt="" coords="751,318,956,359"/>
+<area shape="rect" id="node12" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="484,383,681,424"/>
+<area shape="rect" id="node13" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="750,383,957,424"/>
+<area shape="rect" id="node15" href="$classCPN_1_1RemoteQueue.html#aef00845ccc82bc2d0fe16e6c5c7e2a64" title="For debugging. " alt="" coords="475,449,690,476"/>
+</map>

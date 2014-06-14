@@ -1,0 +1,46 @@
+<map id="CPN::RemoteContext::RemoteContext" name="CPN::RemoteContext::RemoteContext">
+<area shape="rect" id="node2" href="$classSocketHandle.html#a681e3b68f3cf0c488a3b2e29283b5dda" title="Create a new socket and try to connect to the given address. " alt="" coords="222,233,394,260"/>
+<area shape="rect" id="node3" href="$PthreadFunctional_8h.html#af9c4b70e3200c291008845f5c5744363" title="CreatePthreadFunctional" alt="" coords="1015,503,1195,529"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="229,285,387,326"/>
+<area shape="rect" id="node45" href="$classSocketHandle.html#ae43ed4a359fb2c4e3e500c01f340137e" title="SocketHandle::SetNoDelay" alt="" coords="211,385,405,412"/>
+<area shape="rect" id="node5" href="$classFileHandle.html#a26f62e8199a528cc90e0a328fa339443" title="Set that the file is currently readable or not. " alt="" coords="751,39,905,65"/>
+<area shape="rect" id="node6" href="$classFileHandle.html#a18b6cc4b2f1bb88ab91e44c633cf7a26" title="poll a list of FileHandles for any activity and call the appropriate On method. " alt="" coords="491,165,610,192"/>
+<area shape="rect" id="node13" href="$classFileHandle.html#a505fe158303429f4ff158972c99a27be" title="Convenience method for testing if the file this FileHandle has is open and not at end of file..." alt="" coords="485,267,616,293"/>
+<area shape="rect" id="node14" href="$classSocketHandle.html#a4e1defbf584b88e8be1a74bea54fac3a" title="SocketHandle::Recv" alt="" coords="476,216,625,243"/>
+<area shape="rect" id="node15" href="$classFileHandle.html#ada936fbac29ef320421e0e01fcccd263" title="FileHandle::Eof" alt="" coords="493,317,609,344"/>
+<area shape="rect" id="node16" href="$classCPN_1_1RemoteContextClient.html#a852b3423fb1d587f2a1f85a5f09c9c9e" title="Signal to the Context that the network is terminating. After this call most methods will throw a Shut..." alt="" coords="454,521,647,562"/>
+<area shape="rect" id="node20" href="$classCPN_1_1RemoteContextClient.html#a8f7ce191887665b2fdacd983697a3494" title="CPN::RemoteContextClient\l::DispatchMessage" alt="" coords="454,775,647,817"/>
+<area shape="rect" id="node42" href="$classErrnoException.html#a075df1c5a8d3eda6e7e3bc47121fef7f" title="ErrnoException::Error" alt="" coords="472,368,629,395"/>
+<area shape="rect" id="node43" href="$classErrnoException.html#a934ecdbc4001c2e6e9b88313be594401" title="ErrnoException::what" alt="" coords="473,64,629,91"/>
+<area shape="rect" id="node44" href="$classFileHandle.html#a612f03fb934f50a6f1c159d017e3ea27" title="Close the file and reset the internal state. " alt="" coords="485,115,616,141"/>
+<area shape="rect" id="node7" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="771,255,885,281"/>
+<area shape="rect" id="node8" href="$classFileHandle.html#aff8cac9f35f0d8ef08a4583bc60a92a3" title="Called by Poll when it detects that the file is readable. " alt="" coords="741,204,915,231"/>
+<area shape="rect" id="node10" href="$classFileHandle.html#aabd8fdac6feed227c0d0a866d7b750e4" title="Called by Poll when it detects that the file is writeable. " alt="" coords="741,103,915,129"/>
+<area shape="rect" id="node12" href="$classFileHandle.html#ab1949dea354091b7d10940014aee8796" title="Set that this file is currently writeable or not. " alt="" coords="751,153,905,180"/>
+<area shape="rect" id="node9" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="1028,255,1183,281"/>
+<area shape="rect" id="node11" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="1028,103,1183,129"/>
+<area shape="rect" id="node17" href="$classCPN_1_1RemoteContextClient.html#affe11d8ad7b22642ced0385319e87ed6" title="CPN::RemoteContextClient\l::InternalTerminate" alt="" coords="731,586,925,627"/>
+<area shape="rect" id="node19" href="$classCPN_1_1RemoteContextClient.html#ab02e707f278aa5348f9bba665e80f8f5" title="CPN::RemoteContextClient\l::SendMessage" alt="" coords="731,521,925,562"/>
+<area shape="rect" id="node18" href="$classCPN_1_1RemoteContextClient.html#acf5d29b1bf21a0e8fd1231c21b26059d" title="CPN::RemoteContextClient\l::TerminateThread" alt="" coords="1009,586,1202,627"/>
+<area shape="rect" id="node21" href="$classAutoLock.html#ae9550f948e40ae013bc6fcf3437b3159" title="AutoLock::Unlock" alt="" coords="762,783,894,809"/>
+<area shape="rect" id="node22" href="$classCPN_1_1KernelBase.html#afb47e15d9b469bfbd025c780fb7cd7ed" title="CPN::KernelBase::RemoteCreateNode" alt="" coords="696,833,960,860"/>
+<area shape="rect" id="node23" href="$namespaceCPN.html#a1e2b788b97a6b9adf4532e43cb7a8606" title="CPN::MsgToNodeAttr" alt="" coords="750,884,906,911"/>
+<area shape="rect" id="node27" href="$classCPN_1_1KernelBase.html#a7e4f944449c7b8cbd7484fdfcba37bbf" title="CPN::KernelBase::RemoteCreate\lQueue" alt="" coords="713,935,943,977"/>
+<area shape="rect" id="node28" href="$namespaceCPN.html#a307a6afdb5628c6937ff31040899abe5" title="CPN::MsgToQueueAttr" alt="" coords="746,1263,910,1289"/>
+<area shape="rect" id="node40" href="$classCPN_1_1KernelBase.html#aa7328ead0097249ae0c1d8c950c8c3fe" title="CPN::KernelBase::RemoteCreate\lWriter" alt="" coords="713,651,943,693"/>
+<area shape="rect" id="node41" href="$classCPN_1_1KernelBase.html#a577049866aeae7c48c7ee42aa1f4f9ef" title="CPN::KernelBase::RemoteCreate\lReader" alt="" coords="713,717,943,758"/>
+<area shape="rect" id="node24" href="$classCPN_1_1NodeAttr.html#a17226ff3dba5173f3e968fab8534efe5" title="CPN::NodeAttr::SetKernel" alt="" coords="1013,808,1198,835"/>
+<area shape="rect" id="node25" href="$classCPN_1_1NodeAttr.html#a7edfd3458cde1b3b3b6413ea43988b5d" title="CPN::NodeAttr::SetKey" alt="" coords="1021,859,1189,885"/>
+<area shape="rect" id="node26" href="$classCPN_1_1NodeAttr.html#a434b7bb3c33f5c16eba790cc71ebc684" title="CPN::NodeAttr::SetParam" alt="" coords="1012,909,1199,936"/>
+<area shape="rect" id="node29" href="$classCPN_1_1SimpleQueueAttr.html#a04531ca6ec4b0cc5bc84db7b506fa4a0" title="CPN::SimpleQueueAttr\l::SetAlpha" alt="" coords="1022,1418,1189,1459"/>
+<area shape="rect" id="node30" href="$classCPN_1_1SimpleQueueAttr.html#a3eeb3fa1cf209561985d8188c2f6b496" title="CPN::SimpleQueueAttr\l::SetDatatype" alt="" coords="1022,1483,1189,1525"/>
+<area shape="rect" id="node31" href="$classCPN_1_1SimpleQueueAttr.html#a059c6adfbe97b5d80eacbac00d6a0bbb" title="CPN::SimpleQueueAttr\l::SetHint" alt="" coords="1022,1549,1189,1590"/>
+<area shape="rect" id="node32" href="$classCPN_1_1SimpleQueueAttr.html#afe39e3149c0adafa516c06b01f9703df" title="CPN::SimpleQueueAttr\l::SetLength" alt="" coords="1022,1614,1189,1655"/>
+<area shape="rect" id="node33" href="$classCPN_1_1SimpleQueueAttr.html#a08bff88ed55922e75d234fa1ace7860c" title="CPN::SimpleQueueAttr\l::SetMaxThreshold" alt="" coords="1022,961,1189,1002"/>
+<area shape="rect" id="node34" href="$classCPN_1_1SimpleQueueAttr.html#a45b57bde7b056f762ef81c31a5add071" title="CPN::SimpleQueueAttr\l::SetMaxWriteThreshold" alt="" coords="1019,1026,1191,1067"/>
+<area shape="rect" id="node35" href="$classCPN_1_1SimpleQueueAttr.html#a9741ff2f456d4134e17b75c041c0d916" title="CPN::SimpleQueueAttr\l::SetNumChannels" alt="" coords="1022,1091,1189,1133"/>
+<area shape="rect" id="node36" href="$classCPN_1_1SimpleQueueAttr.html#a15ef232ca7a2203b74fede80776a7d4f" title="CPN::SimpleQueueAttr\l::SetReaderKey" alt="" coords="1022,1157,1189,1198"/>
+<area shape="rect" id="node37" href="$classCPN_1_1SimpleQueueAttr.html#a77c5dfd3be53e1d4bbf7514e88fac904" title="CPN::SimpleQueueAttr\l::SetReaderNodeKey" alt="" coords="1022,1222,1189,1263"/>
+<area shape="rect" id="node38" href="$classCPN_1_1SimpleQueueAttr.html#a8749cedbc10d39cb0be213df2468afe6" title="CPN::SimpleQueueAttr\l::SetWriterKey" alt="" coords="1022,1287,1189,1329"/>
+<area shape="rect" id="node39" href="$classCPN_1_1SimpleQueueAttr.html#a4d76b1e313ede4e3fd6a197b2a4d7cc8" title="CPN::SimpleQueueAttr\l::SetWriterNodeKey" alt="" coords="1022,1353,1189,1394"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ServerSocketHandle" name="ServerSocketHandle">
+<area shape="rect" id="node2" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="61,307,149,333"/>
+<area shape="rect" id="node3" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="45,187,155,213"/>
+<area shape="rect" id="node4" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="23,96,176,123"/>
+<area shape="rect" id="node5" href="$classint.html" title="int" alt="" coords="5,5,43,32"/>
+<area shape="rect" id="node7" href="$classbool.html" title="bool" alt="" coords="195,187,244,213"/>
+</map>

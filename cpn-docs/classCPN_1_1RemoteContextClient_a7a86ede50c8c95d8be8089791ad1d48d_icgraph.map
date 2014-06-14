@@ -1,0 +1,4 @@
+<map id="CPN::RemoteContextClient::GetCreateEndpointKey" name="CPN::RemoteContextClient::GetCreateEndpointKey">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#ad262c9f58344d53721d0ce400583244e" title="Get the key associated with the given endpoint for the given node. Creates the information if it does..." alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#a856c4ec02f467a6535da2cfa2f6fb569" title="CPN::RemoteContextClient\l::GetCreateWriterKey" alt="" coords="249,70,442,111"/>
+</map>

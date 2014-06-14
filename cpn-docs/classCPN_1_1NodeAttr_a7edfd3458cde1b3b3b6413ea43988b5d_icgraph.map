@@ -1,0 +1,10 @@
+<map id="CPN::NodeAttr::SetKey" name="CPN::NodeAttr::SetKey">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a1812530830eacb8696ac0d0c1ab1401e" title="CPN::Kernel::CreateNode" alt="" coords="222,16,405,43"/>
+<area shape="rect" id="node6" href="$namespaceCPN.html#a1e2b788b97a6b9adf4532e43cb7a8606" title="CPN::MsgToNodeAttr" alt="" coords="235,71,391,97"/>
+<area shape="rect" id="node3" href="$classCPN_1_1VariantCPNLoader.html#ac21c1933edbf9761a188fd9c9adce1a5" title="CPN::VariantCPNLoader\l::LoadNode" alt="" coords="463,5,638,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1VariantCPNLoader.html#a5f67158b09d145710895e9a55e1c7259" title="CPN::VariantCPNLoader\l::LoadNodes" alt="" coords="697,5,871,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1VariantCPNLoader.html#af48f89d421e8df5eac478355ce75fddd" title="CPN::VariantCPNLoader\l::Setup" alt="" coords="921,5,1095,46"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteContextClient.html#a8f7ce191887665b2fdacd983697a3494" title="CPN::RemoteContextClient\l::DispatchMessage" alt="" coords="454,70,647,111"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="705,70,863,111"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="929,70,1087,111"/>
+</map>

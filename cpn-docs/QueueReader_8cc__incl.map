@@ -1,0 +1,19 @@
+<map id="lib/QueueReader.cc" name="lib/QueueReader.cc">
+<area shape="rect" id="node3" href="$QueueReader_8h.html" title="The definition of reader end of the queue. " alt="" coords="235,560,409,587"/>
+<area shape="rect" id="node9" href="$QueueReleaser_8h.html" title="cpn/bits/QueueReleaser.h" alt="" coords="1510,229,1695,256"/>
+<area shape="rect" id="node10" href="$QueueBase_8h.html" title="Top Representations of generic queues for the CPN library. " alt="" coords="371,80,479,107"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="cpn/common.h" alt="" coords="745,635,863,661"/>
+<area shape="rect" id="node11" href="$PthreadMutex_8h.html" title="cpn/threading/PthreadMutex.h" alt="" coords="1267,229,1481,256"/>
+<area shape="rect" id="node21" href="$PthreadCondition_8h.html" title="cpn/threading/PthreadCondition.h" alt="" coords="945,155,1180,181"/>
+<area shape="rect" id="node23" href="$D4RQueue_8h.html" title="cpn/d4r/D4RQueue.h" alt="" coords="5,560,160,587"/>
+<area shape="rect" id="node24" href="$Logger_8h.html" title="A very simple logging interface. " alt="" coords="373,312,507,339"/>
+<area shape="rect" id="node12" href="$PthreadDefs_8h.html" title="cpn/threading/PthreadDefs.h" alt="" coords="1229,485,1435,512"/>
+<area shape="rect" id="node15" href="$PthreadErrorHandler_8h.html" title="cpn/threading/PthreadError\lHandler.h" alt="" coords="997,395,1192,437"/>
+<area shape="rect" id="node20" href="$PthreadMutexAttr_8h.html" title="cpn/threading/PthreadMutex\lAttr.h" alt="" coords="1317,305,1520,346"/>
+<area shape="rect" id="node16" href="$ErrnoException_8h.html" title="cpn/utils/ErrnoException.h" alt="" coords="917,485,1104,512"/>
+<area shape="rect" id="node17" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="486,560,639,587"/>
+<area shape="rect" id="node22" href="$PthreadConditionAttr_8h.html" title="cpn/threading/PthreadCondition\lAttr.h" alt="" coords="867,305,1091,346"/>
+<area shape="rect" id="node25" href="$ReentrantLock_8h.html" title="A reentrant lock implementation. " alt="" coords="427,403,645,429"/>
+<area shape="rect" id="node26" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="641,485,791,512"/>
+<area shape="rect" id="node27" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="377,485,564,512"/>
+</map>

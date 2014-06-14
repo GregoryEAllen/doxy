@@ -1,0 +1,6 @@
+<map id="ScopeTrace::ScopeTrace" name="ScopeTrace::ScopeTrace">
+<area shape="rect" id="node2" href="$classLogger.html#af0e4315cf6e872a441adcc985f2c3d45" title="Logger::Trace" alt="" coords="235,5,344,32"/>
+<area shape="rect" id="node3" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="393,5,501,32"/>
+<area shape="rect" id="node4" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="550,5,647,32"/>
+<area shape="rect" id="node5" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="696,5,837,32"/>
+</map>

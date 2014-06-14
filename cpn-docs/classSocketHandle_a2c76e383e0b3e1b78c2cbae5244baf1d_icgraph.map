@@ -1,0 +1,9 @@
+<map id="SocketHandle::ShutdownWrite" name="SocketHandle::ShutdownWrite">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContext.html#a05aa50f26296135397b6fabd673a0e69" title="CPN::RemoteContext\l::EndWrite" alt="" coords="299,5,456,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a501e5a5f8d041357fd1adaf52a69f51d" title="CPN::RemoteQueue::SendEnd\lOfReadPacket" alt="" coords="270,70,485,111"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#a43ead825ed41004fd23bcb5568a44fe5" title="CPN::RemoteQueue::SendEnd\lOfWritePacket" alt="" coords="270,135,485,177"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContext.html#a2891f20d9d41a83f2c634493a994d0d8" title="CPN::RemoteContext\l::~RemoteContext" alt="" coords="557,5,715,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="533,102,739,143"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="787,102,984,143"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1033,102,1239,143"/>
+</map>

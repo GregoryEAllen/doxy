@@ -1,0 +1,7 @@
+<map id="include/cpn/OQueue.h" name="include/cpn/OQueue.h">
+<area shape="rect" id="node2" href="$common_8h.html" title="cpn/common.h" alt="" coords="164,229,282,256"/>
+<area shape="rect" id="node6" href="$QueueWriter_8h.html" title="Definition for the Queue writer inteface. " alt="" coords="29,155,195,181"/>
+<area shape="rect" id="node8" href="$QueueDatatypes_8h.html" title="Defintions of and helper functions for queue datatypes. " alt="" coords="501,155,670,181"/>
+<area shape="rect" id="node11" href="$Exceptions_8h.html" title="The exceptions specified for the CPN network. " alt="" coords="226,80,357,107"/>
+<area shape="rect" id="node12" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="272,155,425,181"/>
+</map>

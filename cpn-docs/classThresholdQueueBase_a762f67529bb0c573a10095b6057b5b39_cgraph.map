@@ -1,0 +1,17 @@
+<map id="ThresholdQueueBase::Grow" name="ThresholdQueueBase::Grow">
+<area shape="rect" id="node2" href="$classThresholdQueueBase.html#a657079956d7375f4f1f79c78506c0fa0" title="ThresholdQueueBase\l::AllocateBuf" alt="" coords="214,107,373,149"/>
+<area shape="rect" id="node7" href="$classThresholdQueueBase.html#a19a2dc5a8e6cea9877bc6c9cfb3eef84" title="ThresholdQueueBase\l::Count" alt="" coords="665,533,823,574"/>
+<area shape="rect" id="node8" href="$classThresholdQueueBase.html#a78754acc4fb8ef250e38b7dfdbef59ed" title="ThresholdQueueBase\l::Dequeue" alt="" coords="214,275,373,317"/>
+<area shape="rect" id="node9" href="$classThresholdQueueBase.html#a9fe61d8d54950e88ae150a653706be40" title="ThresholdQueueBase\l::ElementsDequeued" alt="" coords="214,341,373,382"/>
+<area shape="rect" id="node10" href="$classThresholdQueueBase.html#a6b83282e9d538504908fb951a165ef31" title="ThresholdQueueBase\l::ElementsEnqueued" alt="" coords="214,406,373,447"/>
+<area shape="rect" id="node11" href="$classThresholdQueueBase.html#aceb26824319619e1a97c617b46c5b3f2" title="ThresholdQueueBase\l::Enqueue" alt="" coords="214,471,373,513"/>
+<area shape="rect" id="node12" href="$classThresholdQueueBase.html#a8f55b751db4a06be257901422b2fb032" title="ThresholdQueueBase\l::GetRawDequeuePtr" alt="" coords="214,537,373,578"/>
+<area shape="rect" id="node13" href="$classThresholdQueueBase.html#ad30d3f9f0048ca2ec733d58cfb5ea85e" title="ThresholdQueueBase\l::MaxThreshold" alt="" coords="439,591,598,633"/>
+<area shape="rect" id="node14" href="$classThresholdQueueBase.html#a7461658339d5ccac0968e3a896217768" title="ThresholdQueueBase\l::GetRawEnqueuePtr" alt="" coords="214,654,373,695"/>
+<area shape="rect" id="node16" href="$classThresholdQueueBase.html#a5da5a6ac4e22e29d646ec7472a547c87" title="ThresholdQueueBase\l::QueueLength" alt="" coords="214,719,373,761"/>
+<area shape="rect" id="node3" href="$classMirrorBufferSet.html#a5305b501e427e4ffa1c90e7bae2ab63b" title="MirrorBufferSet::BufferSize" alt="" coords="423,5,615,32"/>
+<area shape="rect" id="node4" href="$classMirrorBufferSet.html#a96c0cc18208363d0f43db81700c71b2b" title="MirrorBufferSet::MirrorSize" alt="" coords="423,56,614,83"/>
+<area shape="rect" id="node5" href="$classThresholdQueueBase.html#a0843e9f1a8b509444d5669ec00d0b40b" title="ThresholdQueueBase\l::Reset" alt="" coords="439,107,598,149"/>
+<area shape="rect" id="node6" href="$classMirrorBufferSet.html#adfe19b83b37263049a217762ebbf985a" title="MirrorBufferSet::Supported" alt="" coords="421,173,616,200"/>
+<area shape="rect" id="node15" href="$classThresholdQueueBase.html#a12db1ee24701f01563200e54804c07c0" title="ThresholdQueueBase\l::Freespace" alt="" coords="439,657,598,698"/>
+</map>

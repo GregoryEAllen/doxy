@@ -1,0 +1,11 @@
+<map id="CPN::Kernel::DestroyExternalEndpoint" name="CPN::Kernel::DestroyExternalEndpoint">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a3be815bae9b2917ea54d0a70a8c341a3" title="Called by the node in the cleanup routine. TO BE CALLED ONLY BY THE CPN INTERNALS. " alt="" coords="262,81,474,108"/>
+<area shape="rect" id="node10" href="$classAutoLock.html#ae9550f948e40ae013bc6fcf3437b3159" title="AutoLock::Unlock" alt="" coords="302,132,434,159"/>
+<area shape="rect" id="node3" href="$classSync_1_1StatusHandler.html#a05e5c957162c9472e3783744e022e458" title="Sync::StatusHandler::Get" alt="" coords="525,5,709,32"/>
+<area shape="rect" id="node4" href="$classLogger.html#a10e3c0f647678365b77770cfc3ec151d" title="Logger::Warn" alt="" coords="564,56,671,83"/>
+<area shape="rect" id="node8" href="$classCPN_1_1Kernel.html#a2a775de44401dad0b9800761b3cc996a" title="CPN::Kernel::SendWakeup" alt="" coords="523,107,711,133"/>
+<area shape="rect" id="node9" href="$classSync_1_1ReentrantCondition.html#a76e9e9197ae537c5c45a4a2c78e73bf6" title="Sync::ReentrantCondition\l::Signal" alt="" coords="760,129,944,170"/>
+<area shape="rect" id="node5" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="798,56,906,83"/>
+<area shape="rect" id="node6" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="993,56,1090,83"/>
+<area shape="rect" id="node7" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="1139,56,1280,83"/>
+</map>

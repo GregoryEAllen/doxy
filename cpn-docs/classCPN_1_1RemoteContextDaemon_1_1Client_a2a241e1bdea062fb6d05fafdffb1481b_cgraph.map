@@ -1,0 +1,11 @@
+<map id="CPN::RemoteContextDaemon::Client::Client" name="CPN::RemoteContextDaemon::Client::Client">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextServer.html#a391e82fabc71281f6e7d54b132978859" title="CPN::RemoteContextServer\l::dbprintf" alt="" coords="293,5,491,46"/>
+<area shape="rect" id="node3" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="598,160,711,187"/>
+<area shape="rect" id="node4" href="$classSocketAddress.html#a824abbbd954ff16371791f1804861ff4" title="SocketAddress::GetHostName" alt="" coords="283,121,501,148"/>
+<area shape="rect" id="node5" href="$classSocketAddress.html#abd40a6158627122b3b121e3f129108d2" title="SocketAddress::GetServName" alt="" coords="283,172,501,199"/>
+<area shape="rect" id="node6" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="315,223,469,249"/>
+<area shape="rect" id="node7" href="$classSocketAddress.html#a935b40d1fc7b945263b1de7478a09483" title="Fill this SocketAddress with data from the other side of the connection represented by fd..." alt="" coords="267,324,517,351"/>
+<area shape="rect" id="node10" href="$classSocketHandle.html#ae43ed4a359fb2c4e3e500c01f340137e" title="SocketHandle::SetNoDelay" alt="" coords="295,273,489,300"/>
+<area shape="rect" id="node8" href="$classSocketAddress.html#a9100510b7c4c5454c9012f06da74b417" title="SocketAddress::GetAddr" alt="" coords="565,299,744,325"/>
+<area shape="rect" id="node9" href="$classSocketAddress.html#a76d096b153ca6e75e1a3e6c75e09a562" title="SocketAddress::GetLen" alt="" coords="569,349,741,376"/>
+</map>

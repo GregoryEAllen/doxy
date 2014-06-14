@@ -1,0 +1,28 @@
+<map id="CPN::LocalContext::InternalCheckTerminated" name="CPN::LocalContext::InternalCheckTerminated">
+<area shape="rect" id="node2" href="$classCPN_1_1LocalContext.html#ac47f2f4aab4b6e6f9a37f9b404d66bb4" title="Called by the kernel when a queue is created. Note that the endpoints may have been created when the ..." alt="" coords="254,5,402,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1LocalContext.html#aca450df4457eeb738b6961a80ce1e00b" title="Tell the context to allocate a new node key and data structure for a node with nodename which is on k..." alt="" coords="254,70,402,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1LocalContext.html#abc3af660b9a2b1e54c49d871bd940a5c" title="Get the key associated with the given endpoint for the given node. Creates the information if it does..." alt="" coords="250,135,406,177"/>
+<area shape="rect" id="node5" href="$classCPN_1_1LocalContext.html#a946247554abc466f1be23153c0ab817a" title="CPN::LocalContext::\lGetCreateWriterKey" alt="" coords="254,201,402,242"/>
+<area shape="rect" id="node6" href="$classCPN_1_1LocalContext.html#a7dac877e075961cc19fec5944c58623f" title="obtain the connection information for the given kernel " alt="" coords="238,266,418,307"/>
+<area shape="rect" id="node7" href="$classCPN_1_1LocalContext.html#a5748546b5e912a8a85904dffd26e8866" title="CPN::LocalContext::\lGetKernelKey" alt="" coords="254,331,402,373"/>
+<area shape="rect" id="node8" href="$classCPN_1_1LocalContext.html#ad9a515d0e1a345a7182b7e91b5697d10" title="CPN::LocalContext::\lGetKernelName" alt="" coords="254,397,402,438"/>
+<area shape="rect" id="node9" href="$classCPN_1_1LocalContext.html#a810664d6ed1bdbeee354c3bbf6f53614" title="CPN::LocalContext::\lGetNodeKernel" alt="" coords="254,658,402,699"/>
+<area shape="rect" id="node12" href="$classCPN_1_1LocalContext.html#a30acb624af48eb4919a2ca2cc819ede9" title="CPN::LocalContext::\lGetNodeKey" alt="" coords="254,527,402,569"/>
+<area shape="rect" id="node13" href="$classCPN_1_1LocalContext.html#a888838f1b09008c57f6fb1cf22dc18b6" title="CPN::LocalContext::\lGetReaderName" alt="" coords="254,593,402,634"/>
+<area shape="rect" id="node14" href="$classCPN_1_1LocalContext.html#a3b3a0f0f0356cd69d2b60aeaffcc79b2" title="CPN::LocalContext::\lGetReaderNode" alt="" coords="254,462,402,503"/>
+<area shape="rect" id="node15" href="$classCPN_1_1LocalContext.html#ab56dbb9ab90f11d9eb3790ae376ef865" title="CPN::LocalContext::\lGetReadersWriter" alt="" coords="254,723,402,765"/>
+<area shape="rect" id="node16" href="$classCPN_1_1LocalContext.html#a9df9211939191738cc2ca4578ecef592" title="CPN::LocalContext::\lGetWriterName" alt="" coords="254,789,402,830"/>
+<area shape="rect" id="node17" href="$classCPN_1_1LocalContext.html#aab7a167cf90f50da0ebb28a2a0760d02" title="CPN::LocalContext::\lGetWriterNode" alt="" coords="254,854,402,895"/>
+<area shape="rect" id="node18" href="$classCPN_1_1LocalContext.html#a73fabbf05e0789f9b90d9334612b222d" title="CPN::LocalContext::\lGetWritersReader" alt="" coords="254,919,402,961"/>
+<area shape="rect" id="node19" href="$classCPN_1_1LocalContext.html#adfabd446a5fd3499b9ed842898f81d8c" title="Tell a given kernel that it needs to create a node. " alt="" coords="254,985,402,1026"/>
+<area shape="rect" id="node20" href="$classCPN_1_1LocalContext.html#a318fe73cefded94205606f1eae0ea86f" title="Tell a given kernel that it needs to create a queue. " alt="" coords="254,1050,402,1091"/>
+<area shape="rect" id="node21" href="$classCPN_1_1LocalContext.html#a98e8163d9518b0b83b28ea5d60acc73f" title="Tell a given kernel that it needs to create a queue read end. " alt="" coords="254,1115,402,1157"/>
+<area shape="rect" id="node22" href="$classCPN_1_1LocalContext.html#a695395ceb36ce246d13a701447e48212" title="Tell a given kernel that it needs to create a queue write end. " alt="" coords="254,1181,402,1222"/>
+<area shape="rect" id="node23" href="$classCPN_1_1LocalContext.html#a7d90eef13f873105537e1b3a47dbf707" title="Called by the Kernel when it has successfully set it self up. This gives the Context a way to notify ..." alt="" coords="254,1246,402,1287"/>
+<area shape="rect" id="node24" href="$classCPN_1_1LocalContext.html#a58f676f839175d7f1ee4fb4981f256bf" title="Signal to the context that the given kernel has started. " alt="" coords="254,1311,402,1353"/>
+<area shape="rect" id="node25" href="$classCPN_1_1LocalContext.html#ad713a9661b680fa57d285afe34438a05" title="Called by the node startup routine to indicate that the node has started. " alt="" coords="254,1377,402,1418"/>
+<area shape="rect" id="node26" href="$classCPN_1_1LocalContext.html#a6f805011d5d06ea450ce98ba956c4d20" title="Does not return until the given kernel has started. " alt="" coords="254,1442,402,1483"/>
+<area shape="rect" id="node27" href="$classCPN_1_1LocalContext.html#ac66388a40d92a0e49d370cd092bed495" title="Waits until the node starts and returns the key, if the node is already started returns the key..." alt="" coords="254,1507,402,1549"/>
+<area shape="rect" id="node10" href="$classCPN_1_1LocalContext.html#aed5aef26475357909ea7e7993349fbf8" title="CPN::LocalContext::\lGetReaderKernel" alt="" coords="467,593,615,634"/>
+<area shape="rect" id="node11" href="$classCPN_1_1LocalContext.html#a4b89661df2e356a7b3a1eb28a7424a55" title="CPN::LocalContext::\lGetWriterKernel" alt="" coords="467,723,615,765"/>
+</map>

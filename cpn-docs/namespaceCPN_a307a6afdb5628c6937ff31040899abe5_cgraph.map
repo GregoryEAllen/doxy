@@ -1,0 +1,13 @@
+<map id="CPN::MsgToQueueAttr" name="CPN::MsgToQueueAttr">
+<area shape="rect" id="node2" href="$classCPN_1_1SimpleQueueAttr.html#a04531ca6ec4b0cc5bc84db7b506fa4a0" title="CPN::SimpleQueueAttr\l::SetAlpha" alt="" coords="222,5,389,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1SimpleQueueAttr.html#a3eeb3fa1cf209561985d8188c2f6b496" title="CPN::SimpleQueueAttr\l::SetDatatype" alt="" coords="222,70,389,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1SimpleQueueAttr.html#a059c6adfbe97b5d80eacbac00d6a0bbb" title="CPN::SimpleQueueAttr\l::SetHint" alt="" coords="222,135,389,177"/>
+<area shape="rect" id="node5" href="$classCPN_1_1SimpleQueueAttr.html#afe39e3149c0adafa516c06b01f9703df" title="CPN::SimpleQueueAttr\l::SetLength" alt="" coords="222,201,389,242"/>
+<area shape="rect" id="node6" href="$classCPN_1_1SimpleQueueAttr.html#a08bff88ed55922e75d234fa1ace7860c" title="CPN::SimpleQueueAttr\l::SetMaxThreshold" alt="" coords="222,266,389,307"/>
+<area shape="rect" id="node7" href="$classCPN_1_1SimpleQueueAttr.html#a45b57bde7b056f762ef81c31a5add071" title="CPN::SimpleQueueAttr\l::SetMaxWriteThreshold" alt="" coords="219,331,391,373"/>
+<area shape="rect" id="node8" href="$classCPN_1_1SimpleQueueAttr.html#a9741ff2f456d4134e17b75c041c0d916" title="CPN::SimpleQueueAttr\l::SetNumChannels" alt="" coords="222,397,389,438"/>
+<area shape="rect" id="node9" href="$classCPN_1_1SimpleQueueAttr.html#a15ef232ca7a2203b74fede80776a7d4f" title="CPN::SimpleQueueAttr\l::SetReaderKey" alt="" coords="222,462,389,503"/>
+<area shape="rect" id="node10" href="$classCPN_1_1SimpleQueueAttr.html#a77c5dfd3be53e1d4bbf7514e88fac904" title="CPN::SimpleQueueAttr\l::SetReaderNodeKey" alt="" coords="222,527,389,569"/>
+<area shape="rect" id="node11" href="$classCPN_1_1SimpleQueueAttr.html#a8749cedbc10d39cb0be213df2468afe6" title="CPN::SimpleQueueAttr\l::SetWriterKey" alt="" coords="222,593,389,634"/>
+<area shape="rect" id="node12" href="$classCPN_1_1SimpleQueueAttr.html#a4d76b1e313ede4e3fd6a197b2a4d7cc8" title="CPN::SimpleQueueAttr\l::SetWriterNodeKey" alt="" coords="222,658,389,699"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="CPN::RemoteContextClient::SendMessage" name="CPN::RemoteContextClient::SendMessage">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#a440b90f9e3463cc8be0d5354629eafd3" title="Called by the kernel when a queue is created. Note that the endpoints may have been created when the ..." alt="" coords="263,573,457,614"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#aeb71ffd57a55348cb637ee23ca358a8c" title="Log a message to this outputer. " alt="" coords="248,639,472,665"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html#a739ada80b59223c8db0400319b8bb28c" title="CPN::RemoteContextClient\l::RemoteCall" alt="" coords="263,690,457,731"/>
+<area shape="rect" id="node29" href="$classCPN_1_1RemoteContextClient.html#ae223d881b2c1752423a41cb8dbafb2d4" title="Tell a given kernel that it needs to create a node. " alt="" coords="263,951,457,993"/>
+<area shape="rect" id="node30" href="$classCPN_1_1RemoteContextClient.html#a34b91d47d6572156210da0a104597359" title="CPN::RemoteContextClient\l::SendQueueMsg" alt="" coords="263,1017,457,1058"/>
+<area shape="rect" id="node34" href="$classCPN_1_1RemoteContextClient.html#a755d3606a1a81a49c0cfc06affccbf89" title="Signal to the Context that the given kernel is dead. " alt="" coords="263,1082,457,1123"/>
+<area shape="rect" id="node35" href="$classCPN_1_1RemoteContextClient.html#af3014c2c69a21a566405fbbb16726f88" title="Signal to the context that the given kernel has started. " alt="" coords="263,1147,457,1189"/>
+<area shape="rect" id="node36" href="$classCPN_1_1RemoteContextClient.html#a84a3249d1abd3ec11bae50f20f67cefe" title="Called by the node cleanup routine to indicate that the node has ended. " alt="" coords="263,1213,457,1254"/>
+<area shape="rect" id="node37" href="$classCPN_1_1RemoteContextClient.html#a8d7effb8018da456e589d8dc59c8ae90" title="Called by the node startup routine to indicate that the node has started. " alt="" coords="263,1278,457,1319"/>
+<area shape="rect" id="node38" href="$classCPN_1_1RemoteContextClient.html#a852b3423fb1d587f2a1f85a5f09c9c9e" title="Signal to the Context that the network is terminating. After this call most methods will throw a Shut..." alt="" coords="263,1343,457,1385"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextClient.html#af7efb8e21d802d9851f979b00afff760" title="Tell the context to allocate a new node key and data structure for a node with nodename which is on k..." alt="" coords="521,70,714,111"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContextClient.html#a7a86ede50c8c95d8be8089791ad1d48d" title="CPN::RemoteContextClient\l::GetCreateEndpointKey" alt="" coords="521,135,714,177"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteContextClient.html#a8093495401691d3725b96bc38d627f20" title="CPN::RemoteContextClient\l::GetEndpointInfo" alt="" coords="521,298,714,339"/>
+<area shape="rect" id="node18" href="$classCPN_1_1RemoteContextClient.html#ac78414d1a0ace80f03fbb9ddff205c6f" title="obtain the connection information for the given kernel " alt="" coords="521,363,714,405"/>
+<area shape="rect" id="node19" href="$classCPN_1_1RemoteContextClient.html#ac7adb2b452b0fb560fd04e4b245f2c2e" title="CPN::RemoteContextClient\l::GetKernelKey" alt="" coords="521,429,714,470"/>
+<area shape="rect" id="node20" href="$classCPN_1_1RemoteContextClient.html#a531249d43843395dbbc982e40e8d3835" title="CPN::RemoteContextClient\l::GetKernelName" alt="" coords="521,494,714,535"/>
+<area shape="rect" id="node21" href="$classCPN_1_1RemoteContextClient.html#a403f9b43ba9527a028ee1b439ef15846" title="CPN::RemoteContextClient\l::GetNodeKernel" alt="" coords="521,559,714,601"/>
+<area shape="rect" id="node22" href="$classCPN_1_1RemoteContextClient.html#a71172aee6e29abbf4c68f27e002d3a7d" title="CPN::RemoteContextClient\l::GetNodeKey" alt="" coords="521,625,714,666"/>
+<area shape="rect" id="node23" href="$classCPN_1_1RemoteContextClient.html#acf873d3cbc7c247f166770227def12b3" title="CPN::RemoteContextClient\l::GetNodeName" alt="" coords="521,690,714,731"/>
+<area shape="rect" id="node24" href="$classCPN_1_1RemoteContextClient.html#a7887e7aec2c684c519099e804631b17a" title="Called by the Kernel when it has successfully set it self up. This gives the Context a way to notify ..." alt="" coords="521,755,714,797"/>
+<area shape="rect" id="node25" href="$classCPN_1_1RemoteContextClient.html#a6717e251bf8a319f7942961ef90d2f8b" title="Convenience method which waits until there are no nodes running. If no node have started then this wi..." alt="" coords="521,821,714,862"/>
+<area shape="rect" id="node26" href="$classCPN_1_1RemoteContextClient.html#a5d0dbcc4bd7709ff7796f09d54ea2084" title="Does not return until the given kernel has started. " alt="" coords="521,886,714,927"/>
+<area shape="rect" id="node27" href="$classCPN_1_1RemoteContextClient.html#a45c8ca4b305e3cf9c25f232a71f83629" title="Waits for the given node to signal end. " alt="" coords="521,951,714,993"/>
+<area shape="rect" id="node28" href="$classCPN_1_1RemoteContextClient.html#a619ebc7bb34d623c390d0b2396cdb619" title="Waits until the node starts and returns the key, if the node is already started returns the key..." alt="" coords="521,1017,714,1058"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteContextClient.html#ad262c9f58344d53721d0ce400583244e" title="Get the key associated with the given endpoint for the given node. Creates the information if it does..." alt="" coords="763,5,957,46"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteContextClient.html#a856c4ec02f467a6535da2cfa2f6fb569" title="CPN::RemoteContextClient\l::GetCreateWriterKey" alt="" coords="763,70,957,111"/>
+<area shape="rect" id="node10" href="$classCPN_1_1RemoteContextClient.html#acb2b9081c805556dde3fa959c7e9d158" title="CPN::RemoteContextClient\l::GetReaderKernel" alt="" coords="763,135,957,177"/>
+<area shape="rect" id="node11" href="$classCPN_1_1RemoteContextClient.html#a854e0b06ab2fe3ebd74ac54ae642f58c" title="CPN::RemoteContextClient\l::GetReaderName" alt="" coords="763,201,957,242"/>
+<area shape="rect" id="node12" href="$classCPN_1_1RemoteContextClient.html#af028a0b16d16bb85326fb87a982ffa9a" title="CPN::RemoteContextClient\l::GetReaderNode" alt="" coords="763,266,957,307"/>
+<area shape="rect" id="node13" href="$classCPN_1_1RemoteContextClient.html#ad81d133388100fd8a5df1996191707bc" title="CPN::RemoteContextClient\l::GetReadersWriter" alt="" coords="763,331,957,373"/>
+<area shape="rect" id="node14" href="$classCPN_1_1RemoteContextClient.html#ad7d355c6bf5cd9a6f3b3bf2564341db3" title="CPN::RemoteContextClient\l::GetWriterKernel" alt="" coords="763,397,957,438"/>
+<area shape="rect" id="node15" href="$classCPN_1_1RemoteContextClient.html#a439c1b3288e3bac590c80254df5d150b" title="CPN::RemoteContextClient\l::GetWriterName" alt="" coords="763,462,957,503"/>
+<area shape="rect" id="node16" href="$classCPN_1_1RemoteContextClient.html#a2965482387991f7f479e0bece2d0905f" title="CPN::RemoteContextClient\l::GetWriterNode" alt="" coords="763,527,957,569"/>
+<area shape="rect" id="node17" href="$classCPN_1_1RemoteContextClient.html#a1519e4ee2bb4ed143bdebcdb45ecea71" title="CPN::RemoteContextClient\l::GetWritersReader" alt="" coords="763,593,957,634"/>
+<area shape="rect" id="node31" href="$classCPN_1_1RemoteContextClient.html#aaf80f049483ebd9d2ef0672073076c9a" title="Tell a given kernel that it needs to create a queue write end. " alt="" coords="521,1082,714,1123"/>
+<area shape="rect" id="node32" href="$classCPN_1_1RemoteContextClient.html#ac4caac64c0d879d1c5b8a5fb1c6da8ea" title="Tell a given kernel that it needs to create a queue read end. " alt="" coords="521,1147,714,1189"/>
+<area shape="rect" id="node33" href="$classCPN_1_1RemoteContextClient.html#acc4294079152a5b6da8aa33740ea21bc" title="Tell a given kernel that it needs to create a queue. " alt="" coords="521,1213,714,1254"/>
+<area shape="rect" id="node39" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="539,1343,696,1385"/>
+<area shape="rect" id="node40" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="781,1343,939,1385"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CPN::RemoteQueue::DequeuePacket" name="CPN::RemoteQueue::DequeuePacket">
+<area shape="rect" id="node2" href="$classCPN_1_1Packet.html#a4f1d203e07689c4634a36e792708cc54" title="CPN::Packet::Count" alt="" coords="299,5,445,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#abeee628ce525dbe76f89316f85dfe99b" title="CPN::RemoteQueue::Update\lClock" alt="" coords="270,57,474,98"/>
+<area shape="rect" id="node4" href="$classCPN_1_1Packet.html#aa84df19667aaf4e177b9f6364aa703e3" title="CPN::Packet::WriteClock" alt="" coords="523,39,698,65"/>
+<area shape="rect" id="node5" href="$classCPN_1_1Packet.html#a186899edf7d0f415ce4ada4062eb1419" title="CPN::Packet::ReadClock" alt="" coords="523,89,698,116"/>
+</map>

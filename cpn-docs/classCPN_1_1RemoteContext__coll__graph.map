@@ -1,0 +1,17 @@
+<map id="CPN::RemoteContext" name="CPN::RemoteContext">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html" title="This abstract class is the remote context client. " alt="" coords="1691,460,1885,487"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Context.html" title="The CPN::Context abstraction that holds all the global state for the process network. " alt="" coords="1385,732,1492,759"/>
+<area shape="rect" id="node4" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="1050,732,1161,759"/>
+<area shape="rect" id="node5" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="709,704,819,731"/>
+<area shape="rect" id="node24" href="$classPthread.html" title="Pthread" alt="" coords="1069,439,1141,465"/>
+<area shape="rect" id="node30" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="1061,783,1149,809"/>
+<area shape="rect" id="node6" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="131,603,285,629"/>
+<area shape="rect" id="node16" href="$classPthreadCondition.html" title="PthreadCondition" alt="" coords="409,349,541,376"/>
+<area shape="rect" id="node25" href="$classPthreadBase.html" title="PthreadBase" alt="" coords="423,603,527,629"/>
+<area shape="rect" id="node7" href="$classint.html" title="int" alt="" coords="6,603,45,629"/>
+<area shape="rect" id="node9" href="$classbool.html" title="bool" alt="" coords="739,384,789,411"/>
+<area shape="rect" id="node22" href="$structCPN_1_1RemoteContextClient_1_1WaiterInfo.html" title="CPN::RemoteContextClient\l::WaiterInfo" alt="" coords="1009,163,1202,205"/>
+<area shape="rect" id="node12" href="$classCPN_1_1KernelBase.html" title="CPN::KernelBase" alt="" coords="1041,491,1170,517"/>
+<area shape="rect" id="node15" href="$structCPN_1_1RemoteContextClient_1_1GenericWaiter.html" title="CPN::RemoteContextClient\l::GenericWaiter" alt="" coords="667,537,861,578"/>
+<area shape="rect" id="node29" href="$classSocketHandle.html" title="A FileHandle customized with some socket specific functionality and functions. " alt="" coords="1555,773,1666,800"/>
+</map>

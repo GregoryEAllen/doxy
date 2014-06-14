@@ -1,0 +1,11 @@
+<map id="CPN::RemoteContextServer::SendMessage" name="CPN::RemoteContextServer::SendMessage">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextServer.html#aee778d3f38da6fcb32e738723ab73dd1" title="CPN::RemoteContextServer\l::CreateNodeKey" alt="" coords="254,5,453,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextServer.html#a72d224594e81415cf1551968ffd69bf8" title="CPN::RemoteContextServer\l::GetCreateEndpointKey" alt="" coords="254,70,453,111"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextServer.html#a7c143271ebdf325d26dcaabcf4c57ed9" title="CPN::RemoteContextServer\l::GetEndpointInfo" alt="" coords="254,135,453,177"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContextServer.html#a0777dea8277587846202063a4112d675" title="CPN::RemoteContextServer\l::GetKernelInfo" alt="" coords="254,201,453,242"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteContextServer.html#a1482dc31da5bbb1e919bd432c6d184a0" title="CPN::RemoteContextServer\l::GetNodeInfo" alt="" coords="254,266,453,307"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteContextServer.html#a4739206af52cd3dceece255bcdf8ceef" title="CPN::RemoteContextServer\l::GetNumNodeLive" alt="" coords="254,331,453,373"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteContextServer.html#a389d355e5dbe5cfe5c5103b8a106817e" title="CPN::RemoteContextServer\l::RouteKernelMessage" alt="" coords="254,397,453,438"/>
+<area shape="rect" id="node10" href="$classCPN_1_1RemoteContextServer.html#a4205b080da008e9929c885f480882a69" title="CPN::RemoteContextServer\l::SetupKernel" alt="" coords="254,462,453,503"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextServer.html#ab328f20abc011f7a041ead301834f1b7" title="Process the given message. " alt="" coords="502,234,701,275"/>
+</map>

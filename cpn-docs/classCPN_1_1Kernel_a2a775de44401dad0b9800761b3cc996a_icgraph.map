@@ -1,0 +1,7 @@
+<map id="CPN::Kernel::SendWakeup" name="CPN::Kernel::SendWakeup">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a3be815bae9b2917ea54d0a70a8c341a3" title="Called by the node in the cleanup routine. TO BE CALLED ONLY BY THE CPN INTERNALS. " alt="" coords="243,41,455,68"/>
+<area shape="rect" id="node6" href="$classCPN_1_1Kernel.html#aefe3ade018fa621183b6e1d3f1b90db4" title="CPN::Kernel::NotifyTerminate" alt="" coords="246,92,453,119"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#a156bee2381b1571d1fd879db38f3477c" title="CPN::Kernel::DestroyExternal\lEndpoint" alt="" coords="505,5,711,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1NodeBase.html#a54d64beffef7c214abeebdfe8fb20ade" title="CPN::NodeBase::EntryPoint" alt="" coords="510,71,706,97"/>
+<area shape="rect" id="node5" href="$classCPN_1_1NodeBase.html#a1bdf0246d82eb6767aedfd3e12d9168e" title="CPN::NodeBase::NodeBase" alt="" coords="760,71,957,97"/>
+</map>

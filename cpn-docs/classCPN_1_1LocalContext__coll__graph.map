@@ -1,0 +1,11 @@
+<map id="CPN::LocalContext" name="CPN::LocalContext">
+<area shape="rect" id="node2" href="$classCPN_1_1Context.html" title="The CPN::Context abstraction that holds all the global state for the process network. " alt="" coords="565,28,672,55"/>
+<area shape="rect" id="node3" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="266,5,377,32"/>
+<area shape="rect" id="node4" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="563,100,674,127"/>
+<area shape="rect" id="node5" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="245,115,398,141"/>
+<area shape="rect" id="node13" href="$classPthreadCondition.html" title="PthreadCondition" alt="" coords="553,165,685,192"/>
+<area shape="rect" id="node6" href="$classint.html" title="int" alt="" coords="55,195,94,221"/>
+<area shape="rect" id="node15" href="$classbool.html" title="bool" alt="" coords="594,472,643,499"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="278,620,365,647"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="6,613,143,654"/>
+</map>

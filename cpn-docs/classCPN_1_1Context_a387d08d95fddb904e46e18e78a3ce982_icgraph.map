@@ -1,0 +1,5 @@
+<map id="CPN::Context::Local" name="CPN::Context::Local">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a0568a15f36131f587980ce2d67ad380a" title="CPN::Kernel::Kernel" alt="" coords="218,5,363,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1VariantCPNLoader.html#aeb57a9e3c3d86d3b32f20514fb9103fc" title="CPN::VariantCPNLoader\l::LoadContext" alt="" coords="203,57,378,98"/>
+<area shape="rect" id="node4" href="$classCPN_1_1VariantCPNLoader.html#a24d966084e0e803fd02bfe4d546451c5" title="CPN::VariantCPNLoader\l::GetKernelAttr" alt="" coords="427,57,602,98"/>
+</map>

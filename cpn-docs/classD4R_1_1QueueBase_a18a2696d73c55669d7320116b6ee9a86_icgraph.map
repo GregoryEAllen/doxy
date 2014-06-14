@@ -1,0 +1,5 @@
+<map id="D4R::QueueBase::UnlockedSignalWriterTagChanged" name="D4R::QueueBase::UnlockedSignalWriterTagChanged">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a03077397a51caeeef041f3e7ac674d51" title="CPN::RemoteQueue::D4RTag\lPacket" alt="" coords="255,5,462,46"/>
+<area shape="rect" id="node3" href="$classD4R_1_1QueueBase.html#a2ede39bf7961f2cdb923f9a5730180e1" title="D4R::QueueBase::SignalWriter\lTagChanged" alt="" coords="251,70,466,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a6d013b79790a8d4adf2f8ae887b729a1" title="CPN::RemoteQueue::Unlocked\lSignalWriterTagChanged" alt="" coords="251,135,467,177"/>
+</map>

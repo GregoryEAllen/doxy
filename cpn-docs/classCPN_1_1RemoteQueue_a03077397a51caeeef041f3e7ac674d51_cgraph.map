@@ -1,0 +1,13 @@
+<map id="CPN::RemoteQueue::D4RTagPacket" name="CPN::RemoteQueue::D4RTagPacket">
+<area shape="rect" id="node2" href="$classCPN_1_1Packet.html#a88f568c1fadf9369e03476f2c33de557" title="CPN::Packet::DataLength" alt="" coords="273,5,455,32"/>
+<area shape="rect" id="node3" href="$classFileHandle.html#a13febebf6f66694159bd9ddce927ac24" title="Read data from the file descriptor. " alt="" coords="300,56,428,83"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a1b0d369be386183f5c96bb0ef2600382" title="CPN::RemoteQueue::Signal" alt="" coords="266,107,462,133"/>
+<area shape="rect" id="node7" href="$classD4R_1_1QueueBase.html#a3e9c9d0b560be524b9bce52ac893a70a" title="D4R::QueueBase::Unlocked\lSignalReaderTagChanged" alt="" coords="265,158,463,199"/>
+<area shape="rect" id="node9" href="$classD4R_1_1QueueBase.html#a18a2696d73c55669d7320116b6ee9a86" title="D4R::QueueBase::Unlocked\lSignalWriterTagChanged" alt="" coords="265,223,463,265"/>
+<area shape="rect" id="node10" href="$classCPN_1_1RemoteQueue.html#abeee628ce525dbe76f89316f85dfe99b" title="CPN::RemoteQueue::Update\lClock" alt="" coords="262,289,466,330"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="527,56,681,83"/>
+<area shape="rect" id="node6" href="$classCPN_1_1QueueBase.html#a670adfb2b909576dc8f014359936238e" title="CPN::QueueBase::Signal" alt="" coords="515,107,693,133"/>
+<area shape="rect" id="node8" href="$classD4R_1_1QueueBase.html#aba5123543ffffd2852e4751c4a89cc2a" title="D4R::QueueBase::Signal" alt="" coords="515,192,693,219"/>
+<area shape="rect" id="node11" href="$classCPN_1_1Packet.html#aa84df19667aaf4e177b9f6364aa703e3" title="CPN::Packet::WriteClock" alt="" coords="517,271,691,297"/>
+<area shape="rect" id="node12" href="$classCPN_1_1Packet.html#a186899edf7d0f415ce4ada4062eb1419" title="CPN::Packet::ReadClock" alt="" coords="517,321,691,348"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="6,81,117,108"/>
+<area shape="rect" id="node2" href="$classCPN_1_1Context.html" title="The CPN::Context abstraction that holds all the global state for the process network. " alt="" coords="179,31,285,57"/>
+<area shape="rect" id="node6" href="$classLogger.html" title="Logger object that is used for forwarding log messages. " alt="" coords="199,81,265,108"/>
+<area shape="rect" id="node7" href="$classLoggerStdOutput.html" title="A LoggerOutput implementation that prints to stdout. " alt="" coords="166,132,298,159"/>
+<area shape="rect" id="node3" href="$classCPN_1_1LocalContext.html" title="A local implementation of the Context interface. " alt="" coords="374,5,514,32"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html" title="This abstract class is the remote context client. " alt="" coords="347,56,541,83"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContext.html" title="CPN::RemoteContext" alt="" coords="589,56,747,83"/>
+</map>

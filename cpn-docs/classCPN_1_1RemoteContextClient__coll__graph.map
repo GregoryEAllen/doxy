@@ -1,0 +1,14 @@
+<map id="CPN::RemoteContextClient" name="CPN::RemoteContextClient">
+<area shape="rect" id="node2" href="$classCPN_1_1Context.html" title="The CPN::Context abstraction that holds all the global state for the process network. " alt="" coords="1480,5,1587,32"/>
+<area shape="rect" id="node3" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="1045,5,1155,32"/>
+<area shape="rect" id="node4" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="419,536,530,563"/>
+<area shape="rect" id="node23" href="$classPthread.html" title="Pthread" alt="" coords="739,603,811,629"/>
+<area shape="rect" id="node5" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="131,523,285,549"/>
+<area shape="rect" id="node15" href="$classPthreadCondition.html" title="PthreadCondition" alt="" coords="409,405,541,432"/>
+<area shape="rect" id="node24" href="$classPthreadBase.html" title="PthreadBase" alt="" coords="423,625,527,652"/>
+<area shape="rect" id="node6" href="$classint.html" title="int" alt="" coords="6,181,45,208"/>
+<area shape="rect" id="node8" href="$classbool.html" title="bool" alt="" coords="450,485,499,512"/>
+<area shape="rect" id="node21" href="$structCPN_1_1RemoteContextClient_1_1WaiterInfo.html" title="CPN::RemoteContextClient\l::WaiterInfo" alt="" coords="678,266,871,307"/>
+<area shape="rect" id="node11" href="$classCPN_1_1KernelBase.html" title="CPN::KernelBase" alt="" coords="1035,692,1165,719"/>
+<area shape="rect" id="node14" href="$structCPN_1_1RemoteContextClient_1_1GenericWaiter.html" title="CPN::RemoteContextClient\l::GenericWaiter" alt="" coords="678,365,871,406"/>
+</map>

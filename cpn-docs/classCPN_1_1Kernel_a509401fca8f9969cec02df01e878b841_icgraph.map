@@ -1,0 +1,7 @@
+<map id="CPN::Kernel::CreateLocalQueue" name="CPN::Kernel::CreateLocalQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a27d586d93c5da87d93d0e965634792c9" title="Create a new queue. " alt="" coords="239,12,430,39"/>
+<area shape="rect" id="node6" href="$classCPN_1_1Kernel.html#a2e549114def8b4a612d2f708c73a7da9" title="CPN::Kernel::RemoteCreate\lQueue" alt="" coords="235,63,434,105"/>
+<area shape="rect" id="node3" href="$classCPN_1_1VariantCPNLoader.html#a6ad683d702007c1bdd3afb6592d1b566" title="CPN::VariantCPNLoader\l::LoadQueue" alt="" coords="483,5,658,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1VariantCPNLoader.html#af4e1545d3095a8fb9078fb9bb67b82e3" title="CPN::VariantCPNLoader\l::LoadQueues" alt="" coords="707,5,882,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1VariantCPNLoader.html#af48f89d421e8df5eac478355ce75fddd" title="CPN::VariantCPNLoader\l::Setup" alt="" coords="931,5,1106,46"/>
+</map>

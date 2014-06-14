@@ -1,0 +1,14 @@
+<map id="CPN::ConnectionServer" name="CPN::ConnectionServer">
+<area shape="rect" id="node2" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="433,255,543,281"/>
+<area shape="rect" id="node10" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="753,192,841,219"/>
+<area shape="rect" id="node3" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="131,228,285,255"/>
+<area shape="rect" id="node4" href="$classint.html" title="int" alt="" coords="6,192,45,219"/>
+<area shape="rect" id="node9" href="$classWakeupHandle.html" title="A convenience handle for event loops so that one can interrupt a Poll before it times out..." alt="" coords="1116,192,1233,219"/>
+<area shape="rect" id="node13" href="$classLogger.html" title="Logger object that is used for forwarding log messages. " alt="" coords="764,492,831,519"/>
+<area shape="rect" id="node15" href="$classSync_1_1ReentrantLock.html" title="Sync::ReentrantLock" alt="" coords="411,413,565,440"/>
+<area shape="rect" id="node18" href="$classServerSocketHandle.html" title="ServerSocketHandle" alt="" coords="1098,300,1251,327"/>
+<area shape="rect" id="node11" href="$classbool.html" title="bool" alt="" coords="463,340,513,367"/>
+<area shape="rect" id="node14" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="433,475,543,501"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="445,599,531,625"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="139,595,277,637"/>
+</map>

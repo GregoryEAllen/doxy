@@ -1,0 +1,5 @@
+<map id="CPN::ThresholdQueue::UnlockedFull" name="CPN::ThresholdQueue::UnlockedFull">
+<area shape="rect" id="node2" href="$classThresholdQueueBase.html#a32a904392805a18e3d87ba4c287e5921" title="ThresholdQueueBase\l::Full" alt="" coords="217,5,375,46"/>
+<area shape="rect" id="node3" href="$classThresholdQueueBase.html#a12db1ee24701f01563200e54804c07c0" title="ThresholdQueueBase\l::Freespace" alt="" coords="425,5,583,46"/>
+<area shape="rect" id="node4" href="$classThresholdQueueBase.html#a19a2dc5a8e6cea9877bc6c9cfb3eef84" title="ThresholdQueueBase\l::Count" alt="" coords="633,5,791,46"/>
+</map>

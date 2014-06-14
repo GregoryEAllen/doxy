@@ -1,0 +1,6 @@
+<map id="CPN::KernelBase::IsTerminated" name="CPN::KernelBase::IsTerminated">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="529,5,751,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="275,67,480,109"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="801,38,1007,79"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="541,70,739,111"/>
+</map>

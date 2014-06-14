@@ -1,0 +1,10 @@
+<map id="SocketAddress::GetLen" name="SocketAddress::GetLen">
+<area shape="rect" id="node2" href="$classServerSocketHandle.html#a362e719047087de6d14796a8b970cd29" title="ServerSocketHandle\l::Accept" alt="" coords="275,5,429,46"/>
+<area shape="rect" id="node3" href="$classSocketHandle.html#a263a349d0207eb027f3fde3446d946ad" title="SocketHandle::Connect" alt="" coords="266,71,438,97"/>
+<area shape="rect" id="node4" href="$classServerSocketHandle.html#ac3152340fb35646be2666dfcd5ac832b" title="ServerSocketHandle\l::Listen" alt="" coords="275,122,429,163"/>
+<area shape="rect" id="node5" href="$classSocketAddress.html#a935b40d1fc7b945263b1de7478a09483" title="Fill this SocketAddress with data from the other side of the connection represented by fd..." alt="" coords="227,188,477,215"/>
+<area shape="rect" id="node7" href="$classSocketAddress.html#a747d897538e2c8797302e470387fcbca" title="Fill this SocketAddress with data from this side of the connection represented by fd..." alt="" coords="227,245,477,272"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContextDaemon_1_1Client.html#a2a241e1bdea062fb6d05fafdffb1481b" title="CPN::RemoteContextDaemon\l::Client::Client" alt="" coords="542,173,754,214"/>
+<area shape="rect" id="node8" href="$classCPN_1_1ConnectionServer.html#a816dbb23c57bd37763f9e81e61e5e403" title="CPN::ConnectionServer\l::GetAddress" alt="" coords="563,238,733,279"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteContextDaemon.html#a8add5c7cab7a499503c0d0d8f867aa93" title="Run the actual Context returns when the context is terminated and all clients have disconnected..." alt="" coords="526,304,770,331"/>
+</map>

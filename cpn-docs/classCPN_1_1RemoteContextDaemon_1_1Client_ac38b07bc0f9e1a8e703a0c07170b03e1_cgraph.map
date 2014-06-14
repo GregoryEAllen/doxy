@@ -1,0 +1,6 @@
+<map id="CPN::RemoteContextDaemon::Client::Read" name="CPN::RemoteContextDaemon::Client::Read">
+<area shape="rect" id="node2" href="$classFileHandle.html#ada936fbac29ef320421e0e01fcccd263" title="FileHandle::Eof" alt="" coords="287,5,403,32"/>
+<area shape="rect" id="node3" href="$classErrnoException.html#a075df1c5a8d3eda6e7e3bc47121fef7f" title="ErrnoException::Error" alt="" coords="267,56,424,83"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#a505fe158303429f4ff158972c99a27be" title="Convenience method for testing if the file this FileHandle has is open and not at end of file..." alt="" coords="280,107,411,133"/>
+<area shape="rect" id="node5" href="$classErrnoException.html#a934ecdbc4001c2e6e9b88313be594401" title="ErrnoException::what" alt="" coords="267,157,423,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ThresholdQueueBase::AllocateBuf" name="ThresholdQueueBase::AllocateBuf">
+<area shape="rect" id="node2" href="$classMirrorBufferSet.html#a5305b501e427e4ffa1c90e7bae2ab63b" title="MirrorBufferSet::BufferSize" alt="" coords="215,5,407,32"/>
+<area shape="rect" id="node3" href="$classMirrorBufferSet.html#a96c0cc18208363d0f43db81700c71b2b" title="MirrorBufferSet::MirrorSize" alt="" coords="215,56,406,83"/>
+<area shape="rect" id="node4" href="$classThresholdQueueBase.html#a0843e9f1a8b509444d5669ec00d0b40b" title="ThresholdQueueBase\l::Reset" alt="" coords="231,107,390,149"/>
+<area shape="rect" id="node5" href="$classMirrorBufferSet.html#adfe19b83b37263049a217762ebbf985a" title="MirrorBufferSet::Supported" alt="" coords="213,173,408,200"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CPN::RemoteQueue::ClockString" name="CPN::RemoteQueue::ClockString">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="547,81,770,123"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#aef00845ccc82bc2d0fe16e6c5c7e2a64" title="For debugging. " alt="" coords="283,37,498,63"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a613f967b3e920a83023201af47d3f35c" title="CPN::RemoteQueue::Handle\lError" alt="" coords="289,88,492,129"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="556,147,761,188"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#a188c018a1307508024895aa33d8462be" title="For debug ONLY! " alt="" coords="283,205,498,231"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteQueue.html#a35906153d9849595b1a984789df0058b" title="CPN::RemoteQueue::\l~RemoteQueue" alt="" coords="312,256,469,297"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1065,115,1271,156"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="819,144,1016,185"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Logger::Debug" name="Logger::Debug">
+<area shape="rect" id="node2" href="$classCPN_1_1QueueBase.html#aecc2e04c8c60fd4426c2c2cf7edba8fd" title="CPN::QueueBase::Detect" alt="" coords="187,5,370,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="435,67,658,109"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="444,150,649,191"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#a9dbdd9b58f33e3d0cdd5e0cd4327540f" title="CPN::RemoteQueue::Read" alt="" coords="184,157,373,184"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#a501e5a5f8d041357fd1adaf52a69f51d" title="CPN::RemoteQueue::SendEnd\lOfReadPacket" alt="" coords="171,209,386,250"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteQueue.html#a43ead825ed41004fd23bcb5568a44fe5" title="CPN::RemoteQueue::SendEnd\lOfWritePacket" alt="" coords="171,274,386,315"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="953,106,1159,147"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="707,138,904,179"/>
+</map>

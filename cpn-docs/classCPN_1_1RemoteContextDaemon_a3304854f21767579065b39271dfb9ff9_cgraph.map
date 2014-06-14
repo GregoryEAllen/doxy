@@ -1,0 +1,6 @@
+<map id="CPN::RemoteContextDaemon::Terminate" name="CPN::RemoteContextDaemon::Terminate">
+<area shape="rect" id="node2" href="$classFileHandle.html#a612f03fb934f50a6f1c159d017e3ea27" title="Close the file and reset the internal state. " alt="" coords="301,5,432,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextServer.html#a1c3d802229b56ad34815201381a20317" title="CPN::RemoteContextServer\l::IsTerminated" alt="" coords="267,57,466,98"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextServer.html#a650926e61cc1cdf0531376c599cc965b" title="CPN::RemoteContextServer\l::Terminate" alt="" coords="267,122,466,163"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextServer.html#a1790fad4c3939387ceb5c9e818bbf61f" title="Broadcast a message to all clients. " alt="" coords="515,122,714,163"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="CPN::VariantCPNLoader::LoadNode" name="CPN::VariantCPNLoader::LoadNode">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a1812530830eacb8696ac0d0c1ab1401e" title="CPN::Kernel::CreateNode" alt="" coords="231,107,414,133"/>
+<area shape="rect" id="node5" href="$classCPN_1_1NodeAttr.html#a46517b96718b4629d8de3075ec3d8d21" title="CPN::NodeAttr::GetName" alt="" coords="487,5,673,32"/>
+<area shape="rect" id="node14" href="$classCPN_1_1NodeAttr.html#a17226ff3dba5173f3e968fab8534efe5" title="CPN::NodeAttr::SetKernel" alt="" coords="230,157,415,184"/>
+<area shape="rect" id="node15" href="$classCPN_1_1NodeAttr.html#a434b7bb3c33f5c16eba790cc71ebc684" title="CPN::NodeAttr::SetParam" alt="" coords="229,208,416,235"/>
+<area shape="rect" id="node3" href="$classCPN_1_1NodeAttr.html#a651d4884f411ab2f7a8144a6e3f74f41" title="CPN::NodeAttr::GetKernel" alt="" coords="487,56,673,83"/>
+<area shape="rect" id="node4" href="$classCPN_1_1NodeAttr.html#aadd6adab36d4a03c516780c7f9917273" title="CPN::NodeAttr::GetKernelKey" alt="" coords="475,107,685,133"/>
+<area shape="rect" id="node6" href="$classCPN_1_1Kernel.html#aca59ea4824736b17d8d45720ac80b304" title="CPN::Kernel::InternalCreateNode" alt="" coords="465,157,695,184"/>
+<area shape="rect" id="node12" href="$classCPN_1_1NodeAttr.html#aaf0d44c80c28631007ba5748cf019003" title="CPN::NodeAttr::SetKernelKey" alt="" coords="476,208,684,235"/>
+<area shape="rect" id="node13" href="$classCPN_1_1NodeAttr.html#a7edfd3458cde1b3b3b6413ea43988b5d" title="CPN::NodeAttr::SetKey" alt="" coords="496,259,664,285"/>
+<area shape="rect" id="node7" href="$classCPN_1_1NodeFactory.html#aa419a1a59d3c13ea06b3d715713d5283" title="CPN::NodeFactory::Create" alt="" coords="757,56,947,83"/>
+<area shape="rect" id="node8" href="$classSync_1_1StatusHandler.html#a05e5c957162c9472e3783744e022e458" title="Sync::StatusHandler::Get" alt="" coords="760,107,944,133"/>
+<area shape="rect" id="node9" href="$classCPN_1_1NodeAttr.html#a5f4e33e1e8b6883bb44ffac2a512be06" title="CPN::NodeAttr::GetKey" alt="" coords="767,157,937,184"/>
+<area shape="rect" id="node10" href="$classCPN_1_1Kernel.html#ad61f4b01a9c2456555d13d12ecd26755" title="Return a pointer to the node factory that produces the given node type. May load a shared library to ..." alt="" coords="747,208,957,235"/>
+<area shape="rect" id="node11" href="$classCPN_1_1NodeAttr.html#a1d1cefe2259e7e517e82f194c820370d" title="CPN::NodeAttr::GetTypeName" alt="" coords="745,259,959,285"/>
+</map>

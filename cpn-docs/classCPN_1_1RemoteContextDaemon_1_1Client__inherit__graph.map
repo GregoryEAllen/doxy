@@ -1,0 +1,4 @@
+<map id="CPN::RemoteContextDaemon::Client" name="CPN::RemoteContextDaemon::Client">
+<area shape="rect" id="node2" href="$classSocketHandle.html" title="A FileHandle customized with some socket specific functionality and functions. " alt="" coords="55,80,165,107"/>
+<area shape="rect" id="node3" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="67,5,155,32"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="CPN::RemoteContextDaemon::Run" name="CPN::RemoteContextDaemon::Run">
+<area shape="rect" id="node2" href="$classFileHandle.html#acc4c70826361f12e2968df41aa31cb81" title="FileHandle::Closed" alt="" coords="355,5,493,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextServer.html#a391e82fabc71281f6e7d54b132978859" title="CPN::RemoteContextServer\l::dbprintf" alt="" coords="325,57,523,98"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="641,76,754,103"/>
+<area shape="rect" id="node5" href="$classSocketAddress.html#a824abbbd954ff16371791f1804861ff4" title="SocketAddress::GetHostName" alt="" coords="315,173,533,200"/>
+<area shape="rect" id="node6" href="$classSocketAddress.html#abd40a6158627122b3b121e3f129108d2" title="SocketAddress::GetServName" alt="" coords="315,224,533,251"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteContextServer.html#a1c3d802229b56ad34815201381a20317" title="CPN::RemoteContextServer\l::IsTerminated" alt="" coords="598,599,797,641"/>
+<area shape="rect" id="node8" href="$classFileHandle.html#a18b6cc4b2f1bb88ab91e44c633cf7a26" title="poll a list of FileHandles for any activity and call the appropriate On method. " alt="" coords="365,275,483,301"/>
+<area shape="rect" id="node10" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="868,329,1023,356"/>
+<area shape="rect" id="node15" href="$classCPN_1_1RemoteContextDaemon.html#a80c834a7b6981f2afe3bb539b9b75cf7" title="CPN::RemoteContextDaemon\l::Read" alt="" coords="318,326,530,367"/>
+<area shape="rect" id="node17" href="$classSocketAddress.html#a747d897538e2c8797302e470387fcbca" title="Fill this SocketAddress with data from this side of the connection represented by fd..." alt="" coords="299,497,549,524"/>
+<area shape="rect" id="node20" href="$classCPN_1_1RemoteContextDaemon.html#a3304854f21767579065b39271dfb9ff9" title="CPN::RemoteContextDaemon\l::Terminate" alt="" coords="318,643,530,685"/>
+<area shape="rect" id="node9" href="$classFileHandle.html#aff8cac9f35f0d8ef08a4583bc60a92a3" title="Called by Poll when it detects that the file is readable. " alt="" coords="611,279,784,305"/>
+<area shape="rect" id="node11" href="$classFileHandle.html#aabd8fdac6feed227c0d0a866d7b750e4" title="Called by Poll when it detects that the file is writeable. " alt="" coords="611,177,784,204"/>
+<area shape="rect" id="node13" href="$classFileHandle.html#a26f62e8199a528cc90e0a328fa339443" title="Set that the file is currently readable or not. " alt="" coords="620,228,775,255"/>
+<area shape="rect" id="node14" href="$classFileHandle.html#ab1949dea354091b7d10940014aee8796" title="Set that this file is currently writeable or not. " alt="" coords="620,127,775,153"/>
+<area shape="rect" id="node12" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="868,177,1023,204"/>
+<area shape="rect" id="node16" href="$classServerSocketHandle.html#a2980da3c8b1284c07965a8f5a4d94ca3" title="ServerSocketHandle\l::Accept" alt="" coords="621,381,774,422"/>
+<area shape="rect" id="node18" href="$classSocketAddress.html#a9100510b7c4c5454c9012f06da74b417" title="SocketAddress::GetAddr" alt="" coords="608,548,787,575"/>
+<area shape="rect" id="node19" href="$classSocketAddress.html#a76d096b153ca6e75e1a3e6c75e09a562" title="SocketAddress::GetLen" alt="" coords="611,497,783,524"/>
+<area shape="rect" id="node21" href="$classCPN_1_1RemoteContextServer.html#a650926e61cc1cdf0531376c599cc965b" title="CPN::RemoteContextServer\l::Terminate" alt="" coords="598,717,797,758"/>
+<area shape="rect" id="node23" href="$classFileHandle.html#a612f03fb934f50a6f1c159d017e3ea27" title="Close the file and reset the internal state. " alt="" coords="632,665,763,692"/>
+<area shape="rect" id="node22" href="$classCPN_1_1RemoteContextServer.html#a1790fad4c3939387ceb5c9e818bbf61f" title="Broadcast a message to all clients. " alt="" coords="846,717,1045,758"/>
+</map>

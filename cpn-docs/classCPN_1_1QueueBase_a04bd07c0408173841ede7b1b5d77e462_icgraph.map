@@ -1,0 +1,8 @@
+<map id="CPN::QueueBase::UnlockedShutdownReader" name="CPN::QueueBase::UnlockedShutdownReader">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a9e73884b7f10c9d611ad9f55ca08464a" title="CPN::RemoteQueue::EndOfRead\lPacket" alt="" coords="253,5,480,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="264,70,469,111"/>
+<area shape="rect" id="node6" href="$classCPN_1_1QueueBase.html#a01637e158c3692a934b43160c5027dc7" title="Called by the QueueReader when no more data will be read. " alt="" coords="265,135,468,177"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="541,70,739,111"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="801,103,1007,145"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="529,135,751,177"/>
+</map>

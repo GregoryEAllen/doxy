@@ -1,0 +1,10 @@
+<map id="FileHandle::Poll" name="FileHandle::Poll">
+<area shape="rect" id="node2" href="$classFileHandle.html#a18b6cc4b2f1bb88ab91e44c633cf7a26" title="poll a list of FileHandles for any activity and call the appropriate On method. " alt="" coords="174,107,293,133"/>
+<area shape="rect" id="node3" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="371,5,485,32"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#aff8cac9f35f0d8ef08a4583bc60a92a3" title="Called by Poll when it detects that the file is readable. " alt="" coords="341,56,515,83"/>
+<area shape="rect" id="node6" href="$classFileHandle.html#aabd8fdac6feed227c0d0a866d7b750e4" title="Called by Poll when it detects that the file is writeable. " alt="" coords="341,107,515,133"/>
+<area shape="rect" id="node8" href="$classFileHandle.html#a26f62e8199a528cc90e0a328fa339443" title="Set that the file is currently readable or not. " alt="" coords="351,157,505,184"/>
+<area shape="rect" id="node9" href="$classFileHandle.html#ab1949dea354091b7d10940014aee8796" title="Set that this file is currently writeable or not. " alt="" coords="351,208,505,235"/>
+<area shape="rect" id="node5" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="563,56,717,83"/>
+<area shape="rect" id="node7" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="563,107,717,133"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="lib/QueueBase.h" name="lib/QueueBase.h">
+<area shape="rect" id="node3" href="$PthreadMutex_8h.html" title="cpn/threading/PthreadMutex.h" alt="" coords="1021,155,1235,181"/>
+<area shape="rect" id="node18" href="$PthreadCondition_8h.html" title="cpn/threading/PthreadCondition.h" alt="" coords="763,80,999,107"/>
+<area shape="rect" id="node20" href="$D4RQueue_8h.html" title="cpn/d4r/D4RQueue.h" alt="" coords="1348,485,1503,512"/>
+<area shape="rect" id="node21" href="$Logger_8h.html" title="A very simple logging interface. " alt="" coords="109,237,243,264"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="cpn/common.h" alt="" coords="679,560,797,587"/>
+<area shape="rect" id="node8" href="$PthreadDefs_8h.html" title="cpn/threading/PthreadDefs.h" alt="" coords="1012,411,1217,437"/>
+<area shape="rect" id="node11" href="$PthreadErrorHandler_8h.html" title="cpn/threading/PthreadError\lHandler.h" alt="" coords="801,321,996,362"/>
+<area shape="rect" id="node17" href="$PthreadMutexAttr_8h.html" title="cpn/threading/PthreadMutex\lAttr.h" alt="" coords="1020,230,1223,271"/>
+<area shape="rect" id="node12" href="$ErrnoException_8h.html" title="cpn/utils/ErrnoException.h" alt="" coords="801,411,988,437"/>
+<area shape="rect" id="node13" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="63,485,216,512"/>
+<area shape="rect" id="node19" href="$PthreadConditionAttr_8h.html" title="cpn/threading/PthreadCondition\lAttr.h" alt="" coords="620,230,844,271"/>
+<area shape="rect" id="node22" href="$ReentrantLock_8h.html" title="A reentrant lock implementation. " alt="" coords="247,328,465,355"/>
+<area shape="rect" id="node23" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="394,411,544,437"/>
+<area shape="rect" id="node24" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="130,411,317,437"/>
+</map>

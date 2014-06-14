@@ -1,0 +1,7 @@
+<map id="CPN::ConnectionServer::LogState" name="CPN::ConnectionServer::LogState">
+<area shape="rect" id="node2" href="$classFileHandle.html#acc4c70826361f12e2968df41aa31cb81" title="FileHandle::Closed" alt="" coords="224,5,363,32"/>
+<area shape="rect" id="node3" href="$classLogger.html#ac25cb052d8f2be9a3be062d584cf23af" title="Logger::Error" alt="" coords="241,56,346,83"/>
+<area shape="rect" id="node4" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="411,56,519,83"/>
+<area shape="rect" id="node5" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="569,56,666,83"/>
+<area shape="rect" id="node6" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="715,56,856,83"/>
+</map>

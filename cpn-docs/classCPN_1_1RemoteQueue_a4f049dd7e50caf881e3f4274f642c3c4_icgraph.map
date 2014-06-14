@@ -1,0 +1,5 @@
+<map id="CPN::RemoteQueue::SendD4RTagPacket" name="CPN::RemoteQueue::SendD4RTagPacket">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="261,5,467,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="515,5,712,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="761,5,967,46"/>
+</map>

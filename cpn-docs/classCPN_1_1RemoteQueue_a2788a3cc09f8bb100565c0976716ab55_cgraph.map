@@ -1,0 +1,4 @@
+<map id="CPN::RemoteQueue::SetupPacket" name="CPN::RemoteQueue::SetupPacket">
+<area shape="rect" id="node2" href="$classCPN_1_1Packet.html#a186899edf7d0f415ce4ada4062eb1419" title="CPN::Packet::ReadClock" alt="" coords="314,5,489,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#a65f3df285b7da49e9e3c459200a553c6" title="CPN::RemoteQueue::TickClock" alt="" coords="294,56,509,83"/>
+</map>

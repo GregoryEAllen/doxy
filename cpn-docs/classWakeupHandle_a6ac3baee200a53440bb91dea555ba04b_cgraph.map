@@ -1,0 +1,6 @@
+<map id="WakeupHandle::WakeupHandle" name="WakeupHandle::WakeupHandle">
+<area shape="rect" id="node2" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="494,25,607,52"/>
+<area shape="rect" id="node3" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="283,25,437,52"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#a737fbf86201731890c7248546e4f42b2" title="Manipulate how the current file handles blocking. " alt="" coords="275,76,445,103"/>
+<area shape="rect" id="node5" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="283,127,437,153"/>
+</map>

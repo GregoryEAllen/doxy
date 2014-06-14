@@ -1,0 +1,33 @@
+<map id="CPN::RemoteQueue" name="CPN::RemoteQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1ThresholdQueue.html" title="A version of the ThresholdQueue that provides the CPN Queue interface This queue implementation creat..." alt="" coords="1722,583,1883,609"/>
+<area shape="rect" id="node3" href="$classCPN_1_1QueueBase.html" title="The base class for all queues in the CPN library. " alt="" coords="1301,739,1432,765"/>
+<area shape="rect" id="node4" href="$classD4R_1_1QueueBase.html" title="D4R::QueueBase" alt="" coords="885,501,1016,528"/>
+<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="509,585,558,612"/>
+<area shape="rect" id="node34" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="907,1028,995,1055"/>
+<area shape="rect" id="node43" href="$classPthread.html" title="Pthread" alt="" coords="915,221,987,248"/>
+<area shape="rect" id="node46" href="$classCPN_1_1ConnectionServer.html" title="CPN::ConnectionServer" alt="" coords="1717,1148,1888,1175"/>
+<area shape="rect" id="node50" href="$classServerSocketHandle.html" title="ServerSocketHandle" alt="" coords="1290,791,1443,817"/>
+<area shape="rect" id="node7" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="478,736,589,763"/>
+<area shape="rect" id="node37" href="$classCPN_1_1RemoteQueueHolder.html" title="CPN::RemoteQueueHolder" alt="" coords="1707,1459,1898,1485"/>
+<area shape="rect" id="node8" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="131,308,285,335"/>
+<area shape="rect" id="node11" href="$classPthreadCondition.html" title="PthreadCondition" alt="" coords="467,91,599,117"/>
+<area shape="rect" id="node44" href="$classPthreadBase.html" title="PthreadBase" alt="" coords="481,167,585,193"/>
+<area shape="rect" id="node9" href="$classint.html" title="int" alt="" coords="6,943,45,969"/>
+<area shape="rect" id="node17" href="$classLogger.html" title="Logger object that is used for forwarding log messages. " alt="" coords="917,1129,984,1156"/>
+<area shape="rect" id="node23" href="$classMirrorBufferSet.html" title="MirrorBufferSet" alt="" coords="474,1152,593,1179"/>
+<area shape="rect" id="node40" href="$classWakeupHandle.html" title="A convenience handle for event loops so that one can interrupt a Poll before it times out..." alt="" coords="1308,1441,1425,1468"/>
+<area shape="rect" id="node19" href="$classSync_1_1ReentrantLock.html" title="Sync::ReentrantLock" alt="" coords="457,1039,610,1065"/>
+<area shape="rect" id="node30" href="$structCPN_1_1PacketHeader.html" title="CPN::PacketHeader" alt="" coords="877,1876,1024,1903"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="490,881,577,908"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="139,877,277,918"/>
+<area shape="rect" id="node16" href="$classCPN_1_1KernelBase.html" title="CPN::KernelBase" alt="" coords="886,739,1015,765"/>
+<area shape="rect" id="node18" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="478,988,589,1015"/>
+<area shape="rect" id="node22" href="$classThresholdQueueBase.html" title="ThresholdQueueBase" alt="" coords="871,1240,1030,1267"/>
+<area shape="rect" id="node27" href="$classCPN_1_1PacketDecoder.html" title="CPN::PacketDecoder" alt="" coords="1725,1617,1880,1644"/>
+<area shape="rect" id="node21" href="$classCPN_1_1ThresholdQueue_1_1TQImpl.html" title="CPN::ThresholdQueue\l::TQImpl" alt="" coords="1286,1082,1447,1123"/>
+<area shape="rect" id="node25" href="$classCPN_1_1RemoteQueueBase.html" title="CPN::RemoteQueueBase" alt="" coords="1712,1047,1893,1073"/>
+<area shape="rect" id="node26" href="$classCPN_1_1PacketEncoder.html" title="CPN::PacketEncoder" alt="" coords="1727,1097,1879,1124"/>
+<area shape="rect" id="node28" href="$classCPN_1_1PacketHandler.html" title="CPN::PacketHandler" alt="" coords="1291,1676,1442,1703"/>
+<area shape="rect" id="node29" href="$classCPN_1_1Packet.html" title="CPN::Packet" alt="" coords="1317,1852,1417,1879"/>
+<area shape="rect" id="node33" href="$classSocketHandle.html" title="A FileHandle customized with some socket specific functionality and functions. " alt="" coords="1535,981,1646,1008"/>
+</map>

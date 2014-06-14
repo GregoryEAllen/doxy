@@ -1,0 +1,21 @@
+<map id="CPN::RemoteQueue::SendEnqueuePacket" name="CPN::RemoteQueue::SendEnqueuePacket">
+<area shape="rect" id="node2" href="$classThresholdQueueBase.html#a19a2dc5a8e6cea9877bc6c9cfb3eef84" title="ThresholdQueueBase\l::Count" alt="" coords="857,71,1015,112"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Packet.html#a4f1d203e07689c4634a36e792708cc54" title="CPN::Packet::Count" alt="" coords="349,62,496,89"/>
+<area shape="rect" id="node4" href="$classCPN_1_1ThresholdQueue.html#ae18ce94af00368e1dc79e098a097eea1" title="CPN::ThresholdQueue\l::InternalDequeue" alt="" coords="342,114,503,155"/>
+<area shape="rect" id="node6" href="$classCPN_1_1ThresholdQueue.html#adc1ae97f189aa505881bf66583e74d6d" title="CPN::ThresholdQueue\l::InternalGetRawDequeuePtr" alt="" coords="321,179,524,220"/>
+<area shape="rect" id="node8" href="$classThresholdQueueBase.html#ad30d3f9f0048ca2ec733d58cfb5ea85e" title="ThresholdQueueBase\l::MaxThreshold" alt="" coords="857,202,1015,243"/>
+<area shape="rect" id="node9" href="$classCPN_1_1QueueBase.html#a8157c7991a0b793371ed33c330cc1bc6" title="CPN::QueueBase::NotifyFreespace" alt="" coords="301,296,544,322"/>
+<area shape="rect" id="node13" href="$classThresholdQueueBase.html#ad17d293988a1067539f82d34bf73b435" title="ThresholdQueueBase\l::NumChannels" alt="" coords="343,347,502,388"/>
+<area shape="rect" id="node14" href="$classCPN_1_1RemoteQueue.html#a2788a3cc09f8bb100565c0976716ab55" title="CPN::RemoteQueue::SetupPacket" alt="" coords="303,413,542,440"/>
+<area shape="rect" id="node17" href="$classCPN_1_1RemoteQueue.html#ae622dca7cdb954285b47978b75fc380a" title="CPN::RemoteQueue::WriteBytes" alt="" coords="310,514,535,541"/>
+<area shape="rect" id="node5" href="$classThresholdQueueBase.html#a78754acc4fb8ef250e38b7dfdbef59ed" title="ThresholdQueueBase\l::Dequeue" alt="" coords="621,114,779,155"/>
+<area shape="rect" id="node7" href="$classThresholdQueueBase.html#a8f55b751db4a06be257901422b2fb032" title="ThresholdQueueBase\l::GetRawDequeuePtr" alt="" coords="621,179,779,220"/>
+<area shape="rect" id="node10" href="$classPthreadCondition.html#af19e3e3f13f3b600b8705856c07f7480" title="PthreadCondition::Broadcast" alt="" coords="597,296,803,322"/>
+<area shape="rect" id="node12" href="$classCPN_1_1QueueBase.html#af59be783dd669efa40fc99f42d6b8d09" title="CPN::QueueBase::Unlocked\lFreespace" alt="" coords="601,347,799,388"/>
+<area shape="rect" id="node11" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="859,288,1013,330"/>
+<area shape="rect" id="node15" href="$classCPN_1_1RemoteQueue.html#a65f3df285b7da49e9e3c459200a553c6" title="CPN::RemoteQueue::TickClock" alt="" coords="593,413,807,440"/>
+<area shape="rect" id="node16" href="$classCPN_1_1Packet.html#a186899edf7d0f415ce4ada4062eb1419" title="CPN::Packet::ReadClock" alt="" coords="613,464,787,490"/>
+<area shape="rect" id="node18" href="$classFileHandle.html#ab90f4dabec3ebfdfcb54cd741d136bf6" title="scatter gather io version of Write " alt="" coords="633,514,767,541"/>
+<area shape="rect" id="node20" href="$classFileHandle.html#aacccb55cfc45f233a12319f157b8fb68" title="Write data to the file descriptor. " alt="" coords="636,565,764,592"/>
+<area shape="rect" id="node19" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="859,540,1013,566"/>
+</map>

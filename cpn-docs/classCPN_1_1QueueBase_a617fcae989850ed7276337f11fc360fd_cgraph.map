@@ -1,0 +1,24 @@
+<map id="CPN::QueueBase::RawDequeue" name="CPN::QueueBase::RawDequeue">
+<area shape="rect" id="node2" href="$classCPN_1_1QueueBase.html#a161cadb9f60b2eb855c2f5712fefb9fe" title="CPN::QueueBase::Dequeue" alt="" coords="277,275,475,301"/>
+<area shape="rect" id="node3" href="$classCPN_1_1QueueBase.html#a187761f1c484443f5d7f6cb73acfa603" title="CPN::QueueBase::GetRawDequeuePtr" alt="" coords="523,224,786,251"/>
+<area shape="rect" id="node21" href="$classCPN_1_1QueueBase.html#a2da630afdbb0415a5746b6fa83e22763" title="CPN::QueueBase::Internal\lDequeue" alt="" coords="561,326,748,367"/>
+<area shape="rect" id="node22" href="$classCPN_1_1QueueBase.html#a8157c7991a0b793371ed33c330cc1bc6" title="CPN::QueueBase::NotifyFreespace" alt="" coords="835,457,1077,484"/>
+<area shape="rect" id="node4" href="$classCPN_1_1KernelBase.html#a88deb37eefb8d70e693a346a4b7a14dd" title="CPN::KernelBase::CheckTerminated" alt="" coords="1395,173,1645,200"/>
+<area shape="rect" id="node5" href="$classCPN_1_1KernelBase.html#a949cbfb6e7c51ce41ad25db2eaae766c" title="CPN::KernelBase::GrowQueue\lMaxThreshold" alt="" coords="851,326,1061,367"/>
+<area shape="rect" id="node6" href="$classCPN_1_1QueueBase.html#a8a831f34aedf6407bfca22e96652e795" title="CPN::QueueBase::Internal\lGetRawDequeuePtr" alt="" coords="863,391,1049,433"/>
+<area shape="rect" id="node7" href="$classCPN_1_1QueueBase.html#a670adfb2b909576dc8f014359936238e" title="CPN::QueueBase::Signal" alt="" coords="867,5,1045,32"/>
+<area shape="rect" id="node8" href="$classCPN_1_1QueueBase.html#a2168f67705269f7132c64d17e4bc08a3" title="CPN::QueueBase::UnlockedGrow" alt="" coords="841,56,1071,83"/>
+<area shape="rect" id="node9" href="$classCPN_1_1QueueBase.html#aedb92dbef0340e805ee491bb37d6db9b" title="CPN::QueueBase::Unlocked\lMaxThreshold" alt="" coords="857,107,1055,149"/>
+<area shape="rect" id="node10" href="$classCPN_1_1QueueBase.html#ad0b74a30e13286a1eb8553edf8ce5273" title="CPN::QueueBase::WaitForData" alt="" coords="847,224,1065,251"/>
+<area shape="rect" id="node19" href="$classCPN_1_1QueueBase.html#ab0ddfd709f6013c203bbff26ccce0ea7" title="CPN::QueueBase::WriteBlocked" alt="" coords="845,275,1067,301"/>
+<area shape="rect" id="node11" href="$classD4R_1_1QueueBase.html#a52810551b01bc61af61475fbf90c4acf" title="D4R::QueueBase::ReadBlock" alt="" coords="1134,325,1338,352"/>
+<area shape="rect" id="node15" href="$classCPN_1_1QueueBase.html#a7f976cd52a34b543d5a2fdd176b68f07" title="CPN::QueueBase::ReadBlocked" alt="" coords="1125,224,1347,251"/>
+<area shape="rect" id="node17" href="$classPthreadCondition.html#ab99fbf92eab7af6061f92fd710267969" title="PthreadCondition::Wait" alt="" coords="1153,376,1319,403"/>
+<area shape="rect" id="node12" href="$classD4R_1_1QueueBase.html#ab5e5c5fb585a49bdfe6883258eee19c7" title="D4R::QueueBase::ReadBlocked" alt="" coords="1410,291,1630,317"/>
+<area shape="rect" id="node13" href="$classD4R_1_1QueueBase.html#aba5123543ffffd2852e4751c4a89cc2a" title="D4R::QueueBase::Signal" alt="" coords="1431,341,1609,368"/>
+<area shape="rect" id="node14" href="$classD4R_1_1QueueBase.html#afa6537f32d60f7ecc46bc9fc5b59e505" title="D4R::QueueBase::Wait" alt="" coords="1437,392,1603,419"/>
+<area shape="rect" id="node16" href="$classCPN_1_1QueueBase.html#a83145a88a72c940157d32efd2fb152b3" title="CPN::QueueBase::Unlocked\lCount" alt="" coords="1421,225,1619,266"/>
+<area shape="rect" id="node18" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="1443,465,1597,506"/>
+<area shape="rect" id="node20" href="$classCPN_1_1QueueBase.html#af59be783dd669efa40fc99f42d6b8d09" title="CPN::QueueBase::Unlocked\lFreespace" alt="" coords="1137,427,1335,469"/>
+<area shape="rect" id="node23" href="$classPthreadCondition.html#af19e3e3f13f3b600b8705856c07f7480" title="PthreadCondition::Broadcast" alt="" coords="1133,493,1339,520"/>
+</map>

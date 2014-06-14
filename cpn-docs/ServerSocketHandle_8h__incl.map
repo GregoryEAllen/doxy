@@ -1,0 +1,13 @@
+<map id="include/cpn/io/ServerSocketHandle.h" name="include/cpn/io/ServerSocketHandle.h">
+<area shape="rect" id="node2" href="$common_8h.html" title="cpn/common.h" alt="" coords="573,576,691,603"/>
+<area shape="rect" id="node6" href="$FileHandle_8h.html" title="A class to make it easy to deal with file descriptors. " alt="" coords="271,96,413,123"/>
+<area shape="rect" id="node23" href="$SocketAddress_8h.html" title="cpn/io/SocketAddress.h" alt="" coords="1186,427,1357,453"/>
+<area shape="rect" id="node7" href="$PthreadMutex_8h.html" title="cpn/threading/PthreadMutex.h" alt="" coords="459,171,673,197"/>
+<area shape="rect" id="node18" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="138,253,288,280"/>
+<area shape="rect" id="node19" href="$IteratorRef_8h.html" title="This allows the encapsulation of an arbitrary iterator of a specific type. This allows for non templa..." alt="" coords="5,501,163,528"/>
+<area shape="rect" id="node8" href="$PthreadDefs_8h.html" title="cpn/threading/PthreadDefs.h" alt="" coords="415,427,620,453"/>
+<area shape="rect" id="node11" href="$PthreadErrorHandler_8h.html" title="cpn/threading/PthreadError\lHandler.h" alt="" coords="604,337,799,378"/>
+<area shape="rect" id="node17" href="$PthreadMutexAttr_8h.html" title="cpn/threading/PthreadMutex\lAttr.h" alt="" coords="604,246,807,287"/>
+<area shape="rect" id="node12" href="$ErrnoException_8h.html" title="cpn/utils/ErrnoException.h" alt="" coords="695,427,881,453"/>
+<area shape="rect" id="node13" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="797,501,949,528"/>
+</map>

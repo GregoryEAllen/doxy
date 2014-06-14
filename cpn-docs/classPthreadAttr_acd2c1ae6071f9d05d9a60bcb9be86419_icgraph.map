@@ -1,0 +1,6 @@
+<map id="PthreadAttr::DetachState" name="PthreadAttr::DetachState">
+<area shape="rect" id="node2" href="$classPthreadAttr.html#aabf39214017e802b4c9c5adff365ef0b" title="PthreadAttr::CreateDetached" alt="" coords="241,5,450,32"/>
+<area shape="rect" id="node3" href="$classPthreadAttr.html#a3b8138f05bae315bf133619abfc25a91" title="PthreadAttr::CreateJoinable" alt="" coords="247,56,443,83"/>
+<area shape="rect" id="node4" href="$classPthreadAttr.html#abea7bff06567562f04867ded5ab2e7ce" title="PthreadAttr::Detached" alt="" coords="262,107,429,133"/>
+<area shape="rect" id="node5" href="$classPthreadAttr.html#a3e626be8853cd1210e5a547121dd0815" title="PthreadAttr::Joinable" alt="" coords="269,157,422,184"/>
+</map>

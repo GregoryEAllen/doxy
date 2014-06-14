@@ -1,0 +1,16 @@
+<map id="CPN::QueueBase::UnlockedGrow" name="CPN::QueueBase::UnlockedGrow">
+<area shape="rect" id="node2" href="$classCPN_1_1QueueBase.html#aecc2e04c8c60fd4426c2c2cf7edba8fd" title="CPN::QueueBase::Detect" alt="" coords="326,12,509,39"/>
+<area shape="rect" id="node3" href="$classCPN_1_1QueueBase.html#a187761f1c484443f5d7f6cb73acfa603" title="CPN::QueueBase::GetRawDequeuePtr" alt="" coords="286,63,549,89"/>
+<area shape="rect" id="node7" href="$classCPN_1_1QueueBase.html#a976400d78bcb131c0744a33f7e3acc2b" title="CPN::QueueBase::GetRawEnqueuePtr" alt="" coords="287,117,548,144"/>
+<area shape="rect" id="node15" href="$classCPN_1_1QueueBase.html#a5f4fe7dde66da3d0d77aac432735d06a" title="CPN::QueueBase::Grow" alt="" coords="332,168,503,195"/>
+<area shape="rect" id="node4" href="$classCPN_1_1QueueBase.html#a161cadb9f60b2eb855c2f5712fefb9fe" title="CPN::QueueBase::Dequeue" alt="" coords="609,9,807,36"/>
+<area shape="rect" id="node5" href="$classCPN_1_1QueueBase.html#a617fcae989850ed7276337f11fc360fd" title="CPN::QueueBase::RawDequeue" alt="" coords="867,9,1090,36"/>
+<area shape="rect" id="node6" href="$classCPN_1_1QueueBase.html#a4809757541e78c67a87babb95289f046" title="CPN::QueueBase::RawDequeue" alt="" coords="1151,5,1374,32"/>
+<area shape="rect" id="node8" href="$classCPN_1_1ThresholdQueue_1_1TQImpl.html#a270ceb9c20d5df43b781368e57678ef0" title="CPN::ThresholdQueue\l::TQImpl::Grow" alt="" coords="627,111,789,153"/>
+<area shape="rect" id="node13" href="$classCPN_1_1QueueBase.html#af6156045b23e66c13ae23e7bd88f8e9d" title="CPN::QueueBase::RawEnqueue" alt="" coords="598,177,818,204"/>
+<area shape="rect" id="node9" href="$classCPN_1_1ThresholdQueue.html#ac31e76601a0261c0a66a2f39ce098066" title="CPN::ThresholdQueue\l::UnlockedGrow" alt="" coords="898,111,1059,153"/>
+<area shape="rect" id="node10" href="$classCPN_1_1RemoteQueue.html#a220105f8533abaee8c95e15506b769d7" title="CPN::RemoteQueue::Enqueue\lPacket" alt="" coords="1156,57,1369,98"/>
+<area shape="rect" id="node11" href="$classCPN_1_1RemoteQueue.html#aafff7e59c0efd91fe91977898bd3c9b9" title="CPN::RemoteQueue::GrowPacket" alt="" coords="1147,123,1379,149"/>
+<area shape="rect" id="node12" href="$classCPN_1_1RemoteQueue.html#aa9212855a064fa3c9799033bc99702f3" title="CPN::RemoteQueue::UnlockedGrow" alt="" coords="1139,173,1387,200"/>
+<area shape="rect" id="node14" href="$classCPN_1_1QueueBase.html#a63ea106def326125487eed2a57081a31" title="CPN::QueueBase::RawEnqueue" alt="" coords="869,177,1089,204"/>
+</map>

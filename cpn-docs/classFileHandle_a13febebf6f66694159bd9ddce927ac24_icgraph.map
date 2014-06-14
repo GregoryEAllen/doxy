@@ -1,0 +1,5 @@
+<map id="FileHandle::Read" name="FileHandle::Read">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a03077397a51caeeef041f3e7ac674d51" title="CPN::RemoteQueue::D4RTag\lPacket" alt="" coords="182,5,389,46"/>
+<area shape="rect" id="node3" href="$classWakeupHandle.html#afa463e067ac79aa4b32a0aa97fc06d1a" title="Read until not readable anymore. " alt="" coords="207,71,364,97"/>
+<area shape="rect" id="node4" href="$classCPN_1_1ConnectionServer.html#aa5f4cfc5b8de2c7d4adcdcd2f0dc8b53" title="CPN::ConnectionServer\l::Poll" alt="" coords="437,63,608,105"/>
+</map>

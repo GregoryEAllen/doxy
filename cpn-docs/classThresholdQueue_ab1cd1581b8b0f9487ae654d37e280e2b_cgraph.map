@@ -1,0 +1,6 @@
+<map id="ThresholdQueue::GetEnqueuePtr" name="ThresholdQueue::GetEnqueuePtr">
+<area shape="rect" id="node2" href="$classThresholdQueueBase.html#a7461658339d5ccac0968e3a896217768" title="ThresholdQueueBase\l::GetRawEnqueuePtr" alt="" coords="286,38,445,79"/>
+<area shape="rect" id="node3" href="$classThresholdQueueBase.html#a12db1ee24701f01563200e54804c07c0" title="ThresholdQueueBase\l::Freespace" alt="" coords="494,5,653,46"/>
+<area shape="rect" id="node5" href="$classThresholdQueueBase.html#ad30d3f9f0048ca2ec733d58cfb5ea85e" title="ThresholdQueueBase\l::MaxThreshold" alt="" coords="494,70,653,111"/>
+<area shape="rect" id="node4" href="$classThresholdQueueBase.html#a19a2dc5a8e6cea9877bc6c9cfb3eef84" title="ThresholdQueueBase\l::Count" alt="" coords="702,5,861,46"/>
+</map>

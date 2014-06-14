@@ -1,0 +1,9 @@
+<map id="Logger::Warn" name="Logger::Warn">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a220105f8533abaee8c95e15506b769d7" title="CPN::RemoteQueue::Enqueue\lPacket" alt="" coords="160,5,373,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#a944fe77d0cb235097ff446038ad9f0a3" title="CPN::Kernel::EntryPoint" alt="" coords="181,71,352,97"/>
+<area shape="rect" id="node5" href="$classCPN_1_1Kernel.html#a3be815bae9b2917ea54d0a70a8c341a3" title="Called by the node in the cleanup routine. TO BE CALLED ONLY BY THE CPN INTERNALS. " alt="" coords="161,125,373,152"/>
+<area shape="rect" id="node4" href="$classCPN_1_1Kernel.html#a0568a15f36131f587980ce2d67ad380a" title="CPN::Kernel::Kernel" alt="" coords="453,67,598,93"/>
+<area shape="rect" id="node6" href="$classCPN_1_1Kernel.html#a156bee2381b1571d1fd879db38f3477c" title="CPN::Kernel::DestroyExternal\lEndpoint" alt="" coords="422,118,629,159"/>
+<area shape="rect" id="node7" href="$classCPN_1_1NodeBase.html#a54d64beffef7c214abeebdfe8fb20ade" title="CPN::NodeBase::EntryPoint" alt="" coords="427,184,623,211"/>
+<area shape="rect" id="node8" href="$classCPN_1_1NodeBase.html#a1bdf0246d82eb6767aedfd3e12d9168e" title="CPN::NodeBase::NodeBase" alt="" coords="677,184,875,211"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CPN::RemoteContextClient::NewGenericWaiter" name="CPN::RemoteContextClient::NewGenericWaiter">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#a6717e251bf8a319f7942961ef90d2f8b" title="Convenience method which waits until there are no nodes running. If no node have started then this wi..." alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#a5d0dbcc4bd7709ff7796f09d54ea2084" title="Does not return until the given kernel has started. " alt="" coords="249,70,442,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html#a45c8ca4b305e3cf9c25f232a71f83629" title="Waits for the given node to signal end. " alt="" coords="249,135,442,177"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextClient.html#a619ebc7bb34d623c390d0b2396cdb619" title="Waits until the node starts and returns the key, if the node is already started returns the key..." alt="" coords="249,201,442,242"/>
+</map>

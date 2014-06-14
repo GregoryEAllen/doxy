@@ -1,0 +1,8 @@
+<map id="SocketHandle::Recv" name="SocketHandle::Recv">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="219,7,376,49"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a9dbdd9b58f33e3d0cdd5e0cd4327540f" title="CPN::RemoteQueue::Read" alt="" coords="203,75,392,101"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="464,5,621,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="440,70,645,111"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="693,70,891,111"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="939,70,1146,111"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Sync::ReentrantCondition::Wait" name="Sync::ReentrantCondition::Wait">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a944fe77d0cb235097ff446038ad9f0a3" title="CPN::Kernel::EntryPoint" alt="" coords="260,5,431,32"/>
+<area shape="rect" id="node4" href="$classCPN_1_1PseudoNode.html#a2c13e859aea5123756e50464aaa68aa2" title="CPN::PseudoNode::GetReader" alt="" coords="238,56,453,83"/>
+<area shape="rect" id="node6" href="$classCPN_1_1PseudoNode.html#a8455634e89db211a79b2264e278b58bb" title="CPN::PseudoNode::GetWriter" alt="" coords="242,107,449,133"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#a0568a15f36131f587980ce2d67ad380a" title="CPN::Kernel::Kernel" alt="" coords="539,5,685,32"/>
+<area shape="rect" id="node5" href="$classCPN_1_1PseudoNode.html#ab8bd43c2eb72056938daf2e518a00d61" title="This method is for use by the user to aquire a reader endpoint. This function blocks until the CPN::K..." alt="" coords="505,56,719,83"/>
+<area shape="rect" id="node7" href="$classCPN_1_1PseudoNode.html#a222e919009f177adef9c0359dd88b9a9" title="This method is for use by the user to aquire a writer endpoint. This function blocks until the CPN::K..." alt="" coords="501,107,723,133"/>
+</map>

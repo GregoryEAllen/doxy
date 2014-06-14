@@ -1,0 +1,8 @@
+<map id="ThresholdQueueBase::GetRawEnqueuePtr" name="ThresholdQueueBase::GetRawEnqueuePtr">
+<area shape="rect" id="node2" href="$classThresholdQueue.html#ab1cd1581b8b0f9487ae654d37e280e2b" title="ThresholdQueue::GetEnqueuePtr" alt="" coords="214,5,445,32"/>
+<area shape="rect" id="node3" href="$classThresholdQueueBase.html#a762f67529bb0c573a10095b6057b5b39" title="ThresholdQueueBase\l::Grow" alt="" coords="250,57,409,98"/>
+<area shape="rect" id="node4" href="$classCPN_1_1ThresholdQueue.html#aab6877d8ae5793977a7739833181e6eb" title="CPN::ThresholdQueue\l::InternalEnqueue" alt="" coords="249,187,410,229"/>
+<area shape="rect" id="node7" href="$classCPN_1_1ThresholdQueue.html#a5bc6fced644512d51ca01f60de71c967" title="CPN::ThresholdQueue\l::InternalGetRawEnqueuePtr" alt="" coords="229,122,429,163"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a220105f8533abaee8c95e15506b769d7" title="CPN::RemoteQueue::Enqueue\lPacket" alt="" coords="493,122,707,163"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#aa8f0bd50457b2ca44e58f55999061b48" title="CPN::RemoteQueue::Internal\lEnqueue" alt="" coords="497,187,703,229"/>
+</map>

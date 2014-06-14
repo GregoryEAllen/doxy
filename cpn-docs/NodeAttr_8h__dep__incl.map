@@ -1,0 +1,18 @@
+<map id="include/cpn/NodeAttr.h" name="include/cpn/NodeAttr.h">
+<area shape="rect" id="node2" href="$KernelBase_8h.html" title="include/cpn/bits/KernelBase.h" alt="" coords="709,88,917,115"/>
+<area shape="rect" id="node3" href="$Kernel_8h.html" title="Definition for the kernel object. " alt="" coords="1022,179,1172,205"/>
+<area shape="rect" id="node14" href="$NodeBase_8h.html" title="The base definition of all nodes. " alt="" coords="5,179,181,205"/>
+<area shape="rect" id="node15" href="$RemoteContextClient_8h.html" title="include/cpn/remote\l_context/RemoteContextClient.h" alt="" coords="1180,81,1409,122"/>
+<area shape="rect" id="node8" href="$KernelBase_8cc.html" title="lib/KernelBase.cc" alt="" coords="701,179,832,205"/>
+<area shape="rect" id="node9" href="$LocalContext_8cc.html" title="lib/LocalContext.cc" alt="" coords="856,179,997,205"/>
+<area shape="rect" id="node10" href="$QueueBase_8cc.html" title="Implementation for the QueueBase. " alt="" coords="206,179,337,205"/>
+<area shape="rect" id="node11" href="$RDMAQueue_8cc.html" title="lib/RDMAQueue.cc" alt="" coords="363,179,501,205"/>
+<area shape="rect" id="node12" href="$RemoteContextClient_8cc.html" title="lib/RemoteContextClient.cc" alt="" coords="1197,179,1392,205"/>
+<area shape="rect" id="node13" href="$RemoteQueue_8cc.html" title="lib/RemoteQueue.cc" alt="" coords="526,179,676,205"/>
+<area shape="rect" id="node4" href="$VariantCPNLoader_8h.html" title="include/cpn/VariantCPNLoader.h" alt="" coords="1021,261,1248,288"/>
+<area shape="rect" id="node6" href="$Kernel_8cc.html" title="Implementation for kernel functions. " alt="" coords="728,261,827,288"/>
+<area shape="rect" id="node7" href="$NodeBase_8cc.html" title="Implementation for the NodeBase class. " alt="" coords="239,261,363,288"/>
+<area shape="rect" id="node5" href="$VariantCPNLoader_8cc.html" title="lib/VariantCPNLoader.cc" alt="" coords="1141,336,1315,363"/>
+<area shape="rect" id="node16" href="$RemoteContext_8h.html" title="include/cpn/remote\l_context/RemoteContext.h" alt="" coords="1417,171,1609,213"/>
+<area shape="rect" id="node17" href="$RemoteContext_8cc.html" title="lib/RemoteContext.cc" alt="" coords="1434,261,1592,288"/>
+</map>

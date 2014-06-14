@@ -1,0 +1,48 @@
+<map id="CPN::RemoteQueue::FileThreadEntryPoint" name="CPN::RemoteQueue::FileThreadEntryPoint">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueueHolder.html#a18a5f4a8ab5357bc70f144dd0cc89db5" title="CPN::RemoteQueueHolder\l::CleanupQueue" alt="" coords="293,5,483,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a7f664e99737bfa9ac6bd07cf3f7dde2d" title="CPN::RemoteQueue::ClockString" alt="" coords="547,239,776,265"/>
+<area shape="rect" id="node6" href="$classFileHandle.html#acc4c70826361f12e2968df41aa31cb81" title="FileHandle::Closed" alt="" coords="592,780,731,807"/>
+<area shape="rect" id="node7" href="$classCPN_1_1ConnectionServer.html#a947447721d3f1816f359b4bf556f4920" title="CPN::ConnectionServer\l::ConnectReader" alt="" coords="303,819,473,861"/>
+<area shape="rect" id="node8" href="$classCPN_1_1ConnectionServer.html#ac44d20b3d3764fc5a3928acf8eab4b33" title="CPN::ConnectionServer\l::ConnectWriter" alt="" coords="303,987,473,1029"/>
+<area shape="rect" id="node12" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="605,831,718,857"/>
+<area shape="rect" id="node13" href="$classFileHandle.html#a5cd5b33f7f0274cd4d22d7c3c6b3ab19" title="Clear all internal state including the file descriptor! WARNING does not close the file! ..." alt="" coords="595,1135,727,1161"/>
+<area shape="rect" id="node18" href="$classLogger.html#a33460c453854c1a10b71051788cb097e" title="Logger::Debug" alt="" coords="330,216,446,243"/>
+<area shape="rect" id="node22" href="$classLogger.html#ac25cb052d8f2be9a3be062d584cf23af" title="Logger::Error" alt="" coords="609,492,714,519"/>
+<area shape="rect" id="node23" href="$classCPN_1_1RemoteQueue.html#a484f6da49c0b5227255cd30bc4601ddb" title="CPN::RemoteQueue::GetKey" alt="" coords="287,1155,489,1181"/>
+<area shape="rect" id="node24" href="$classCPN_1_1RemoteQueueHolder.html#a0423f06780267697944a3b5cec8ef22d" title="CPN::RemoteQueueHolder\l::GetWakeup" alt="" coords="293,1206,483,1247"/>
+<area shape="rect" id="node25" href="$classCPN_1_1RemoteQueue.html#a613f967b3e920a83023201af47d3f35c" title="CPN::RemoteQueue::Handle\lError" alt="" coords="287,401,489,442"/>
+<area shape="rect" id="node26" href="$classCPN_1_1RemoteQueue.html#a1b0d369be386183f5c96bb0ef2600382" title="CPN::RemoteQueue::Signal" alt="" coords="829,503,1025,529"/>
+<area shape="rect" id="node31" href="$classErrnoException.html#a934ecdbc4001c2e6e9b88313be594401" title="ErrnoException::what" alt="" coords="583,543,739,569"/>
+<area shape="rect" id="node32" href="$classCPN_1_1KernelBase.html#a4c0b3d1fe769a68f2ae2c04f7283325e" title="CPN::KernelBase::IsTerminated" alt="" coords="278,1272,498,1299"/>
+<area shape="rect" id="node33" href="$classFileHandle.html#a18b6cc4b2f1bb88ab91e44c633cf7a26" title="poll a list of FileHandles for any activity and call the appropriate On method. " alt="" coords="329,1104,447,1131"/>
+<area shape="rect" id="node39" href="$classSocketHandle.html#ae43ed4a359fb2c4e3e500c01f340137e" title="SocketHandle::SetNoDelay" alt="" coords="291,936,485,963"/>
+<area shape="rect" id="node40" href="$classCPN_1_1RemoteQueue.html#a1223495e8c0f875a1ed1179a92d5c97b" title="CPN::RemoteQueue::Shutdown" alt="" coords="278,148,498,175"/>
+<area shape="rect" id="node42" href="$classCPN_1_1QueueBase.html#a01637e158c3692a934b43160c5027dc7" title="Called by the QueueReader when no more data will be read. " alt="" coords="287,702,489,743"/>
+<area shape="rect" id="node44" href="$classCPN_1_1QueueBase.html#a5067fd9b863a64908952ab078c51244c" title="Called by the QueueWriter when no more data will be written. " alt="" coords="287,637,489,678"/>
+<area shape="rect" id="node46" href="$classPthreadCondition.html#ab99fbf92eab7af6061f92fd710267969" title="PthreadCondition::Wait" alt="" coords="843,71,1010,97"/>
+<area shape="rect" id="node47" href="$classCPN_1_1ConnectionServer.html#a3daf6f2f7de25e30b8396bc77159c2ab" title="CPN::ConnectionServer\l::Wakeup" alt="" coords="303,1323,473,1365"/>
+<area shape="rect" id="node3" href="$classPthreadCondition.html#a3ec7cb45ee97d8ad7b24705a5d036f6d" title="PthreadCondition::Signal" alt="" coords="837,19,1016,45"/>
+<area shape="rect" id="node4" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="1090,63,1243,105"/>
+<area shape="rect" id="node9" href="$classSocketHandle.html#a681e3b68f3cf0c488a3b2e29283b5dda" title="Create a new socket and try to connect to the given address. " alt="" coords="575,1084,747,1111"/>
+<area shape="rect" id="node10" href="$classSocketAddress.html#adfbd960e8098ce84d870a70770d68c54" title="Return a list of valid socket address for the given service number or port number. " alt="" coords="571,881,751,908"/>
+<area shape="rect" id="node14" href="$classCPN_1_1Packet.html#a2cb88284adad14029bc8a31ce5226a21" title="CPN::Packet::SourceKey" alt="" coords="573,983,749,1009"/>
+<area shape="rect" id="node15" href="$classAutoLock.html#ae9550f948e40ae013bc6fcf3437b3159" title="AutoLock::Unlock" alt="" coords="595,1033,727,1060"/>
+<area shape="rect" id="node16" href="$classFileHandle.html#aacccb55cfc45f233a12319f157b8fb68" title="Write data to the file descriptor. " alt="" coords="597,932,725,959"/>
+<area shape="rect" id="node11" href="$classSocketAddress.html#a73b7ebe5b0527adcc051ea08d21ab140" title="SocketAddress::Family" alt="" coords="843,881,1010,908"/>
+<area shape="rect" id="node17" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="849,1084,1004,1111"/>
+<area shape="rect" id="node19" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="873,431,981,457"/>
+<area shape="rect" id="node20" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="1118,431,1215,457"/>
+<area shape="rect" id="node21" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="1304,431,1445,457"/>
+<area shape="rect" id="node28" href="$classErrnoException.html#a075df1c5a8d3eda6e7e3bc47121fef7f" title="ErrnoException::Error" alt="" coords="583,340,740,367"/>
+<area shape="rect" id="node29" href="$classFileHandle.html#a612f03fb934f50a6f1c159d017e3ea27" title="Close the file and reset the internal state. " alt="" coords="596,391,727,417"/>
+<area shape="rect" id="node30" href="$classPthreadCondition.html#af19e3e3f13f3b600b8705856c07f7480" title="PthreadCondition::Broadcast" alt="" coords="824,129,1029,156"/>
+<area shape="rect" id="node27" href="$classCPN_1_1QueueBase.html#a670adfb2b909576dc8f014359936238e" title="CPN::QueueBase::Signal" alt="" coords="1077,644,1256,671"/>
+<area shape="rect" id="node34" href="$classFileHandle.html#aff8cac9f35f0d8ef08a4583bc60a92a3" title="Called by Poll when it detects that the file is readable. " alt="" coords="575,1287,748,1313"/>
+<area shape="rect" id="node36" href="$classFileHandle.html#aabd8fdac6feed227c0d0a866d7b750e4" title="Called by Poll when it detects that the file is writeable. " alt="" coords="575,1236,748,1263"/>
+<area shape="rect" id="node37" href="$classFileHandle.html#a26f62e8199a528cc90e0a328fa339443" title="Set that the file is currently readable or not. " alt="" coords="584,1337,739,1364"/>
+<area shape="rect" id="node38" href="$classFileHandle.html#ab1949dea354091b7d10940014aee8796" title="Set that this file is currently writeable or not. " alt="" coords="584,1185,739,1212"/>
+<area shape="rect" id="node35" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="849,1287,1004,1313"/>
+<area shape="rect" id="node41" href="$classCPN_1_1RemoteQueue.html#a72b57fbde15d215820a6afd583d19979" title="CPN::RemoteQueue::Unlocked\lShutdown" alt="" coords="553,122,769,163"/>
+<area shape="rect" id="node43" href="$classCPN_1_1QueueBase.html#a04bd07c0408173841ede7b1b5d77e462" title="CPN::QueueBase::Unlocked\lShutdownReader" alt="" coords="827,702,1026,743"/>
+<area shape="rect" id="node45" href="$classCPN_1_1QueueBase.html#aa51f9990526ff832fc3b9d03c13c5875" title="CPN::QueueBase::Unlocked\lShutdownWriter" alt="" coords="827,637,1026,678"/>
+</map>

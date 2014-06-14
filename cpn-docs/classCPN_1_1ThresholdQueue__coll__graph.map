@@ -1,0 +1,18 @@
+<map id="CPN::ThresholdQueue" name="CPN::ThresholdQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1QueueBase.html" title="The base class for all queues in the CPN library. " alt="" coords="947,364,1077,391"/>
+<area shape="rect" id="node3" href="$classD4R_1_1QueueBase.html" title="D4R::QueueBase" alt="" coords="631,308,761,335"/>
+<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="342,179,391,205"/>
+<area shape="rect" id="node6" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="641,425,751,452"/>
+<area shape="rect" id="node7" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="290,404,443,431"/>
+<area shape="rect" id="node10" href="$classPthreadCondition.html" title="PthreadCondition" alt="" coords="630,364,762,391"/>
+<area shape="rect" id="node8" href="$classint.html" title="int" alt="" coords="55,599,94,625"/>
+<area shape="rect" id="node16" href="$classLogger.html" title="Logger object that is used for forwarding log messages. " alt="" coords="663,593,729,620"/>
+<area shape="rect" id="node22" href="$classMirrorBufferSet.html" title="MirrorBufferSet" alt="" coords="307,1101,426,1128"/>
+<area shape="rect" id="node18" href="$classSync_1_1ReentrantLock.html" title="Sync::ReentrantLock" alt="" coords="290,517,443,544"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="323,721,410,748"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="6,714,143,755"/>
+<area shape="rect" id="node15" href="$classCPN_1_1KernelBase.html" title="CPN::KernelBase" alt="" coords="631,121,761,148"/>
+<area shape="rect" id="node17" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="311,660,422,687"/>
+<area shape="rect" id="node21" href="$classThresholdQueueBase.html" title="ThresholdQueueBase" alt="" coords="617,1064,775,1091"/>
+<area shape="rect" id="node20" href="$classCPN_1_1ThresholdQueue_1_1TQImpl.html" title="CPN::ThresholdQueue\l::TQImpl" alt="" coords="931,682,1093,723"/>
+</map>

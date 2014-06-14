@@ -1,0 +1,6 @@
+<map id="ServerSocketHandle::Accept" name="ServerSocketHandle::Accept">
+<area shape="rect" id="node2" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="241,5,354,32"/>
+<area shape="rect" id="node3" href="$classSocketAddress.html#a9100510b7c4c5454c9012f06da74b417" title="SocketAddress::GetAddr" alt="" coords="208,56,387,83"/>
+<area shape="rect" id="node4" href="$classSocketAddress.html#a76d096b153ca6e75e1a3e6c75e09a562" title="SocketAddress::GetLen" alt="" coords="211,107,383,133"/>
+<area shape="rect" id="node5" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="220,157,375,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="D4R::QueueBase" name="D4R::QueueBase">
+<area shape="rect" id="node2" href="$classCPN_1_1QueueBase.html" title="The base class for all queues in the CPN library. " alt="" coords="20,80,151,107"/>
+<area shape="rect" id="node3" href="$classCPN_1_1ThresholdQueue.html" title="A version of the ThresholdQueue that provides the CPN Queue interface This queue implementation creat..." alt="" coords="5,155,165,181"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html" title="CPN::RemoteQueue" alt="" coords="11,229,160,256"/>
+</map>

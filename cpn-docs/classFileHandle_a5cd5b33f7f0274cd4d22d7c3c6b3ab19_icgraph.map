@@ -1,0 +1,6 @@
+<map id="FileHandle::Reset" name="FileHandle::Reset">
+<area shape="rect" id="node2" href="$classCPN_1_1ConnectionServer.html#ac44d20b3d3764fc5a3928acf8eab4b33" title="CPN::ConnectionServer\l::ConnectWriter" alt="" coords="188,5,359,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="409,34,631,75"/>
+<area shape="rect" id="node5" href="$classFileHandle.html#a82b120a28b10d0637d84e490fbc9836a" title="Close the file descriptor. Use Reset if one wants to not close the file descriptor. " alt="" coords="187,121,360,148"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="681,34,887,75"/>
+</map>

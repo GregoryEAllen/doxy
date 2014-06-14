@@ -1,0 +1,17 @@
+<map id="Sync::StatusHandler::Get" name="Sync::StatusHandler::Get">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a944fe77d0cb235097ff446038ad9f0a3" title="CPN::Kernel::EntryPoint" alt="" coords="268,19,439,45"/>
+<area shape="rect" id="node4" href="$classCPN_1_1Kernel.html#aca59ea4824736b17d8d45720ac80b304" title="CPN::Kernel::InternalCreateNode" alt="" coords="238,95,469,121"/>
+<area shape="rect" id="node10" href="$classCPN_1_1Kernel.html#ab632413c75973a4329c1abba5322bec0" title="CPN::Kernel::LogState" alt="" coords="272,145,435,172"/>
+<area shape="rect" id="node11" href="$classCPN_1_1Kernel.html#a3be815bae9b2917ea54d0a70a8c341a3" title="Called by the node in the cleanup routine. TO BE CALLED ONLY BY THE CPN INTERNALS. " alt="" coords="247,196,459,223"/>
+<area shape="rect" id="node15" href="$classCPN_1_1Kernel.html#ae5d14c70a749c8523ad70e5e266a6976" title="CPN::Kernel::Wait" alt="" coords="287,255,419,281"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#a0568a15f36131f587980ce2d67ad380a" title="CPN::Kernel::Kernel" alt="" coords="561,5,706,32"/>
+<area shape="rect" id="node5" href="$classCPN_1_1Kernel.html#a1812530830eacb8696ac0d0c1ab1401e" title="CPN::Kernel::CreateNode" alt="" coords="542,56,725,83"/>
+<area shape="rect" id="node9" href="$classCPN_1_1Kernel.html#a945b90693d376a02660d769f18655e15" title="CPN::Kernel::RemoteCreateNode" alt="" coords="517,107,749,133"/>
+<area shape="rect" id="node6" href="$classCPN_1_1VariantCPNLoader.html#ac21c1933edbf9761a188fd9c9adce1a5" title="CPN::VariantCPNLoader\l::LoadNode" alt="" coords="809,49,983,90"/>
+<area shape="rect" id="node7" href="$classCPN_1_1VariantCPNLoader.html#a5f67158b09d145710895e9a55e1c7259" title="CPN::VariantCPNLoader\l::LoadNodes" alt="" coords="1043,49,1218,90"/>
+<area shape="rect" id="node8" href="$classCPN_1_1VariantCPNLoader.html#af48f89d421e8df5eac478355ce75fddd" title="CPN::VariantCPNLoader\l::Setup" alt="" coords="1267,49,1442,90"/>
+<area shape="rect" id="node12" href="$classCPN_1_1Kernel.html#a156bee2381b1571d1fd879db38f3477c" title="CPN::Kernel::DestroyExternal\lEndpoint" alt="" coords="530,158,737,199"/>
+<area shape="rect" id="node13" href="$classCPN_1_1NodeBase.html#a54d64beffef7c214abeebdfe8fb20ade" title="CPN::NodeBase::EntryPoint" alt="" coords="535,224,731,251"/>
+<area shape="rect" id="node14" href="$classCPN_1_1NodeBase.html#a1bdf0246d82eb6767aedfd3e12d9168e" title="CPN::NodeBase::NodeBase" alt="" coords="797,224,995,251"/>
+<area shape="rect" id="node16" href="$classCPN_1_1Kernel.html#a4b63b7954bfaf290bfd206adef50442f" title="CPN::Kernel::~Kernel" alt="" coords="555,275,711,301"/>
+</map>

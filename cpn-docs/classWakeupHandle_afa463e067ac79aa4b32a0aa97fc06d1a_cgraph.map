@@ -1,0 +1,4 @@
+<map id="WakeupHandle::Read" name="WakeupHandle::Read">
+<area shape="rect" id="node2" href="$classFileHandle.html#a13febebf6f66694159bd9ddce927ac24" title="Read data from the file descriptor. " alt="" coords="211,5,339,32"/>
+<area shape="rect" id="node3" href="$classFileHandle.html#a055b601d3bca904714b60e0ca66bee61" title="Gives the current readability status of the file. " alt="" coords="387,5,541,32"/>
+</map>

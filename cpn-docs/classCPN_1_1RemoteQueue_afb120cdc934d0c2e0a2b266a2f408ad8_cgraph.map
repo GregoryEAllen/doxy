@@ -1,0 +1,13 @@
+<map id="CPN::RemoteQueue::InternalReset" name="CPN::RemoteQueue::InternalReset">
+<area shape="rect" id="node2" href="$classCPN_1_1ThresholdQueue.html#a672f03e8699ea0750c7219f6c6c96c57" title="CPN::ThresholdQueue\l::InternalReset" alt="" coords="277,195,438,237"/>
+<area shape="rect" id="node11" href="$classCPN_1_1RemoteQueue.html#a1b0d369be386183f5c96bb0ef2600382" title="CPN::RemoteQueue::Signal" alt="" coords="259,261,455,288"/>
+<area shape="rect" id="node3" href="$classCPN_1_1QueueBase.html#a4f0034eb31b607a45f72d168e971d821" title="CPN::QueueBase::Internal\lReset" alt="" coords="504,130,691,171"/>
+<area shape="rect" id="node10" href="$classThresholdQueueBase.html#a0843e9f1a8b509444d5669ec00d0b40b" title="ThresholdQueueBase\l::Reset" alt="" coords="518,195,677,237"/>
+<area shape="rect" id="node4" href="$classPthreadCondition.html#af19e3e3f13f3b600b8705856c07f7480" title="PthreadCondition::Broadcast" alt="" coords="739,13,944,40"/>
+<area shape="rect" id="node6" href="$classCPN_1_1QueueBase.html#ad4c850f3e7ad579a01307622fda16416" title="CPN::QueueBase::Internal\lEnqueue" alt="" coords="748,65,935,106"/>
+<area shape="rect" id="node7" href="$classCPN_1_1QueueBase.html#a344a119323dc1c921a64b6a92bbea809" title="CPN::QueueBase::Internal\lGetRawEnqueuePtr" alt="" coords="748,130,935,171"/>
+<area shape="rect" id="node8" href="$classCPN_1_1QueueBase.html#ad07b62c9cd3af30c44392e5bac36546d" title="CPN::QueueBase::Unlocked\lEnqueueChannelStride" alt="" coords="742,195,941,237"/>
+<area shape="rect" id="node9" href="$classCPN_1_1QueueBase.html#a611fb3aa17ec4cecdba94cb01fae8e80" title="CPN::QueueBase::Unlocked\lNumChannels" alt="" coords="742,261,941,302"/>
+<area shape="rect" id="node5" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="993,6,1146,47"/>
+<area shape="rect" id="node12" href="$classCPN_1_1QueueBase.html#a670adfb2b909576dc8f014359936238e" title="CPN::QueueBase::Signal" alt="" coords="508,261,687,288"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CPN::KernelBase::RemoteCreateNode" name="CPN::KernelBase::RemoteCreateNode">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#a8f7ce191887665b2fdacd983697a3494" title="CPN::RemoteContextClient\l::DispatchMessage" alt="" coords="318,5,511,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1LocalContext.html#adfabd446a5fd3499b9ed842898f81d8c" title="Tell a given kernel that it needs to create a node. " alt="" coords="341,70,489,111"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="560,5,717,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="765,5,923,46"/>
+</map>

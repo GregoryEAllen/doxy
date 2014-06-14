@@ -1,0 +1,7 @@
+<map id="CPN::RemoteContextServer::IsTerminated" name="CPN::RemoteContextServer::IsTerminated">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextDaemon.html#a601d55060c52e6570bd0371fff41fe34" title="Broadcast a message to all clients. " alt="" coords="254,5,466,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextServer.html#ab328f20abc011f7a041ead301834f1b7" title="Process the given message. " alt="" coords="261,70,459,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextDaemon.html#a8add5c7cab7a499503c0d0d8f867aa93" title="Run the actual Context returns when the context is terminated and all clients have disconnected..." alt="" coords="515,199,759,225"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextDaemon.html#ae2856ee249c9143e8091e25b08f683db" title="Send the given message to the given client. " alt="" coords="254,187,466,229"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContextDaemon.html#a3304854f21767579065b39271dfb9ff9" title="CPN::RemoteContextDaemon\l::Terminate" alt="" coords="254,253,466,294"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CPN::Context" name="CPN::Context">
+<area shape="rect" id="node3" href="$classCPN_1_1LocalContext.html" title="A local implementation of the Context interface. " alt="" coords="5,155,144,181"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html" title="This abstract class is the remote context client. " alt="" coords="169,155,361,181"/>
+<area shape="rect" id="node2" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="114,5,224,32"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContext.html" title="CPN::RemoteContext" alt="" coords="187,229,344,256"/>
+</map>

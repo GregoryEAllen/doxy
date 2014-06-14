@@ -1,0 +1,13 @@
+<map id="CPN::Kernel::EntryPoint" name="CPN::Kernel::EntryPoint">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#ad9f661af88e1146ea303d2fa8f1bb298" title="CPN::Kernel::ClearGarbage" alt="" coords="225,5,418,32"/>
+<area shape="rect" id="node3" href="$classSync_1_1StatusHandler.html#a66106e5921756268ba983416f3308b42" title="Sync::StatusHandler\l::CompareAndPost" alt="" coords="245,57,398,98"/>
+<area shape="rect" id="node4" href="$classSync_1_1StatusHandler.html#a05e5c957162c9472e3783744e022e458" title="Sync::StatusHandler::Get" alt="" coords="229,123,413,149"/>
+<area shape="rect" id="node5" href="$classAutoLock.html#a6ca6e08a1ab9025609bb7fa156984c1e" title="AutoLock::Lock" alt="" coords="262,173,381,200"/>
+<area shape="rect" id="node6" href="$classSync_1_1StatusHandler.html#ab32e8e2c798c97a9c5de91c91ecf6775" title="Sync::StatusHandler\l::Post" alt="" coords="245,225,398,266"/>
+<area shape="rect" id="node7" href="$classAutoLock.html#ae9550f948e40ae013bc6fcf3437b3159" title="AutoLock::Unlock" alt="" coords="255,291,387,317"/>
+<area shape="rect" id="node8" href="$classSync_1_1ReentrantCondition.html#a5860fe8ed91a358c746fbd7f01af9b9d" title="Sync::ReentrantCondition\l::Wait" alt="" coords="229,342,413,383"/>
+<area shape="rect" id="node9" href="$classLogger.html#a10e3c0f647678365b77770cfc3ec151d" title="Logger::Warn" alt="" coords="268,408,375,435"/>
+<area shape="rect" id="node10" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="467,408,575,435"/>
+<area shape="rect" id="node11" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="625,408,722,435"/>
+<area shape="rect" id="node12" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="771,408,912,435"/>
+</map>

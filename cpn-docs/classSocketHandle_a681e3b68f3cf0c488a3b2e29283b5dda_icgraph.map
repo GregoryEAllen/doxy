@@ -1,0 +1,7 @@
+<map id="SocketHandle::Connect" name="SocketHandle::Connect">
+<area shape="rect" id="node2" href="$classSocketHandle.html#a04e389e70c096ef76af321704bb6a8f0" title="Create a new socket and try to connect to one of the addresses in the address list. " alt="" coords="227,5,399,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1ConnectionServer.html#ac44d20b3d3764fc5a3928acf8eab4b33" title="CPN::ConnectionServer\l::ConnectWriter" alt="" coords="228,57,399,98"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="235,122,392,163"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="449,57,671,98"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="721,57,927,98"/>
+</map>

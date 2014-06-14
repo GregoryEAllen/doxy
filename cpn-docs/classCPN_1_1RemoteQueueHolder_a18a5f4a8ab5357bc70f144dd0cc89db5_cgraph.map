@@ -1,0 +1,4 @@
+<map id="CPN::RemoteQueueHolder::CleanupQueue" name="CPN::RemoteQueueHolder::CleanupQueue">
+<area shape="rect" id="node2" href="$classPthreadCondition.html#a3ec7cb45ee97d8ad7b24705a5d036f6d" title="PthreadCondition::Signal" alt="" coords="245,12,424,39"/>
+<area shape="rect" id="node3" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="473,5,626,46"/>
+</map>

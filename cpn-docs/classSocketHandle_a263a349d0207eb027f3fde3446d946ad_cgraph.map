@@ -1,0 +1,7 @@
+<map id="SocketHandle::Connect" name="SocketHandle::Connect">
+<area shape="rect" id="node2" href="$classFileHandle.html#acc4c70826361f12e2968df41aa31cb81" title="FileHandle::Closed" alt="" coords="247,5,385,32"/>
+<area shape="rect" id="node3" href="$classSocketAddress.html#a73b7ebe5b0527adcc051ea08d21ab140" title="SocketAddress::Family" alt="" coords="233,56,399,83"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="259,107,373,133"/>
+<area shape="rect" id="node5" href="$classSocketAddress.html#a9100510b7c4c5454c9012f06da74b417" title="SocketAddress::GetAddr" alt="" coords="227,157,405,184"/>
+<area shape="rect" id="node6" href="$classSocketAddress.html#a76d096b153ca6e75e1a3e6c75e09a562" title="SocketAddress::GetLen" alt="" coords="230,208,402,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CPN::Kernel::CreateReaderEndpoint" name="CPN::Kernel::CreateReaderEndpoint">
+<area shape="rect" id="node2" href="$classCPN_1_1SimpleQueueAttr.html#ad98d7de23dd688e7fb9671b5aac1f9a7" title="CPN::SimpleQueueAttr\l::GetHint" alt="" coords="270,5,437,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1SimpleQueueAttr.html#a8bad07ddfcfcf02f8b807dc78c3186d9" title="CPN::SimpleQueueAttr\l::GetReaderNodeKey" alt="" coords="270,70,437,111"/>
+<area shape="rect" id="node4" href="$namespaceCPN.html#a228bce00d5eb2153d3dbede1aac8fe1a" title="CPN::ParseQueueHintForMBS" alt="" coords="248,136,459,163"/>
+<area shape="rect" id="node5" href="$classAutoLock.html#ae9550f948e40ae013bc6fcf3437b3159" title="AutoLock::Unlock" alt="" coords="287,187,419,213"/>
+</map>

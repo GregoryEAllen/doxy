@@ -1,0 +1,5 @@
+<map id="SocketAddress::GetServName" name="SocketAddress::GetServName">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextDaemon_1_1Client.html#a2a241e1bdea062fb6d05fafdffb1481b" title="CPN::RemoteContextDaemon\l::Client::Client" alt="" coords="289,5,501,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1Kernel.html#a0568a15f36131f587980ce2d67ad380a" title="CPN::Kernel::Kernel" alt="" coords="322,71,467,97"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextDaemon.html#a8add5c7cab7a499503c0d0d8f867aa93" title="Run the actual Context returns when the context is terminated and all clients have disconnected..." alt="" coords="273,121,517,148"/>
+</map>

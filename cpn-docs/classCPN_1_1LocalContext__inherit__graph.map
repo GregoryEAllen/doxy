@@ -1,0 +1,4 @@
+<map id="CPN::LocalContext" name="CPN::LocalContext">
+<area shape="rect" id="node2" href="$classCPN_1_1Context.html" title="The CPN::Context abstraction that holds all the global state for the process network. " alt="" coords="21,80,128,107"/>
+<area shape="rect" id="node3" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="19,5,129,32"/>
+</map>

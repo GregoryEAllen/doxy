@@ -1,0 +1,5 @@
+<map id="CPN::RemoteContextClient::SendQueueMsg" name="CPN::RemoteContextClient::SendQueueMsg">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#acc4294079152a5b6da8aa33740ea21bc" title="Tell a given kernel that it needs to create a queue. " alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#ac4caac64c0d879d1c5b8a5fb1c6da8ea" title="Tell a given kernel that it needs to create a queue read end. " alt="" coords="249,70,442,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html#aaf80f049483ebd9d2ef0672073076c9a" title="Tell a given kernel that it needs to create a queue write end. " alt="" coords="249,135,442,177"/>
+</map>

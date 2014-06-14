@@ -1,0 +1,18 @@
+<map id="CPN::ConnectionServer::PendingConnection" name="CPN::ConnectionServer::PendingConnection">
+<area shape="rect" id="node2" href="$classSync_1_1Future.html" title="Sync::Future\&lt; int \&gt;" alt="" coords="745,107,893,133"/>
+<area shape="rect" id="node3" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="433,400,543,427"/>
+<area shape="rect" id="node11" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="775,348,863,375"/>
+<area shape="rect" id="node13" href="$classCPN_1_1ConnectionServer.html" title="CPN::ConnectionServer" alt="" coords="1517,420,1688,447"/>
+<area shape="rect" id="node4" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="131,400,285,427"/>
+<area shape="rect" id="node7" href="$classPthreadCondition.html" title="PthreadCondition" alt="" coords="422,109,554,136"/>
+<area shape="rect" id="node5" href="$classint.html" title="int" alt="" coords="6,400,45,427"/>
+<area shape="rect" id="node16" href="$classWakeupHandle.html" title="A convenience handle for event loops so that one can interrupt a Poll before it times out..." alt="" coords="1137,496,1255,523"/>
+<area shape="rect" id="node18" href="$classLogger.html" title="Logger object that is used for forwarding log messages. " alt="" coords="785,563,852,589"/>
+<area shape="rect" id="node20" href="$classSync_1_1ReentrantLock.html" title="Sync::ReentrantLock" alt="" coords="411,533,565,560"/>
+<area shape="rect" id="node9" href="$classbool.html" title="bool" alt="" coords="463,180,513,207"/>
+<area shape="rect" id="node23" href="$classServerSocketHandle.html" title="ServerSocketHandle" alt="" coords="1119,344,1273,371"/>
+<area shape="rect" id="node10" href="$classSocketHandle.html" title="A FileHandle customized with some socket specific functionality and functions. " alt="" coords="1371,140,1482,167"/>
+<area shape="rect" id="node19" href="$classLoggerOutput.html" title="Abstract base class for logger outputers. Any object who wishes to be a place for logging messages to..." alt="" coords="433,635,543,661"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="445,584,531,611"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="139,577,277,618"/>
+</map>

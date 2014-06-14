@@ -1,0 +1,5 @@
+<map id="CPN::ThresholdQueue::InternalGetRawDequeuePtr" name="CPN::ThresholdQueue::InternalGetRawDequeuePtr">
+<area shape="rect" id="node2" href="$classThresholdQueueBase.html#a8f55b751db4a06be257901422b2fb032" title="ThresholdQueueBase\l::GetRawDequeuePtr" alt="" coords="257,38,415,79"/>
+<area shape="rect" id="node3" href="$classThresholdQueueBase.html#a19a2dc5a8e6cea9877bc6c9cfb3eef84" title="ThresholdQueueBase\l::Count" alt="" coords="465,5,623,46"/>
+<area shape="rect" id="node4" href="$classThresholdQueueBase.html#ad30d3f9f0048ca2ec733d58cfb5ea85e" title="ThresholdQueueBase\l::MaxThreshold" alt="" coords="465,70,623,111"/>
+</map>

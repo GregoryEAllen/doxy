@@ -1,0 +1,5 @@
+<map id="CPN::QueueBase::GetRawDequeuePtr" name="CPN::QueueBase::GetRawDequeuePtr">
+<area shape="rect" id="node2" href="$classCPN_1_1QueueBase.html#a161cadb9f60b2eb855c2f5712fefb9fe" title="CPN::QueueBase::Dequeue" alt="" coords="317,5,515,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1QueueBase.html#a617fcae989850ed7276337f11fc360fd" title="CPN::QueueBase::RawDequeue" alt="" coords="563,31,786,57"/>
+<area shape="rect" id="node4" href="$classCPN_1_1QueueBase.html#a4809757541e78c67a87babb95289f046" title="CPN::QueueBase::RawDequeue" alt="" coords="835,31,1058,57"/>
+</map>

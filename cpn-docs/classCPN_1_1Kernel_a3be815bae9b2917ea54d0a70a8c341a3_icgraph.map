@@ -1,0 +1,5 @@
+<map id="CPN::Kernel::NodeTerminated" name="CPN::Kernel::NodeTerminated">
+<area shape="rect" id="node2" href="$classCPN_1_1Kernel.html#a156bee2381b1571d1fd879db38f3477c" title="CPN::Kernel::DestroyExternal\lEndpoint" alt="" coords="267,5,474,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1NodeBase.html#a54d64beffef7c214abeebdfe8fb20ade" title="CPN::NodeBase::EntryPoint" alt="" coords="273,71,469,97"/>
+<area shape="rect" id="node4" href="$classCPN_1_1NodeBase.html#a1bdf0246d82eb6767aedfd3e12d9168e" title="CPN::NodeBase::NodeBase" alt="" coords="523,71,720,97"/>
+</map>

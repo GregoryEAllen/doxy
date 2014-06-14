@@ -1,0 +1,12 @@
+<map id="CPN::QueueBase::LogState" name="CPN::QueueBase::LogState">
+<area shape="rect" id="node2" href="$classLogger.html#ac25cb052d8f2be9a3be062d584cf23af" title="Logger::Error" alt="" coords="298,5,403,32"/>
+<area shape="rect" id="node6" href="$classCPN_1_1QueueBase.html#a83145a88a72c940157d32efd2fb152b3" title="CPN::QueueBase::Unlocked\lCount" alt="" coords="251,57,450,98"/>
+<area shape="rect" id="node7" href="$classCPN_1_1QueueBase.html#af59be783dd669efa40fc99f42d6b8d09" title="CPN::QueueBase::Unlocked\lFreespace" alt="" coords="251,122,450,163"/>
+<area shape="rect" id="node8" href="$classCPN_1_1QueueBase.html#aedb92dbef0340e805ee491bb37d6db9b" title="CPN::QueueBase::Unlocked\lMaxThreshold" alt="" coords="251,187,450,229"/>
+<area shape="rect" id="node9" href="$classCPN_1_1QueueBase.html#af46fccd9914873fd350af804677eb03a" title="CPN::QueueBase::Unlocked\lNumDequeued" alt="" coords="251,253,450,294"/>
+<area shape="rect" id="node10" href="$classCPN_1_1QueueBase.html#ac3566620b9b080a12998cf0d5f9135e2" title="CPN::QueueBase::Unlocked\lNumEnqueued" alt="" coords="251,318,450,359"/>
+<area shape="rect" id="node11" href="$classCPN_1_1QueueBase.html#a859e29b9887e9e293f5e4fd22757875b" title="CPN::QueueBase::Unlocked\lQueueLength" alt="" coords="251,383,450,425"/>
+<area shape="rect" id="node3" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="499,5,607,32"/>
+<area shape="rect" id="node4" href="$classLogger.html#aa704d178b72c673b7251167655258cb3" title="Log a message to this outputer. " alt="" coords="657,5,754,32"/>
+<area shape="rect" id="node5" href="$classLoggerOutput.html#a0ff6b84ce0540396f381179e0d5c6722" title="Log a message to this outputer. " alt="" coords="803,5,944,32"/>
+</map>

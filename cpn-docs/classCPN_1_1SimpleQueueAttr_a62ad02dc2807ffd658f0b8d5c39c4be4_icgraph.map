@@ -1,0 +1,7 @@
+<map id="CPN::SimpleQueueAttr::GetNumChannels" name="CPN::SimpleQueueAttr::GetNumChannels">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#a34b91d47d6572156210da0a104597359" title="CPN::RemoteContextClient\l::SendQueueMsg" alt="" coords="222,70,415,111"/>
+<area shape="rect" id="node6" href="$classCPN_1_1ThresholdQueue.html#a8ae84933a8dac018e70f281a5c92c86b" title="CPN::ThresholdQueue\l::ThresholdQueue" alt="" coords="238,135,399,177"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#aaf80f049483ebd9d2ef0672073076c9a" title="Tell a given kernel that it needs to create a queue write end. " alt="" coords="465,5,658,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html#ac4caac64c0d879d1c5b8a5fb1c6da8ea" title="Tell a given kernel that it needs to create a queue read end. " alt="" coords="465,70,658,111"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextClient.html#acc4294079152a5b6da8aa33740ea21bc" title="Tell a given kernel that it needs to create a queue. " alt="" coords="465,135,658,177"/>
+</map>

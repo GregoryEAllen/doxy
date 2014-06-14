@@ -1,0 +1,10 @@
+<map id="CreatePthreadFunctional" name="CreatePthreadFunctional">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#affe11d8ad7b22642ced0385319e87ed6" title="CPN::RemoteContextClient\l::InternalTerminate" alt="" coords="242,70,435,111"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="939,99,1096,141"/>
+<area shape="rect" id="node7" href="$classCPN_1_1Kernel.html#a0568a15f36131f587980ce2d67ad380a" title="CPN::Kernel::Kernel" alt="" coords="266,187,411,213"/>
+<area shape="rect" id="node8" href="$classCPN_1_1NodeBase.html#a1bdf0246d82eb6767aedfd3e12d9168e" title="CPN::NodeBase::NodeBase" alt="" coords="240,237,437,264"/>
+<area shape="rect" id="node9" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="235,289,442,330"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#a852b3423fb1d587f2a1f85a5f09c9c9e" title="Signal to the Context that the network is terminating. After this call most methods will throw a Shut..." alt="" coords="491,5,685,46"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteContextClient.html#a8f7ce191887665b2fdacd983697a3494" title="CPN::RemoteContextClient\l::DispatchMessage" alt="" coords="491,70,685,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="733,70,891,111"/>
+</map>

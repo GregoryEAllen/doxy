@@ -1,0 +1,9 @@
+<map id="CPN::RemoteContextClient::SendCreateNode" name="CPN::RemoteContextClient::SendCreateNode">
+<area shape="rect" id="node2" href="$classCPN_1_1NodeAttr.html#a651d4884f411ab2f7a8144a6e3f74f41" title="CPN::NodeAttr::GetKernel" alt="" coords="263,5,449,32"/>
+<area shape="rect" id="node3" href="$classCPN_1_1NodeAttr.html#a5f4e33e1e8b6883bb44ffac2a512be06" title="CPN::NodeAttr::GetKey" alt="" coords="271,56,441,83"/>
+<area shape="rect" id="node4" href="$classCPN_1_1NodeAttr.html#a46517b96718b4629d8de3075ec3d8d21" title="CPN::NodeAttr::GetName" alt="" coords="263,107,449,133"/>
+<area shape="rect" id="node5" href="$classCPN_1_1NodeAttr.html#a946327f89f40c31ab61512ce2a372bfb" title="CPN::NodeAttr::GetParams" alt="" coords="259,157,453,184"/>
+<area shape="rect" id="node6" href="$classCPN_1_1NodeAttr.html#a1d1cefe2259e7e517e82f194c820370d" title="CPN::NodeAttr::GetTypeName" alt="" coords="249,208,463,235"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteContextClient.html#a532214ac4caece6ef98de7b2b6b7a323" title="CPN::RemoteContextClient\l::InternalCheckTerminated" alt="" coords="259,259,453,301"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteContextClient.html#ab02e707f278aa5348f9bba665e80f8f5" title="CPN::RemoteContextClient\l::SendMessage" alt="" coords="259,325,453,366"/>
+</map>

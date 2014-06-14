@@ -1,0 +1,10 @@
+<map id="include/cpn/io/ServerSocketHandle.h" name="include/cpn/io/ServerSocketHandle.h">
+<area shape="rect" id="node2" href="$RemoteContextDaemon_8h.html" title="include/cpn/remote\l_context/RemoteContextDaemon.h" alt="" coords="60,97,308,138"/>
+<area shape="rect" id="node4" href="$ConnectionServer_8h.html" title="lib/ConnectionServer.h" alt="" coords="406,104,572,131"/>
+<area shape="rect" id="node9" href="$ServerSocketHandle_8cc.html" title="lib/io/ServerSocketHandle.cc" alt="" coords="597,104,800,131"/>
+<area shape="rect" id="node3" href="$RemoteContextDaemon_8cc.html" title="lib/RemoteContextDaemon.cc" alt="" coords="5,187,219,213"/>
+<area shape="rect" id="node5" href="$ConnectionServer_8cc.html" title="lib/ConnectionServer.cc" alt="" coords="243,187,415,213"/>
+<area shape="rect" id="node6" href="$Kernel_8cc.html" title="Implementation for kernel functions. " alt="" coords="440,187,539,213"/>
+<area shape="rect" id="node7" href="$RDMAQueue_8cc.html" title="lib/RDMAQueue.cc" alt="" coords="563,187,701,213"/>
+<area shape="rect" id="node8" href="$RemoteQueue_8cc.html" title="lib/RemoteQueue.cc" alt="" coords="726,187,876,213"/>
+</map>

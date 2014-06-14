@@ -1,0 +1,18 @@
+<map id="lib/RemoteContextDaemon.cc" name="lib/RemoteContextDaemon.cc">
+<area shape="rect" id="node3" href="$RemoteContextDaemon_8h.html" title="cpn/remote_context\l/RemoteContextDaemon.h" alt="" coords="1189,81,1381,122"/>
+<area shape="rect" id="node15" href="$ErrnoException_8h.html" title="cpn/utils/ErrnoException.h" alt="" coords="333,592,520,619"/>
+<area shape="rect" id="node35" href="$ThrowingAssert_8h.html" title="cpn/utils/ThrowingAssert.h" alt="" coords="70,592,257,619"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="cpn/common.h" alt="" coords="1487,741,1605,768"/>
+<area shape="rect" id="node8" href="$ServerSocketHandle_8h.html" title="cpn/io/ServerSocketHandle.h" alt="" coords="1289,179,1495,205"/>
+<area shape="rect" id="node32" href="$SocketHandle_8h.html" title="cpn/io/SocketHandle.h" alt="" coords="1096,179,1261,205"/>
+<area shape="rect" id="node33" href="$RemoteContextServer_8h.html" title="cpn/remote_context\l/RemoteContextServer.h" alt="" coords="1582,171,1761,213"/>
+<area shape="rect" id="node9" href="$FileHandle_8h.html" title="A class to make it easy to deal with file descriptors. " alt="" coords="1215,261,1357,288"/>
+<area shape="rect" id="node26" href="$SocketAddress_8h.html" title="cpn/io/SocketAddress.h" alt="" coords="1123,592,1295,619"/>
+<area shape="rect" id="node10" href="$PthreadMutex_8h.html" title="cpn/threading/PthreadMutex.h" alt="" coords="690,336,904,363"/>
+<area shape="rect" id="node21" href="$AutoLock_8h.html" title="Automatic locking on the stack. " alt="" coords="1434,419,1584,445"/>
+<area shape="rect" id="node22" href="$IteratorRef_8h.html" title="This allows the encapsulation of an arbitrary iterator of a specific type. This allows for non templa..." alt="" coords="1863,667,2021,693"/>
+<area shape="rect" id="node11" href="$PthreadDefs_8h.html" title="cpn/threading/PthreadDefs.h" alt="" coords="607,592,812,619"/>
+<area shape="rect" id="node14" href="$PthreadErrorHandler_8h.html" title="cpn/threading/PthreadError\lHandler.h" alt="" coords="645,502,840,543"/>
+<area shape="rect" id="node20" href="$PthreadMutexAttr_8h.html" title="cpn/threading/PthreadMutex\lAttr.h" alt="" coords="696,411,899,453"/>
+<area shape="rect" id="node16" href="$Exception_8h.html" title="cpn/utils/Exception.h" alt="" coords="70,667,223,693"/>
+</map>

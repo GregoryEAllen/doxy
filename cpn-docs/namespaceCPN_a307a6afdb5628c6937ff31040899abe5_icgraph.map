@@ -1,0 +1,5 @@
+<map id="CPN::MsgToQueueAttr" name="CPN::MsgToQueueAttr">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#a8f7ce191887665b2fdacd983697a3494" title="CPN::RemoteContextClient\l::DispatchMessage" alt="" coords="219,5,413,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContext.html#ab1e6c9ffcdbd66d5e9275237a0702faa" title="CPN::RemoteContext\l::EntryPoint" alt="" coords="461,5,619,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContext.html#abb4a1488c461858adcba4517d7add8a0" title="CPN::RemoteContext\l::RemoteContext" alt="" coords="667,5,824,46"/>
+</map>

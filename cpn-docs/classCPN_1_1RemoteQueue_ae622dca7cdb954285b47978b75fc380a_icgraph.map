@@ -1,0 +1,6 @@
+<map id="CPN::RemoteQueue::WriteBytes" name="CPN::RemoteQueue::WriteBytes">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#aeb9fc3c28b33f4a02404357c258daaa0" title="CPN::RemoteQueue::SendEnqueue\lPacket" alt="" coords="281,5,527,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="576,5,781,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="829,5,1027,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1075,5,1282,46"/>
+</map>

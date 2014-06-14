@@ -1,0 +1,8 @@
+<map id="CPN::RemoteContextClient::RemoteCall" name="CPN::RemoteContextClient::RemoteCall">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextClient.html#ab8e91bb39d6d709ac39b97857a17157b" title="CPN::RemoteContextClient\l::AddWaiter" alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextClient.html#a532214ac4caece6ef98de7b2b6b7a323" title="CPN::RemoteContextClient\l::InternalCheckTerminated" alt="" coords="249,70,442,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextClient.html#a51e62e5ca0bc48cdd86743309b6f4487" title="CPN::RemoteContextClient\l::NewTranID" alt="" coords="249,135,442,177"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextClient.html#ab02e707f278aa5348f9bba665e80f8f5" title="CPN::RemoteContextClient\l::SendMessage" alt="" coords="249,201,442,242"/>
+<area shape="rect" id="node6" href="$classPthreadCondition.html#ab99fbf92eab7af6061f92fd710267969" title="PthreadCondition::Wait" alt="" coords="262,267,429,293"/>
+<area shape="rect" id="node7" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="491,259,645,301"/>
+</map>

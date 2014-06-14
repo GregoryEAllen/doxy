@@ -1,0 +1,8 @@
+<map id="include/cpn/KernelAttr.h" name="include/cpn/KernelAttr.h">
+<area shape="rect" id="node2" href="$Kernel_8h.html" title="Definition for the kernel object. " alt="" coords="230,80,380,107"/>
+<area shape="rect" id="node7" href="$LocalContext_8cc.html" title="lib/LocalContext.cc" alt="" coords="405,80,547,107"/>
+<area shape="rect" id="node3" href="$VariantCPNLoader_8h.html" title="include/cpn/VariantCPNLoader.h" alt="" coords="5,155,232,181"/>
+<area shape="rect" id="node5" href="$Kernel_8cc.html" title="Implementation for kernel functions. " alt="" coords="256,155,355,181"/>
+<area shape="rect" id="node6" href="$NodeBase_8cc.html" title="Implementation for the NodeBase class. " alt="" coords="379,155,503,181"/>
+<area shape="rect" id="node4" href="$VariantCPNLoader_8cc.html" title="lib/VariantCPNLoader.cc" alt="" coords="31,229,205,256"/>
+</map>

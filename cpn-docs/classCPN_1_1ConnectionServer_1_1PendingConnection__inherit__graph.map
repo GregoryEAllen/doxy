@@ -1,0 +1,5 @@
+<map id="CPN::ConnectionServer::PendingConnection" name="CPN::ConnectionServer::PendingConnection">
+<area shape="rect" id="node2" href="$classSync_1_1Future.html" title="Sync::Future\&lt; int \&gt;" alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$classSocketHandle.html" title="A FileHandle customized with some socket specific functionality and functions. " alt="" coords="177,80,287,107"/>
+<area shape="rect" id="node4" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="188,5,276,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="WakeupHandle" name="WakeupHandle">
+<area shape="rect" id="node2" href="$classFileHandle.html" title="Generic file handle could be a file, or a socket or a device. " alt="" coords="92,307,180,333"/>
+<area shape="rect" id="node3" href="$classPthreadMutex.html" title="PthreadMutex" alt="" coords="127,187,237,213"/>
+<area shape="rect" id="node4" href="$classPthreadErrorHandler.html" title="PthreadErrorHandler" alt="" coords="122,96,275,123"/>
+<area shape="rect" id="node5" href="$classint.html" title="int" alt="" coords="65,5,103,32"/>
+<area shape="rect" id="node7" href="$classbool.html" title="bool" alt="" coords="262,187,311,213"/>
+</map>

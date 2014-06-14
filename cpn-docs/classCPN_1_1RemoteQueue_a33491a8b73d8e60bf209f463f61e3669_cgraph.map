@@ -1,0 +1,51 @@
+<map id="CPN::RemoteQueue::RemoteQueue" name="CPN::RemoteQueue::RemoteQueue">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="283,1278,480,1319"/>
+<area shape="rect" id="node30" href="$PthreadFunctional_8h.html#af9c4b70e3200c291008845f5c5744363" title="CreatePthreadFunctional" alt="" coords="291,1227,471,1253"/>
+<area shape="rect" id="node31" href="$classCPN_1_1RemoteQueue.html#a29c4af92ba8d557c448551bd921182ee" title="CPN::RemoteQueue::FileThread\lEntryPoint" alt="" coords="550,1831,773,1873"/>
+<area shape="rect" id="node46" href="$classLogger.html#a98d8d12d39d7367047c756bdd52197bb" title="Logger::Name" alt="" coords="325,1344,438,1371"/>
+<area shape="rect" id="node47" href="$classD4R_1_1QueueBase.html#a1cde5fb700c23e39426c41c738e1efce" title="D4R::QueueBase::SetReaderNode" alt="" coords="262,1445,501,1472"/>
+<area shape="rect" id="node49" href="$classD4R_1_1QueueBase.html#a25e6da78cfef00cfdfbd6d92cfd05753" title="D4R::QueueBase::SetWriterNode" alt="" coords="266,1395,497,1421"/>
+<area shape="rect" id="node50" href="$classLogger.html#af0e4315cf6e872a441adcc985f2c3d45" title="Logger::Trace" alt="" coords="607,364,716,391"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="559,731,764,773"/>
+<area shape="rect" id="node9" href="$classPthreadCondition.html#af19e3e3f13f3b600b8705856c07f7480" title="PthreadCondition::Broadcast" alt="" coords="1395,1233,1600,1260"/>
+<area shape="rect" id="node29" href="$classCPN_1_1QueueBase.html#a0c3463dae4781d62c98e591541a7c5f0" title="CPN::QueueBase::Wait" alt="" coords="578,1285,745,1312"/>
+<area shape="rect" id="node4" href="$classFileHandle.html#acc4c70826361f12e2968df41aa31cb81" title="FileHandle::Closed" alt="" coords="1163,1897,1301,1924"/>
+<area shape="rect" id="node5" href="$classCPN_1_1KernelBase.html#a4c0b3d1fe769a68f2ae2c04f7283325e" title="CPN::KernelBase::IsTerminated" alt="" coords="835,1452,1055,1479"/>
+<area shape="rect" id="node6" href="$classFileHandle.html#ada936fbac29ef320421e0e01fcccd263" title="FileHandle::Eof" alt="" coords="1174,124,1290,151"/>
+<area shape="rect" id="node7" href="$classFileHandle.html#a612f03fb934f50a6f1c159d017e3ea27" title="Close the file and reset the internal state. " alt="" coords="1167,929,1297,956"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#a72b57fbde15d215820a6afd583d19979" title="CPN::RemoteQueue::Unlocked\lShutdown" alt="" coords="1124,1467,1340,1509"/>
+<area shape="rect" id="node11" href="$classCPN_1_1RemoteQueue.html#a7f664e99737bfa9ac6bd07cf3f7dde2d" title="CPN::RemoteQueue::ClockString" alt="" coords="1117,1216,1347,1243"/>
+<area shape="rect" id="node12" href="$classLogger.html#ac25cb052d8f2be9a3be062d584cf23af" title="Logger::Error" alt="" coords="1179,1013,1285,1040"/>
+<area shape="rect" id="node14" href="$classCPN_1_1RemoteQueue.html#a188c018a1307508024895aa33d8462be" title="For debug ONLY! " alt="" coords="838,1199,1053,1225"/>
+<area shape="rect" id="node15" href="$classCPN_1_1RemoteQueue.html#a9dbdd9b58f33e3d0cdd5e0cd4327540f" title="CPN::RemoteQueue::Read" alt="" coords="851,149,1040,176"/>
+<area shape="rect" id="node16" href="$classLogger.html#a33460c453854c1a10b71051788cb097e" title="Logger::Debug" alt="" coords="1174,507,1290,533"/>
+<area shape="rect" id="node17" href="$classCPN_1_1RemoteQueue.html#a35c6fc09c10fefdc8fd9fb1dd6a60f61" title="CPN::RemoteQueue::SendGrow\lPacket" alt="" coords="834,535,1057,577"/>
+<area shape="rect" id="node18" href="$classCPN_1_1QueueBase.html#aa51f9990526ff832fc3b9d03c13c5875" title="CPN::QueueBase::Unlocked\lShutdownWriter" alt="" coords="1133,1402,1331,1443"/>
+<area shape="rect" id="node19" href="$classThresholdQueueBase.html#aed15bf479b8151e2d9f1c0bd625d5e70" title="ThresholdQueueBase\l::Empty" alt="" coords="866,601,1025,642"/>
+<area shape="rect" id="node20" href="$classCPN_1_1RemoteQueue.html#aeb9fc3c28b33f4a02404357c258daaa0" title="CPN::RemoteQueue::SendEnqueue\lPacket" alt="" coords="822,666,1069,707"/>
+<area shape="rect" id="node21" href="$classCPN_1_1RemoteQueue.html#ad3419c15cea377f7f1ccde3bc388a899" title="CPN::RemoteQueue::SendFlush\lPacket" alt="" coords="834,731,1057,773"/>
+<area shape="rect" id="node22" href="$classThresholdQueueBase.html#a12db1ee24701f01563200e54804c07c0" title="ThresholdQueueBase\l::Freespace" alt="" coords="866,797,1025,838"/>
+<area shape="rect" id="node23" href="$classCPN_1_1RemoteQueue.html#a93c21ca542743c674edf59ea616c9949" title="CPN::RemoteQueue::SendWrite\lBlockPacket" alt="" coords="834,251,1057,293"/>
+<area shape="rect" id="node24" href="$classCPN_1_1RemoteQueue.html#a4f049dd7e50caf881e3f4274f642c3c4" title="CPN::RemoteQueue::SendD4\lRTagPacket" alt="" coords="841,317,1049,358"/>
+<area shape="rect" id="node25" href="$classCPN_1_1RemoteQueue.html#a43ead825ed41004fd23bcb5568a44fe5" title="CPN::RemoteQueue::SendEnd\lOfWritePacket" alt="" coords="838,965,1053,1006"/>
+<area shape="rect" id="node27" href="$classLogger.html#ae852415f9c5808df3829105789126bc9" title="Logger::LogLevel" alt="" coords="880,383,1011,409"/>
+<area shape="rect" id="node28" href="$classCPN_1_1RemoteQueue.html#a613f967b3e920a83023201af47d3f35c" title="CPN::RemoteQueue::Handle\lError" alt="" coords="844,1082,1047,1123"/>
+<area shape="rect" id="node10" href="$classCPN_1_1RemoteQueue.html#a1b0d369be386183f5c96bb0ef2600382" title="CPN::RemoteQueue::Signal" alt="" coords="1399,1475,1595,1501"/>
+<area shape="rect" id="node13" href="$classLogger.html#a6700cce641592e8f53581db8558a25dd" title="Logger::vLogf" alt="" coords="1443,507,1551,533"/>
+<area shape="rect" id="node26" href="$classErrnoException.html#a934ecdbc4001c2e6e9b88313be594401" title="ErrnoException::what" alt="" coords="1154,1064,1310,1091"/>
+<area shape="rect" id="node32" href="$classCPN_1_1RemoteQueue.html#a1223495e8c0f875a1ed1179a92d5c97b" title="CPN::RemoteQueue::Shutdown" alt="" coords="835,1788,1055,1815"/>
+<area shape="rect" id="node33" href="$classCPN_1_1ConnectionServer.html#ac44d20b3d3764fc5a3928acf8eab4b33" title="CPN::ConnectionServer\l::ConnectWriter" alt="" coords="860,2306,1031,2347"/>
+<area shape="rect" id="node34" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="1175,2259,1289,2285"/>
+<area shape="rect" id="node35" href="$classFileHandle.html#a5cd5b33f7f0274cd4d22d7c3c6b3ab19" title="Clear all internal state including the file descriptor! WARNING does not close the file! ..." alt="" coords="1166,2368,1298,2395"/>
+<area shape="rect" id="node36" href="$classCPN_1_1RemoteQueue.html#a484f6da49c0b5227255cd30bc4601ddb" title="CPN::RemoteQueue::GetKey" alt="" coords="844,1671,1047,1697"/>
+<area shape="rect" id="node37" href="$classCPN_1_1ConnectionServer.html#a947447721d3f1816f359b4bf556f4920" title="CPN::ConnectionServer\l::ConnectReader" alt="" coords="860,1890,1031,1931"/>
+<area shape="rect" id="node38" href="$classSocketHandle.html#ae43ed4a359fb2c4e3e500c01f340137e" title="SocketHandle::SetNoDelay" alt="" coords="848,2255,1043,2281"/>
+<area shape="rect" id="node39" href="$classCPN_1_1RemoteQueueHolder.html#a0423f06780267697944a3b5cec8ef22d" title="CPN::RemoteQueueHolder\l::GetWakeup" alt="" coords="850,1722,1041,1763"/>
+<area shape="rect" id="node40" href="$classFileHandle.html#a18b6cc4b2f1bb88ab91e44c633cf7a26" title="poll a list of FileHandles for any activity and call the appropriate On method. " alt="" coords="886,2372,1005,2399"/>
+<area shape="rect" id="node41" href="$classPthreadCondition.html#ab99fbf92eab7af6061f92fd710267969" title="PthreadCondition::Wait" alt="" coords="862,1839,1029,1865"/>
+<area shape="rect" id="node42" href="$classCPN_1_1QueueBase.html#a01637e158c3692a934b43160c5027dc7" title="Called by the QueueReader when no more data will be read. " alt="" coords="844,2007,1047,2049"/>
+<area shape="rect" id="node43" href="$classCPN_1_1QueueBase.html#a5067fd9b863a64908952ab078c51244c" title="Called by the QueueWriter when no more data will be written. " alt="" coords="844,1605,1047,1646"/>
+<area shape="rect" id="node44" href="$classCPN_1_1RemoteQueueHolder.html#a18a5f4a8ab5357bc70f144dd0cc89db5" title="CPN::RemoteQueueHolder\l::CleanupQueue" alt="" coords="850,2073,1041,2114"/>
+<area shape="rect" id="node45" href="$classCPN_1_1ConnectionServer.html#a3daf6f2f7de25e30b8396bc77159c2ab" title="CPN::ConnectionServer\l::Wakeup" alt="" coords="860,2138,1031,2179"/>
+<area shape="rect" id="node48" href="$classD4R_1_1QueueBase.html#aba5123543ffffd2852e4751c4a89cc2a" title="D4R::QueueBase::Signal" alt="" coords="573,1431,750,1457"/>
+</map>

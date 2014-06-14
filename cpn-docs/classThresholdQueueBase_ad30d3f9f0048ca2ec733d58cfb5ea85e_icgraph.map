@@ -1,0 +1,23 @@
+<map id="ThresholdQueueBase::MaxThreshold" name="ThresholdQueueBase::MaxThreshold">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#a220105f8533abaee8c95e15506b769d7" title="CPN::RemoteQueue::Enqueue\lPacket" alt="" coords="1081,111,1295,152"/>
+<area shape="rect" id="node3" href="$classThresholdQueueBase.html#a8f55b751db4a06be257901422b2fb032" title="ThresholdQueueBase\l::GetRawDequeuePtr" alt="" coords="246,331,405,372"/>
+<area shape="rect" id="node5" href="$classCPN_1_1ThresholdQueue_1_1TQImpl.html#a270ceb9c20d5df43b781368e57678ef0" title="CPN::ThresholdQueue\l::TQImpl::Grow" alt="" coords="522,397,683,439"/>
+<area shape="rect" id="node7" href="$classCPN_1_1RemoteQueue.html#aafff7e59c0efd91fe91977898bd3c9b9" title="CPN::RemoteQueue::GrowPacket" alt="" coords="1072,434,1304,461"/>
+<area shape="rect" id="node8" href="$classCPN_1_1RemoteQueue.html#aa9212855a064fa3c9799033bc99702f3" title="CPN::RemoteQueue::UnlockedGrow" alt="" coords="1064,514,1312,541"/>
+<area shape="rect" id="node9" href="$classThresholdQueueBase.html#a762f67529bb0c573a10095b6057b5b39" title="ThresholdQueueBase\l::Grow" alt="" coords="523,215,682,256"/>
+<area shape="rect" id="node10" href="$classCPN_1_1ThresholdQueue.html#aab6877d8ae5793977a7739833181e6eb" title="CPN::ThresholdQueue\l::InternalEnqueue" alt="" coords="522,149,683,191"/>
+<area shape="rect" id="node13" href="$classCPN_1_1RemoteQueue.html#aeb9fc3c28b33f4a02404357c258daaa0" title="CPN::RemoteQueue::SendEnqueue\lPacket" alt="" coords="769,659,1015,700"/>
+<area shape="rect" id="node17" href="$classThresholdQueueBase.html#a7461658339d5ccac0968e3a896217768" title="ThresholdQueueBase\l::GetRawEnqueuePtr" alt="" coords="246,149,405,191"/>
+<area shape="rect" id="node20" href="$classCPN_1_1RemoteQueue.html#a35c6fc09c10fefdc8fd9fb1dd6a60f61" title="CPN::RemoteQueue::SendGrow\lPacket" alt="" coords="214,717,437,759"/>
+<area shape="rect" id="node21" href="$classCPN_1_1ThresholdQueue.html#aa0c0938d93b61ce7dd8ffc76aeb74f97" title="CPN::ThresholdQueue\l::UnlockedMaxThreshold" alt="" coords="237,565,414,607"/>
+<area shape="rect" id="node4" href="$classThresholdQueue.html#a891586e218ebd29a12eb61659dd54236" title="ThresholdQueue::GetDequeuePtr" alt="" coords="486,281,719,307"/>
+<area shape="rect" id="node12" href="$classCPN_1_1ThresholdQueue.html#adc1ae97f189aa505881bf66583e74d6d" title="CPN::ThresholdQueue\l::InternalGetRawDequeuePtr" alt="" coords="501,332,704,373"/>
+<area shape="rect" id="node6" href="$classCPN_1_1ThresholdQueue.html#ac31e76601a0261c0a66a2f39ce098066" title="CPN::ThresholdQueue\l::UnlockedGrow" alt="" coords="811,397,973,439"/>
+<area shape="rect" id="node11" href="$classCPN_1_1RemoteQueue.html#aa8f0bd50457b2ca44e58f55999061b48" title="CPN::RemoteQueue::Internal\lEnqueue" alt="" coords="789,113,995,155"/>
+<area shape="rect" id="node14" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="1085,688,1291,729"/>
+<area shape="rect" id="node15" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="1360,688,1557,729"/>
+<area shape="rect" id="node16" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="1606,688,1813,729"/>
+<area shape="rect" id="node18" href="$classThresholdQueue.html#ab1cd1581b8b0f9487ae654d37e280e2b" title="ThresholdQueue::GetEnqueuePtr" alt="" coords="487,98,718,125"/>
+<area shape="rect" id="node19" href="$classCPN_1_1ThresholdQueue.html#a5bc6fced644512d51ca01f60de71c967" title="CPN::ThresholdQueue\l::InternalGetRawEnqueuePtr" alt="" coords="792,48,992,89"/>
+<area shape="rect" id="node22" href="$classCPN_1_1RemoteQueue.html#aef00845ccc82bc2d0fe16e6c5c7e2a64" title="For debugging. " alt="" coords="495,615,710,642"/>
+</map>

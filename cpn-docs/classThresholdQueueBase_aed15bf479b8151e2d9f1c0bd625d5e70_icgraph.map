@@ -1,0 +1,7 @@
+<map id="ThresholdQueueBase::Empty" name="ThresholdQueueBase::Empty">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteQueue.html#aeed1e7c1cc0eabeb7ce9cc76c5fbe79b" title="CPN::RemoteQueue::Internal\lCheckStatus" alt="" coords="219,5,424,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1ThresholdQueue.html#ae76aba77641e647f762decb837b93e04" title="CPN::ThresholdQueue\l::UnlockedEmpty" alt="" coords="241,70,402,111"/>
+<area shape="rect" id="node6" href="$classCPN_1_1RemoteQueue.html#a7ea85a578b0acad65a4024a97c1ca0af" title="CPN::RemoteQueue::Unlocked\lEmpty" alt="" coords="213,135,429,177"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteQueue.html#ad59446cae9010afdf6ae6f9a4c7dec66" title="CPN::RemoteQueue::Action\lThreadEntryPoint" alt="" coords="477,5,675,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a33491a8b73d8e60bf209f463f61e3669" title="CPN::RemoteQueue::Remote\lQueue" alt="" coords="723,5,930,46"/>
+</map>

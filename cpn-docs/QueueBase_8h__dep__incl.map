@@ -1,0 +1,13 @@
+<map id="lib/QueueBase.h" name="lib/QueueBase.h">
+<area shape="rect" id="node2" href="$CPNThresholdQueue_8h.html" title="Default threshold queue implementation. " alt="" coords="207,80,389,107"/>
+<area shape="rect" id="node7" href="$RDMAQueue_8h.html" title="lib/RDMAQueue.h" alt="" coords="443,80,575,107"/>
+<area shape="rect" id="node9" href="$PseudoNode_8cc.html" title="lib/PseudoNode.cc" alt="" coords="600,80,739,107"/>
+<area shape="rect" id="node10" href="$QueueBase_8cc.html" title="Implementation for the QueueBase. " alt="" coords="763,80,895,107"/>
+<area shape="rect" id="node11" href="$QueueReader_8cc.html" title="Implemenation for the QueueReader. " alt="" coords="919,80,1064,107"/>
+<area shape="rect" id="node12" href="$QueueWriter_8cc.html" title="Implementation for the QueueWriter. " alt="" coords="1089,80,1225,107"/>
+<area shape="rect" id="node3" href="$CPNThresholdQueue_8cc.html" title="Implementation of CPN ThresholdQueue. " alt="" coords="176,155,365,181"/>
+<area shape="rect" id="node4" href="$Kernel_8cc.html" title="Implementation for kernel functions. " alt="" coords="353,229,452,256"/>
+<area shape="rect" id="node5" href="$RemoteQueue_8h.html" title="lib/RemoteQueue.h" alt="" coords="8,155,152,181"/>
+<area shape="rect" id="node6" href="$RemoteQueue_8cc.html" title="lib/RemoteQueue.cc" alt="" coords="5,229,155,256"/>
+<area shape="rect" id="node8" href="$RDMAQueue_8cc.html" title="lib/RDMAQueue.cc" alt="" coords="440,155,579,181"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title="STL class. " alt="" coords="5,81,117,108"/>
+<area shape="rect" id="node2" href="$classD4R_1_1DeadlockException.html" title="The exception thrown when true deadlock is detected. " alt="" coords="166,56,343,83"/>
+<area shape="rect" id="node3" href="$classException.html" title="Exception" alt="" coords="213,107,297,133"/>
+<area shape="rect" id="node4" href="$classAssertException.html" title="The exception thrown by the ASSERT macro. " alt="" coords="435,5,560,32"/>
+<area shape="rect" id="node5" href="$classCPN_1_1BrokenQueueException.html" title="An exception indicating that the node tried to write to a shutdown queue. " alt="" coords="394,56,601,83"/>
+<area shape="rect" id="node6" href="$classCPN_1_1ShutdownException.html" title="An exception indicating that the Kernel has shut down. " alt="" coords="406,107,589,133"/>
+<area shape="rect" id="node7" href="$classCPN_1_1TypeMismatchException.html" title="An exception indicating that there is a type mismatch in the queue. " alt="" coords="392,157,603,184"/>
+<area shape="rect" id="node8" href="$classErrnoException.html" title="ErrnoException" alt="" coords="438,208,557,235"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CPN::ConnectionServer::ConnectWriter" name="CPN::ConnectionServer::ConnectWriter">
+<area shape="rect" id="node2" href="$classFileHandle.html#acc4c70826361f12e2968df41aa31cb81" title="FileHandle::Closed" alt="" coords="245,5,384,32"/>
+<area shape="rect" id="node3" href="$classSocketHandle.html#a681e3b68f3cf0c488a3b2e29283b5dda" title="Create a new socket and try to connect to the given address. " alt="" coords="229,56,401,83"/>
+<area shape="rect" id="node4" href="$classSocketAddress.html#adfbd960e8098ce84d870a70770d68c54" title="Return a list of valid socket address for the given service number or port number. " alt="" coords="225,107,405,133"/>
+<area shape="rect" id="node6" href="$classFileHandle.html#adf9865c7a6c0323f4ec51a2de77cf713" title="FileHandle::FD" alt="" coords="258,157,371,184"/>
+<area shape="rect" id="node7" href="$classFileHandle.html#a5cd5b33f7f0274cd4d22d7c3c6b3ab19" title="Clear all internal state including the file descriptor! WARNING does not close the file! ..." alt="" coords="249,208,381,235"/>
+<area shape="rect" id="node8" href="$classCPN_1_1Packet.html#a2cb88284adad14029bc8a31ce5226a21" title="CPN::Packet::SourceKey" alt="" coords="227,259,403,285"/>
+<area shape="rect" id="node9" href="$classAutoLock.html#ae9550f948e40ae013bc6fcf3437b3159" title="AutoLock::Unlock" alt="" coords="249,309,381,336"/>
+<area shape="rect" id="node10" href="$classFileHandle.html#aacccb55cfc45f233a12319f157b8fb68" title="Write data to the file descriptor. " alt="" coords="251,360,379,387"/>
+<area shape="rect" id="node5" href="$classSocketAddress.html#a73b7ebe5b0527adcc051ea08d21ab140" title="SocketAddress::Family" alt="" coords="454,107,621,133"/>
+<area shape="rect" id="node11" href="$classFileHandle.html#afd1e238db5e9a904599dfe725ffbb699" title="Gives the current writability status of the file. " alt="" coords="460,360,615,387"/>
+</map>

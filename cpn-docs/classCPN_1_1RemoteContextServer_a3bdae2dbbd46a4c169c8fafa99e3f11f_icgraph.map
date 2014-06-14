@@ -1,0 +1,6 @@
+<map id="CPN::RemoteContextServer::NewKey" name="CPN::RemoteContextServer::NewKey">
+<area shape="rect" id="node2" href="$classCPN_1_1RemoteContextServer.html#aee778d3f38da6fcb32e738723ab73dd1" title="CPN::RemoteContextServer\l::CreateNodeKey" alt="" coords="254,5,453,46"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteContextServer.html#a72d224594e81415cf1551968ffd69bf8" title="CPN::RemoteContextServer\l::GetCreateEndpointKey" alt="" coords="254,70,453,111"/>
+<area shape="rect" id="node5" href="$classCPN_1_1RemoteContextServer.html#a4205b080da008e9929c885f480882a69" title="CPN::RemoteContextServer\l::SetupKernel" alt="" coords="254,135,453,177"/>
+<area shape="rect" id="node3" href="$classCPN_1_1RemoteContextServer.html#ab328f20abc011f7a041ead301834f1b7" title="Process the given message. " alt="" coords="502,70,701,111"/>
+</map>

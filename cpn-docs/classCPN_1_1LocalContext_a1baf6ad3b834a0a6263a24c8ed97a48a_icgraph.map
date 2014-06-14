@@ -1,0 +1,6 @@
+<map id="CPN::LocalContext::NewKey" name="CPN::LocalContext::NewKey">
+<area shape="rect" id="node2" href="$classCPN_1_1LocalContext.html#aca450df4457eeb738b6961a80ce1e00b" title="Tell the context to allocate a new node key and data structure for a node with nodename which is on k..." alt="" coords="207,5,355,46"/>
+<area shape="rect" id="node3" href="$classCPN_1_1LocalContext.html#abc3af660b9a2b1e54c49d871bd940a5c" title="Get the key associated with the given endpoint for the given node. Creates the information if it does..." alt="" coords="203,70,359,111"/>
+<area shape="rect" id="node4" href="$classCPN_1_1LocalContext.html#a946247554abc466f1be23153c0ab817a" title="CPN::LocalContext::\lGetCreateWriterKey" alt="" coords="207,135,355,177"/>
+<area shape="rect" id="node5" href="$classCPN_1_1LocalContext.html#a7d90eef13f873105537e1b3a47dbf707" title="Called by the Kernel when it has successfully set it self up. This gives the Context a way to notify ..." alt="" coords="207,201,355,242"/>
+</map>

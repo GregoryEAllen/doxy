@@ -1,0 +1,6 @@
+<map id="CPN::RemoteQueue::UnlockedShutdown" name="CPN::RemoteQueue::UnlockedShutdown">
+<area shape="rect" id="node2" href="$classPthreadCondition.html#af19e3e3f13f3b600b8705856c07f7480" title="PthreadCondition::Broadcast" alt="" coords="269,15,475,41"/>
+<area shape="rect" id="node4" href="$classCPN_1_1RemoteQueue.html#a1b0d369be386183f5c96bb0ef2600382" title="CPN::RemoteQueue::Signal" alt="" coords="274,67,470,93"/>
+<area shape="rect" id="node3" href="$classPthreadErrorHandler.html#a4e8c67bcf681421b0f954cf82bbdc1cd" title="PthreadErrorHandler\l::TrapError" alt="" coords="535,5,689,46"/>
+<area shape="rect" id="node5" href="$classCPN_1_1QueueBase.html#a670adfb2b909576dc8f014359936238e" title="CPN::QueueBase::Signal" alt="" coords="523,71,701,97"/>
+</map>
