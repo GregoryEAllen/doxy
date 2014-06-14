@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.5"/>
-<title>MCSB: Main Page</title>
+<title>MCSB: Class Members - Enumerations</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -38,8 +38,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </script>
   <div id="navrow1" class="tabs">
     <ul class="tablist">
-      <li class="current"><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="annotated.html"><span>Classes</span></a></li>
+      <li><a href="index.html"><span>Main&#160;Page</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -59,6 +59,24 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       </li>
     </ul>
   </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
+      <li><a href="hierarchy.html"><span>Class&#160;Hierarchy</span></a></li>
+      <li class="current"><a href="functions.html"><span>Class&#160;Members</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow3" class="tabs2">
+    <ul class="tablist">
+      <li><a href="functions.html"><span>All</span></a></li>
+      <li><a href="functions_func.html"><span>Functions</span></a></li>
+      <li><a href="functions_vars.html"><span>Variables</span></a></li>
+      <li><a href="functions_type.html"><span>Typedefs</span></a></li>
+      <li class="current"><a href="functions_enum.html"><span>Enumerations</span></a></li>
+      <li><a href="functions_eval.html"><span>Enumerator</span></a></li>
+    </ul>
+  </div>
 </div><!-- top -->
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
@@ -74,40 +92,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div class="header">
-  <div class="headertitle">
-<div class="title">MCSB Documentation</div>  </div>
-</div><!--header-->
 <div class="contents">
-<div class="textblock"><p>The Multi-Client Shared Buffer, or MCSB, is a middleware library designed to assist in implementing high-throughput, soft real-time DSP systems on POSIX systems. MCSB uses shared memory with a zero-copy interface to provide a scalable many-to-many message-based middleware between concurrent processes on a multicore workstation, while providing formal guarantees about liveness and memory bounds. Message throughput is limited only by the memory bandwidth.</p>
-<p>MCSB is written in C++, and also provides <a href="http://www.python.org/">Python</a> bindings with the help of <a href="http://www.swig.org/">SWIG</a>.</p>
-<p>A paper describing the implementation of MCSB is in progress.</p>
-<h1>Installation </h1>
-<p>MCSB is built with <a href="http://www.cmake.org/">CMake</a>, the cross-platform, open-source build system. MCSB has been built and tested on several flavors of Linux (RHEL5, RHEL6, Fedora, ARCH, Ubuntu), MacOS X (10.8-10.9), and FreeBSD. It would probably work on most POSIX platforms with minimal effort. There are currently no plans for Windows support.</p>
-<p>By default, CMake uses make. Building and installing is typically: </p>
-<pre class="fragment">cd /path/to/build_dir
-cmake /path/to/source_dir
-make
-make install
-</pre><p>Add <code>-DCMAKE_INSTALL_PREFIX:PATH=/path/to/install_prefix</code> to install somewhere besides the default of <code>/usr/local</code>. See the CMake documentation for more details.</p>
-<h2>Dependencies </h2>
-<p>MCSB requires <a href="http://software.schmorp.de/pkg/libev.html">libev</a>, a high-performance event loop library.</p>
-<p>MCSB can optionally use <a href="http://bitbucket.org/gallen/libvariant/">libvariant</a>, a library that provides advanced command-line argument parsing (in addition to many other things). Without libvariant, several of the tools for testing MCSB will not get compiled.</p>
-<h2>Testing </h2>
-<p>MCSB comes with a number of automated self tests using CTest, a component of CMake. Once MCSB configured and built, these tests can be run with: </p>
-<pre class="fragment">make test
-</pre><p>The directory <code>apps/tools</code> also contains several tools that can be used for manual testing of MCSB messaging.</p>
-<h1>Examples </h1>
-<p>The <code>examples</code> directory contains some example programs to provide an introduction to using MCSB. These examples are meant to be read, compiled, and experimented with. The examples begin with the simplest <code>Hello, world</code> program and move on to more complicated examples.</p>
-<p>Once MCSB is configured and built, these examples can be built with: </p>
-<pre class="fragment">make examples
-</pre><h1>Documentation </h1>
-<p>The public API for MCSB is in <code>include/MCSB</code>. Documentation can be generated for MCSB by using <a href="http://www.stack.nl/~dimitri/doxygen/">Doxygen</a>.</p>
-<p>Once MCSB is configured, the Doxygen documentation can be built with: </p>
-<pre class="fragment">make doc
-</pre><p>Of course, this requires Doxygen to be installed on your system.</p>
-<p>The current MCSB Doxygen documentation is also served on the web at <a href="http://gallen.bitbucket.org/mcsb-docs/">gallen.bitbucket.org/mcsb-docs/</a>. </p>
-</div></div><!-- contents -->
+&#160;<ul>
+<li>CrcPolicy
+: <a class="el" href="struct_m_c_s_b_1_1_client_options.html#aa9ddc4433afbeff767b74ca0a0ab233d">MCSB::ClientOptions</a>
+</li>
+</ul>
+</div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
 Generated on Fri Jun 13 2014 11:44:00 for MCSB by &#160;<a href="http://www.doxygen.org/index.html">
