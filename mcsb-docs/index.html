@@ -79,38 +79,79 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">MCSB Documentation</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>The Multi-Client Shared Buffer, or MCSB, is a middleware library designed to assist in implementing high-throughput, soft real-time DSP systems on POSIX systems. MCSB uses shared memory with a zero-copy interface to provide a scalable many-to-many message-based middleware between concurrent processes on a multicore workstation, while providing formal guarantees about liveness and memory bounds. Message throughput is limited only by the memory bandwidth.</p>
-<p>MCSB is written in C++, and also provides <a href="http://www.python.org/">Python</a> bindings with the help of <a href="http://www.swig.org/">SWIG</a>.</p>
-<p>A paper describing the implementation of MCSB is in progress.</p>
-<h1>Installation </h1>
+<div class="textblock"><h2>Introduction</h2>
+<p>The Multi-Client Shared Buffer, or MCSB, is a C++ middleware library designed to assist in implementing high-throughput, soft real-time DSP systems on POSIX systems. MCSB uses shared memory with a zero-copy interface to provide a scalable many-to-many message-based middleware, while providing formal guarantees about liveness and memory bounds. Message throughput on a shared memory machine is limited only by the memory bandwidth.</p>
+<p>MCSB has been in continuous use since 2009. MCSB version 2 is a significant architectural redesign, addressing limitations and lessons learned in the design of version 1.</p>
+<p>The MCSBv2 source code has been publicly released at <a href="http://bitbucket.org/gallen/mcsb/">http://bitbucket.org/gallen/mcsb/</a>.</p>
+<h2>Features</h2>
+<p>Features of MCSB (since v1):</p>
+<ul>
+<li>excels at delivering high-throughput messages on shared memory systems</li>
+<li>allows zero-copy sending and receiving of messages</li>
+<li>every message begins on a page-aligned boundary (for SIMD performance)</li>
+<li>slow consumers will not adversely affect faster producers<ul>
+<li>consumers that are far behind may intentionally have messages dropped</li>
+<li>such consumers are reliably notified if messages were dropped</li>
+</ul>
+</li>
+<li>includes first-class Python bindings with <a href="http://www.swig.org/">SWIG</a></li>
+<li>built and installed with the widely-used tool <a href="http://cmake.org">CMake</a></li>
+<li>runs nightly builds and tests on several platforms with CTest/CDash</li>
+<li>has advanced command-line argument parsing with the help of <a href="http://gallen.bitbucket.org/libvariant-docs/">libvariant</a> ArgParse</li>
+<li>has an <code>examples</code> directory providing basic examples to get started</li>
+<li>provides access to the underlying file descriptor for easy integration with external event loops (e.g. <a href="http://libev.schmorp.de/">libev</a>)</li>
+<li>MCSB recording and playback tools available</li>
+<li>MCSB-Bridge available, transparently exchanges messages on a network</li>
+</ul>
+<p>Features new to v2:</p>
+<ul>
+<li>variable message sizes with guaranteed contiguous messages</li>
+<li>allocated memory can (optionally) grow to meet demand</li>
+<li>a well-documented public API (with doxygen) served at <a href="http://gallen.bitbucket.org/mcsb-docs/">http://gallen.bitbucket.org/mcsb-docs/</a></li>
+<li>less sensitive to runtime queue-size parameters, including better utilization of free memory to avoid dropped messages</li>
+<li>a new message descriptor API that can provide:<ul>
+<li>multiple outstanding zero-copy send buffers with out-of-order send</li>
+<li>out-of-order retirement of zero-copy receive messages</li>
+<li>iovec interfaces for send/recv of very large (multi-segment) messages</li>
+</ul>
+</li>
+<li>a new optional procedural API layer (BaseClient) to read incoming messages on demand (vs reactively, with callbacks)</li>
+<li>includes a non-realtime/playback mode for as-fast-as-possible reprocessing/playback of recorded data</li>
+<li>includes several built-in testing and performance evaluation tools</li>
+</ul>
+<h2>Installation</h2>
 <p>MCSB is built with <a href="http://www.cmake.org/">CMake</a>, the cross-platform, open-source build system. MCSB has been built and tested on several flavors of Linux (RHEL5, RHEL6, Fedora, ARCH, Ubuntu), MacOS X (10.8-10.9), and FreeBSD. It would probably work on most POSIX platforms with minimal effort. There are currently no plans for Windows support.</p>
 <p>By default, CMake uses make. Building and installing is typically: </p>
 <pre class="fragment">cd /path/to/build_dir
 cmake /path/to/source_dir
 make
 make install
-</pre><p>Add <code>-DCMAKE_INSTALL_PREFIX:PATH=/path/to/install_prefix</code> to install somewhere besides the default of <code>/usr/local</code>. See the CMake documentation for more details.</p>
-<h2>Dependencies </h2>
+</pre><p>Add <code>-DCMAKE_INSTALL_PREFIX:PATH=/path/to/install_prefix</code> to the <code>cmake</code> line to install somewhere besides the default of <code>/usr/local</code>. See the CMake documentation for more details and other CMake options.</p>
+<h3>Dependencies</h3>
 <p>MCSB requires <a href="http://software.schmorp.de/pkg/libev.html">libev</a>, a high-performance event loop library.</p>
 <p>MCSB can optionally use <a href="http://bitbucket.org/gallen/libvariant/">libvariant</a>, a library that provides advanced command-line argument parsing (in addition to many other things). Without libvariant, several of the tools for testing MCSB will not get compiled.</p>
-<h2>Testing </h2>
+<h3>Testing</h3>
 <p>MCSB comes with a number of automated self tests using CTest, a component of CMake. Once MCSB configured and built, these tests can be run with: </p>
 <pre class="fragment">make test
 </pre><p>The directory <code>apps/tools</code> also contains several tools that can be used for manual testing of MCSB messaging.</p>
-<h1>Examples </h1>
+<h2>Examples</h2>
 <p>The <code>examples</code> directory contains some example programs to provide an introduction to using MCSB. These examples are meant to be read, compiled, and experimented with. The examples begin with the simplest <code>Hello, world</code> program and move on to more complicated examples.</p>
 <p>Once MCSB is configured and built, these examples can be built with: </p>
 <pre class="fragment">make examples
-</pre><h1>Documentation </h1>
-<p>The public API for MCSB is in <code>include/MCSB</code>. Documentation can be generated for MCSB by using <a href="http://www.stack.nl/~dimitri/doxygen/">Doxygen</a>.</p>
+</pre><h2>Documentation</h2>
+<p>The public API for MCSB is in <code>include/MCSB</code>. Documentation can be generated for MCSB by using the open source tool, <a href="http://www.stack.nl/~dimitri/doxygen/">Doxygen</a>.</p>
 <p>Once MCSB is configured, the Doxygen documentation can be built with: </p>
 <pre class="fragment">make doc
 </pre><p>Of course, this requires Doxygen to be installed on your system.</p>
-<p>The current MCSB Doxygen documentation is also served on the web at <a href="http://gallen.bitbucket.org/mcsb-docs/">gallen.bitbucket.org/mcsb-docs/</a>. </p>
-</div></div><!-- contents -->
+<p>The current MCSB Doxygen documentation is also served on the web at <a href="http://gallen.bitbucket.org/mcsb-docs/">gallen.bitbucket.org/mcsb-docs/</a>.</p>
+<h2>Mailing List</h2>
+<p>There is a Google mailing list for public discussion of MCSB: </p>
+<pre class="fragment">mcsb-middleware AT googlegroups DOT com
+</pre><p>or </p>
+<pre class="fragment">http://groups.google.com/d/forum/mcsb-middleware</pre> </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Jun 13 2014 11:44:00 for MCSB by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Jul 1 2014 16:10:46 for MCSB by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.5
 </small></address>
