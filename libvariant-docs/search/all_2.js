@@ -10,6 +10,7 @@ var searchData=
   ['contains',['Contains',['../classlibvariant_1_1_variant.html#a2b81259be1eb9f53eb33bda26ed9cff6',1,'libvariant::Variant::Contains(unsigned i) const '],['../classlibvariant_1_1_variant.html#a7e743fa5bcaaedad861589319aa010ce',1,'libvariant::Variant::Contains(const std::string &amp;s) const ']]],
   ['create',['Create',['../classlibvariant_1_1_blob.html#a9dbf9efbab2ac67cb8f46c2af2d5c59d',1,'libvariant::Blob::Create(void *ptr, unsigned len, BlobFreeFunc ffunc, void *context)'],['../classlibvariant_1_1_blob.html#aea7ddaee84760a43d4215fb9ff198398',1,'libvariant::Blob::Create(struct iovec *iov, unsigned iov_len, BlobFreeFunc ffunc, void *context)']]],
   ['createcopy',['CreateCopy',['../classlibvariant_1_1_blob.html#a996caa9065444d44e48451f7980cd5c2',1,'libvariant::Blob']]],
+  ['createemitter',['CreateEmitter',['../namespacelibvariant.html#a3807fc64f41deb490aa747f4dd29a84d',1,'libvariant']]],
   ['createfree',['CreateFree',['../classlibvariant_1_1_blob.html#a3590511eae87ba84d9b479e55a1988ca',1,'libvariant::Blob']]],
   ['createreferenced',['CreateReferenced',['../classlibvariant_1_1_blob.html#a100bba45211b3adc57a73f62362223b1',1,'libvariant::Blob']]]
 ];

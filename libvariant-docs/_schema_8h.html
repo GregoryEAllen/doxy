@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -69,7 +70,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -86,6 +87,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">Schema.h File Reference</div>  </div>
@@ -117,14 +119,20 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlibvariant_1_1_schema_loader_1_1_u_r_i_info.html">libvariant::SchemaLoader::URIInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespacelibvariant"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html">libvariant</a></td></tr>
+<tr class="memdesc:namespacelibvariant"><td class="mdescLeft">&#160;</td><td class="mdescRight">libvariant library namespace <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:a5be0576737ed1175e37d2c03b0a11870"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a5be0576737ed1175e37d2c03b0a11870"></a>
 std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::operator&lt;&lt;</b> (std::ostream &amp;os, const SchemaResult &amp;sr)</td></tr>
 <tr class="separator:a5be0576737ed1175e37d2c03b0a11870"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac850a966d64a356b2308bffe45c99ff1"><td class="memItemLeft" align="right" valign="top">SchemaResult&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::SchemaValidate</b> (Variant schema, Variant data, SchemaLoader *loader)</td></tr>
+<tr class="memitem:ac850a966d64a356b2308bffe45c99ff1"><td class="memItemLeft" align="right" valign="top">SchemaResult&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#ac850a966d64a356b2308bffe45c99ff1">libvariant::SchemaValidate</a> (Variant schema, Variant data, SchemaLoader *loader)</td></tr>
 <tr class="separator:ac850a966d64a356b2308bffe45c99ff1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a078d6b79438fcb1e60ccee940ed8cacf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::AddSchemaDefaults</b> (Variant schema, VariantRef data, SchemaLoader *loader)</td></tr>
+<tr class="memitem:a078d6b79438fcb1e60ccee940ed8cacf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a078d6b79438fcb1e60ccee940ed8cacf">libvariant::AddSchemaDefaults</a> (Variant schema, VariantRef data, SchemaLoader *loader)</td></tr>
 <tr class="separator:a078d6b79438fcb1e60ccee940ed8cacf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>

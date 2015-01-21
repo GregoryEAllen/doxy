@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -69,7 +70,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -177,11 +178,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    <span class="keywordtype">void</span> ParsePath(Path &amp;parsed_path, <span class="keyword">const</span> std::string &amp;path);</div>
 <div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;    Path ParsePath(<span class="keyword">const</span> std::string &amp;path);</div>
 <div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;</div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    std::string PathString(<span class="keyword">const</span> Path &amp;path);</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    std::string <a class="code" href="namespacelibvariant.html#a843da0540ad9ea4af3226aea5e25da85">PathString</a>(<span class="keyword">const</span> Path &amp;path);</div>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;</div>
 <div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;}</div>
 <div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="ttc" id="classlibvariant_1_1_path_element_html"><div class="ttname"><a href="classlibvariant_1_1_path_element.html">libvariant::PathElement</a></div><div class="ttdef"><b>Definition:</b> Path.h:65</div></div>
+<div class="ttc" id="namespacelibvariant_html_a843da0540ad9ea4af3226aea5e25da85"><div class="ttname"><a href="namespacelibvariant.html#a843da0540ad9ea4af3226aea5e25da85">libvariant::PathString</a></div><div class="ttdeci">std::string PathString(const Path &amp;path)</div><div class="ttdoc">Take the set of path tokens and turn it into a path string. </div><div class="ttdef"><b>Definition:</b> Path.cc:81</div></div>
 <div class="ttc" id="classlibvariant_1_1_bad_path_error_html"><div class="ttname"><a href="classlibvariant_1_1_bad_path_error.html">libvariant::BadPathError</a></div><div class="ttdoc">Exception thrown from path functions. </div><div class="ttdef"><b>Definition:</b> Exceptions.h:67</div></div>
 <div class="ttc" id="_exceptions_8h_html"><div class="ttname"><a href="_exceptions_8h.html">Exceptions.h</a></div></div>
 </div><!-- fragment --></div><!-- contents -->

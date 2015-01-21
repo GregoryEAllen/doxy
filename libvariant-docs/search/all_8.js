@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['jsonemitter_2eh',['JSONEmitter.h',['../_j_s_o_n_emitter_8h.html',1,'']]],
-  ['jsonemitterimpl',['JSONEmitterImpl',['../classlibvariant_1_1_j_s_o_n_emitter_impl.html',1,'libvariant']]],
-  ['jsonparser_2ecc',['JSONParser.cc',['../_j_s_o_n_parser_8cc.html',1,'']]],
-  ['jsonparser_2eh',['JSONParser.h',['../_j_s_o_n_parser_8h.html',1,'']]],
-  ['jsonparserimpl',['JSONParserImpl',['../classlibvariant_1_1_j_s_o_n_parser_impl.html',1,'libvariant']]]
+  ['index',['Index',['../classlibvariant_1_1_variant.html#af59380a6e6f0f45b9a1da5deec9d27ad',1,'libvariant::Variant']]],
+  ['invalidoperationerror',['InvalidOperationError',['../classlibvariant_1_1_invalid_operation_error.html',1,'libvariant']]],
+  ['invalidreferenceerror',['InvalidReferenceError',['../classlibvariant_1_1_invalid_reference_error.html',1,'libvariant']]]
 ];

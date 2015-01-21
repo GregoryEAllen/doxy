@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -69,7 +70,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -86,6 +87,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
@@ -103,6 +105,12 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_path_element.html">libvariant::PathElement</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespacelibvariant"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html">libvariant</a></td></tr>
+<tr class="memdesc:namespacelibvariant"><td class="mdescLeft">&#160;</td><td class="mdescRight">libvariant library namespace <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
 <tr class="memitem:a793283c526ce14c02d1921c55fce6c27"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a793283c526ce14c02d1921c55fce6c27"></a>
@@ -118,7 +126,7 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::ParsePath
 Path&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::ParsePath</b> (const std::string &amp;path)</td></tr>
 <tr class="separator:a80f65228f67cfe8108a068f6c6a1101b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a843da0540ad9ea4af3226aea5e25da85"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a843da0540ad9ea4af3226aea5e25da85"></a>
-std::string&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::PathString</b> (const Path &amp;path)</td></tr>
+std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a843da0540ad9ea4af3226aea5e25da85">libvariant::PathString</a> (const Path &amp;path)</td></tr>
 <tr class="memdesc:a843da0540ad9ea4af3226aea5e25da85"><td class="mdescLeft">&#160;</td><td class="mdescRight">Take the set of path tokens and turn it into a path string. <br /></td></tr>
 <tr class="separator:a843da0540ad9ea4af3226aea5e25da85"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>

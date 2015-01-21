@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -69,7 +70,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -86,6 +87,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">Emitter.h File Reference</div>  </div>
@@ -108,6 +110,12 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_emitter_impl.html">libvariant::EmitterImpl</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_emitter.html">libvariant::Emitter</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespacelibvariant"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html">libvariant</a></td></tr>
+<tr class="memdesc:namespacelibvariant"><td class="mdescLeft">&#160;</td><td class="mdescRight">libvariant library namespace <br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
@@ -180,17 +188,17 @@ shared_ptr&lt; EmitterOutput &gt;&#160;</td><td class="memItemRight" valign="bot
 <tr class="memitem:adc9cdcdcd5d3971102cb7d627ba5c337"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="adc9cdcdcd5d3971102cb7d627ba5c337"></a>
 shared_ptr&lt; EmitterOutput &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::CreateEmitterOutput</b> (std::streambuf *sb)</td></tr>
 <tr class="separator:adc9cdcdcd5d3971102cb7d627ba5c337"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3807fc64f41deb490aa747f4dd29a84d"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::CreateEmitter</b> (shared_ptr&lt; EmitterOutput &gt; o, SerializeType type, Variant params)</td></tr>
+<tr class="memitem:a3807fc64f41deb490aa747f4dd29a84d"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a3807fc64f41deb490aa747f4dd29a84d">libvariant::CreateEmitter</a> (shared_ptr&lt; EmitterOutput &gt; o, SerializeType type, Variant params)</td></tr>
 <tr class="separator:a3807fc64f41deb490aa747f4dd29a84d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a506fb7fdc157aeff18b11d5b39b6bd5b"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONEmitter</b> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
+<tr class="memitem:a506fb7fdc157aeff18b11d5b39b6bd5b"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a506fb7fdc157aeff18b11d5b39b6bd5b">libvariant::JSONEmitter</a> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
 <tr class="separator:a506fb7fdc157aeff18b11d5b39b6bd5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a287e5dc59aeebd33849039ce6a2b7408"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::YAMLEmitter</b> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
+<tr class="memitem:a287e5dc59aeebd33849039ce6a2b7408"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a287e5dc59aeebd33849039ce6a2b7408">libvariant::YAMLEmitter</a> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
 <tr class="separator:a287e5dc59aeebd33849039ce6a2b7408"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade1ff5f0bb05a692bdd3a89ad3c67d8a"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::XMLPLISTEmitter</b> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
+<tr class="memitem:ade1ff5f0bb05a692bdd3a89ad3c67d8a"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#ade1ff5f0bb05a692bdd3a89ad3c67d8a">libvariant::XMLPLISTEmitter</a> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
 <tr class="separator:ade1ff5f0bb05a692bdd3a89ad3c67d8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada8e0567305b6997483a0764d31ebc92"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::BundleHdrEmitter</b> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
+<tr class="memitem:ada8e0567305b6997483a0764d31ebc92"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#ada8e0567305b6997483a0764d31ebc92">libvariant::BundleHdrEmitter</a> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
 <tr class="separator:ada8e0567305b6997483a0764d31ebc92"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03eef10ceed596adc3bba7eb6efd1e02"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::MsgPackEmitter</b> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
+<tr class="memitem:a03eef10ceed596adc3bba7eb6efd1e02"><td class="memItemLeft" align="right" valign="top">Emitter&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a03eef10ceed596adc3bba7eb6efd1e02">libvariant::MsgPackEmitter</a> (shared_ptr&lt; EmitterOutput &gt; o, Variant params)</td></tr>
 <tr class="separator:a03eef10ceed596adc3bba7eb6efd1e02"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>

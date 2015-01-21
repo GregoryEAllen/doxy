@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -69,7 +70,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -81,6 +82,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- top -->
 <div class="header">
   <div class="summary">
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
@@ -100,6 +102,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <code>#include &lt;ctype.h&gt;</code><br />
 <code>#include &lt;set&gt;</code><br />
 </div><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespacelibvariant"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html">libvariant</a></td></tr>
+<tr class="memdesc:namespacelibvariant"><td class="mdescLeft">&#160;</td><td class="mdescRight">libvariant library namespace <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:a3c8882e09de26831b990067c5ac58d4c"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a3c8882e09de26831b990067c5ac58d4c"></a>
@@ -121,42 +129,42 @@ Functions</h2></td></tr>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::SimpleList</b> (const Variant &amp;var)</td></tr>
 <tr class="separator:a29dc6fae2518ddb76badbb4548192f28"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af8e92def96885268e0bae3bb1bad3b65"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="af8e92def96885268e0bae3bb1bad3b65"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::ExtensionParams</b> ()</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#af8e92def96885268e0bae3bb1bad3b65">libvariant::ExtensionParams</a> ()</td></tr>
 <tr class="memdesc:af8e92def96885268e0bae3bb1bad3b65"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a default parameters for use with FlattenPath and ExpandPath functions. <br /></td></tr>
 <tr class="separator:af8e92def96885268e0bae3bb1bad3b65"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a09dd534b7561991fd48086ddc88eb7c4"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a09dd534b7561991fd48086ddc88eb7c4"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::ExtensionParams</b> (VariantRef params)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a09dd534b7561991fd48086ddc88eb7c4">libvariant::ExtensionParams</a> (VariantRef params)</td></tr>
 <tr class="memdesc:a09dd534b7561991fd48086ddc88eb7c4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets any missing Extension parameters to 'params' for use with FlattenPath and ExpandPath functions. <br /></td></tr>
 <tr class="separator:a09dd534b7561991fd48086ddc88eb7c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3f0b2ffcfd019bf8828008516d189e52"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a3f0b2ffcfd019bf8828008516d189e52"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::FlattenPath</b> (const Variant &amp;var, Variant params=ExtensionParams())</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a3f0b2ffcfd019bf8828008516d189e52">libvariant::FlattenPath</a> (const Variant &amp;var, Variant params=ExtensionParams())</td></tr>
 <tr class="memdesc:a3f0b2ffcfd019bf8828008516d189e52"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a version of 'var' with flat paths based on 'params'. <br /></td></tr>
 <tr class="separator:a3f0b2ffcfd019bf8828008516d189e52"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afd5285d19107a58c576c7b20f8bf8a35"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="afd5285d19107a58c576c7b20f8bf8a35"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::ExpandPath</b> (const Variant &amp;var, Variant params=ExtensionParams())</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#afd5285d19107a58c576c7b20f8bf8a35">libvariant::ExpandPath</a> (const Variant &amp;var, Variant params=ExtensionParams())</td></tr>
 <tr class="memdesc:afd5285d19107a58c576c7b20f8bf8a35"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a version of 'var' with expanded paths based on 'params'. <br /></td></tr>
 <tr class="separator:afd5285d19107a58c576c7b20f8bf8a35"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac96a790c437b4ae9bbe7c2e2b57c9ff1"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ac96a790c437b4ae9bbe7c2e2b57c9ff1"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::FlattenPathTo</b> (VariantRef flat, const Variant &amp;var, Variant params=ExtensionParams(), std::string prefix=&quot;&quot;)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#ac96a790c437b4ae9bbe7c2e2b57c9ff1">libvariant::FlattenPathTo</a> (VariantRef flat, const Variant &amp;var, Variant params=ExtensionParams(), std::string prefix=&quot;&quot;)</td></tr>
 <tr class="memdesc:ac96a790c437b4ae9bbe7c2e2b57c9ff1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Flattens 'var' paths to 'flat' based on 'params'. <br /></td></tr>
 <tr class="separator:ac96a790c437b4ae9bbe7c2e2b57c9ff1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a792172e8162267369ebc366d381f5c59"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::ExpandPathTo</b> (VariantRef expand, const Variant &amp;var, Variant params=ExtensionParams())</td></tr>
+<tr class="memitem:a792172e8162267369ebc366d381f5c59"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a792172e8162267369ebc366d381f5c59">libvariant::ExpandPathTo</a> (VariantRef expand, const Variant &amp;var, Variant params=ExtensionParams())</td></tr>
 <tr class="memdesc:a792172e8162267369ebc366d381f5c59"><td class="mdescLeft">&#160;</td><td class="mdescRight">Expands 'var' paths to 'expand' based on 'params'.  <a href="#a792172e8162267369ebc366d381f5c59">More...</a><br /></td></tr>
 <tr class="separator:a792172e8162267369ebc366d381f5c59"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac0155c4b91b1e63e96488b53968082ff"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ac0155c4b91b1e63e96488b53968082ff"></a>
-map&lt; string, string &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::FlattenPathToStrStrMap</b> (const Variant &amp;var, Variant params=ExtensionParams())</td></tr>
+map&lt; string, string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#ac0155c4b91b1e63e96488b53968082ff">libvariant::FlattenPathToStrStrMap</a> (const Variant &amp;var, Variant params=ExtensionParams())</td></tr>
 <tr class="memdesc:ac0155c4b91b1e63e96488b53968082ff"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a string string map representation of 'var' based on 'params'. <br /></td></tr>
 <tr class="separator:ac0155c4b91b1e63e96488b53968082ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6a931a876aba6abe9f24f997d3d2e092"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a6a931a876aba6abe9f24f997d3d2e092"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::RDiff</b> (const Variant &amp;base, const Variant &amp;compare)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a6a931a876aba6abe9f24f997d3d2e092">libvariant::RDiff</a> (const Variant &amp;base, const Variant &amp;compare)</td></tr>
 <tr class="memdesc:a6a931a876aba6abe9f24f997d3d2e092"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a variant representing elements in 'compare' that differ from 'base' recursively. <br /></td></tr>
 <tr class="separator:a6a931a876aba6abe9f24f997d3d2e092"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a95a01cdd42497cf5efbf36e5df663714"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a95a01cdd42497cf5efbf36e5df663714"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::RDiff</b> (VariantRef diff, const Variant &amp;base, const Variant &amp;compare)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a95a01cdd42497cf5efbf36e5df663714">libvariant::RDiff</a> (VariantRef diff, const Variant &amp;base, const Variant &amp;compare)</td></tr>
 <tr class="memdesc:a95a01cdd42497cf5efbf36e5df663714"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets elements into 'diff' from 'compare' that differ from 'base' recursively. <br /></td></tr>
 <tr class="separator:a95a01cdd42497cf5efbf36e5df663714"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa3b376f7234df7dfea86365252753a05"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aa3b376f7234df7dfea86365252753a05"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::RUpdate</b> (VariantRef base, const Variant &amp;update)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#aa3b376f7234df7dfea86365252753a05">libvariant::RUpdate</a> (VariantRef base, const Variant &amp;update)</td></tr>
 <tr class="memdesc:aa3b376f7234df7dfea86365252753a05"><td class="mdescLeft">&#160;</td><td class="mdescRight">Updates 'base' with entries in 'update' recursively. <br /></td></tr>
 <tr class="separator:aa3b376f7234df7dfea86365252753a05"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a09dfdb8571f63582325b60373b339dff"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a09dfdb8571f63582325b60373b339dff"></a>
@@ -165,27 +173,27 @@ std::string&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JS
 <tr class="memitem:a733f1c3904d42e64b94af9ed830e3cb2"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a733f1c3904d42e64b94af9ed830e3cb2"></a>
 VariantRef&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPointerOp</b> (const std::string &amp;pointer, VariantRef v, Operation_t &amp;op)</td></tr>
 <tr class="separator:a733f1c3904d42e64b94af9ed830e3cb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ff850a0815f2b99c4d7545b36c6362e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPointerAdd</b> (const std::string &amp;pointer, VariantRef v, Variant data)</td></tr>
+<tr class="memitem:a4ff850a0815f2b99c4d7545b36c6362e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a4ff850a0815f2b99c4d7545b36c6362e">libvariant::JSONPointerAdd</a> (const std::string &amp;pointer, VariantRef v, Variant data)</td></tr>
 <tr class="memdesc:a4ff850a0815f2b99c4d7545b36c6362e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Perform an operations on v according to RFC6901 and RFC6902.  <a href="#a4ff850a0815f2b99c4d7545b36c6362e">More...</a><br /></td></tr>
 <tr class="separator:a4ff850a0815f2b99c4d7545b36c6362e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1593c62bea7d23507bf1054ef25c1bb6"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a1593c62bea7d23507bf1054ef25c1bb6"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPointerRemove</b> (const std::string &amp;pointer, VariantRef v)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a1593c62bea7d23507bf1054ef25c1bb6">libvariant::JSONPointerRemove</a> (const std::string &amp;pointer, VariantRef v)</td></tr>
 <tr class="memdesc:a1593c62bea7d23507bf1054ef25c1bb6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove the element in v at the spot specified by pointer. <br /></td></tr>
 <tr class="separator:a1593c62bea7d23507bf1054ef25c1bb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7b9682985dbbe805c24722d3dbdc1f17"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a7b9682985dbbe805c24722d3dbdc1f17"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPointerReplace</b> (const std::string &amp;pointer, VariantRef v, Variant data)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a7b9682985dbbe805c24722d3dbdc1f17">libvariant::JSONPointerReplace</a> (const std::string &amp;pointer, VariantRef v, Variant data)</td></tr>
 <tr class="memdesc:a7b9682985dbbe805c24722d3dbdc1f17"><td class="mdescLeft">&#160;</td><td class="mdescRight">Replace the value at pointer with data, error if the location does not already exist. <br /></td></tr>
 <tr class="separator:a7b9682985dbbe805c24722d3dbdc1f17"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af227aad2755cf0fcb02076d27a74e3c0"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="af227aad2755cf0fcb02076d27a74e3c0"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPointerMove</b> (const std::string &amp;src, const std::string &amp;dst, VariantRef v)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#af227aad2755cf0fcb02076d27a74e3c0">libvariant::JSONPointerMove</a> (const std::string &amp;src, const std::string &amp;dst, VariantRef v)</td></tr>
 <tr class="memdesc:af227aad2755cf0fcb02076d27a74e3c0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Move the value from src to dst (equivalent to get(src), remove(src), add(dst) <br /></td></tr>
 <tr class="separator:af227aad2755cf0fcb02076d27a74e3c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3c1e4035a1b92dfc9ea30ade647a86c"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ad3c1e4035a1b92dfc9ea30ade647a86c"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPointerCopy</b> (const std::string &amp;src, const std::string &amp;dst, VariantRef v)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#ad3c1e4035a1b92dfc9ea30ade647a86c">libvariant::JSONPointerCopy</a> (const std::string &amp;src, const std::string &amp;dst, VariantRef v)</td></tr>
 <tr class="memdesc:ad3c1e4035a1b92dfc9ea30ade647a86c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Copy the value from src to dst (equivalent to add(dst, get(src).Copy())) <br /></td></tr>
 <tr class="separator:ad3c1e4035a1b92dfc9ea30ade647a86c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aea16d195274c447d11d820eb4869ee8f"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aea16d195274c447d11d820eb4869ee8f"></a>
-VariantRef&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPointerLookup</b> (const std::string &amp;pointer, VariantRef v)</td></tr>
+VariantRef&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#aea16d195274c447d11d820eb4869ee8f">libvariant::JSONPointerLookup</a> (const std::string &amp;pointer, VariantRef v)</td></tr>
 <tr class="memdesc:aea16d195274c447d11d820eb4869ee8f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Perform a lookup into v according to RFC6901, return a reference to the value at the location. <br /></td></tr>
 <tr class="separator:aea16d195274c447d11d820eb4869ee8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6e024e33b72ea11acfb59b1707728a5f"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a6e024e33b72ea11acfb59b1707728a5f"></a>
@@ -198,14 +206,14 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPatch
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPatchOp</b> (VariantRef v, const Variant &amp;diff, std::deque&lt; Patch_t &gt; *undo)</td></tr>
 <tr class="separator:a0f3281d07c5000a3b46a760b0ff8023d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1501618c026d48a2fe996cf2f155925e"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a1501618c026d48a2fe996cf2f155925e"></a>
-std::pair&lt; bool, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONPatch</b> (VariantRef v, const Variant &amp;diff)</td></tr>
+std::pair&lt; bool, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a1501618c026d48a2fe996cf2f155925e">libvariant::JSONPatch</a> (VariantRef v, const Variant &amp;diff)</td></tr>
 <tr class="memdesc:a1501618c026d48a2fe996cf2f155925e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Perform a patch operation on v with the patch as described by diff according to RFC6902. <br /></td></tr>
 <tr class="separator:a1501618c026d48a2fe996cf2f155925e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a29a269d1ac40df2a67b379a617fe724f"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a29a269d1ac40df2a67b379a617fe724f"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONDiffRef</b> (VariantRef src, VariantRef dst, VariantRef diff, Path &amp;path)</td></tr>
 <tr class="separator:a29a269d1ac40df2a67b379a617fe724f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a096a8f67179c3195b818084a1b1fd6a2"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a096a8f67179c3195b818084a1b1fd6a2"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::JSONDiff</b> (const Variant &amp;src, const Variant &amp;dst)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a096a8f67179c3195b818084a1b1fd6a2">libvariant::JSONDiff</a> (const Variant &amp;src, const Variant &amp;dst)</td></tr>
 <tr class="memdesc:a096a8f67179c3195b818084a1b1fd6a2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Create a diff suitable to give to JSONPatch to transform src into dst. <br /></td></tr>
 <tr class="separator:a096a8f67179c3195b818084a1b1fd6a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>

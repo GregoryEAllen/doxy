@@ -1,7 +1,15 @@
 var searchData=
 [
-  ['default',['Default',['../classlibvariant_1_1_arg_parse_option.html#a7d5baa9c7876fe77b70dba8f772323ef',1,'libvariant::ArgParseOption']]],
-  ['description',['Description',['../classlibvariant_1_1_option_group.html#a5abc17c2de0e2aad1d1ac306a8486718',1,'libvariant::OptionGroup']]],
-  ['deserializeallfile',['DeserializeAllFile',['../group__deserialize__all.html#ga38d2022ebbd3e71485e4acb39b135884',1,'libvariant::DeserializeAllFile(FILE *f, SerializeType type)'],['../group__deserialize__all.html#ga61813128384d2a3b6b3467a7445b1f45',1,'libvariant::DeserializeAllFile(std::streambuf *sb, SerializeType type)']]],
-  ['done',['Done',['../classlibvariant_1_1_bundle_hdr_parser_impl.html#a329c4c69894bb4798dd930f1a1417508',1,'libvariant::BundleHdrParserImpl::Done()'],['../classlibvariant_1_1_event_buffer.html#a8b0c121875143ff2f7f1f9b7f53f0e58',1,'libvariant::EventBuffer::Done()'],['../classlibvariant_1_1_j_s_o_n_parser_impl.html#a8fe5c7ffeebcedf1bdf89598f7b2396c',1,'libvariant::JSONParserImpl::Done()'],['../classlibvariant_1_1_msg_pack_parser_impl.html#aefc1794fd4b847b2b67d743bee3efcfb',1,'libvariant::MsgPackParserImpl::Done()'],['../classlibvariant_1_1_x_m_l_p_l_i_s_t_parser_impl.html#a8c3ac2a26e89df1642e92a423678f351',1,'libvariant::XMLPLISTParserImpl::Done()'],['../classlibvariant_1_1_y_a_m_l_parser_impl.html#a519dc0bae190e7d0982eb296a754c82c',1,'libvariant::YAMLParserImpl::Done()'],['../classlibvariant_1_1_parser_impl.html#a960aeafadbe6bb22ec416f64347b30f5',1,'libvariant::ParserImpl::Done()'],['../classlibvariant_1_1_parser.html#a5002bb602012e6ff3e6354a8e56f48cb',1,'libvariant::Parser::Done()']]]
+  ['clear',['Clear',['../classlibvariant_1_1_variant.html#a0187c641ad7ff7d83ea506e7d9e5dd14',1,'libvariant::Variant']]],
+  ['close',['Close',['../classlibvariant_1_1_y_a_m_l_emitter_impl.html#a91ff4c0338628cebb0648857fd5c1d89',1,'libvariant::YAMLEmitterImpl']]],
+  ['comparable',['Comparable',['../classlibvariant_1_1_variant.html#ab9ae19d5b94cec3581c5a1590a0de11c',1,'libvariant::Variant']]],
+  ['compare',['Compare',['../classlibvariant_1_1_variant.html#a7a197d8ba9c23bfb244fb58c3ce27477',1,'libvariant::Variant']]],
+  ['conflictresolution',['ConflictResolution',['../classlibvariant_1_1_arg_parse.html#ad212afe51561a0fc6296b40ffa716b0b',1,'libvariant::ArgParse']]],
+  ['const',['Const',['../classlibvariant_1_1_arg_parse_option.html#a42cad192af08356a91bb298fedccc847',1,'libvariant::ArgParseOption']]],
+  ['contains',['Contains',['../classlibvariant_1_1_variant.html#a2b81259be1eb9f53eb33bda26ed9cff6',1,'libvariant::Variant::Contains(unsigned i) const '],['../classlibvariant_1_1_variant.html#a7e743fa5bcaaedad861589319aa010ce',1,'libvariant::Variant::Contains(const std::string &amp;s) const ']]],
+  ['create',['Create',['../classlibvariant_1_1_blob.html#a9dbf9efbab2ac67cb8f46c2af2d5c59d',1,'libvariant::Blob::Create(void *ptr, unsigned len, BlobFreeFunc ffunc, void *context)'],['../classlibvariant_1_1_blob.html#aea7ddaee84760a43d4215fb9ff198398',1,'libvariant::Blob::Create(struct iovec *iov, unsigned iov_len, BlobFreeFunc ffunc, void *context)']]],
+  ['createcopy',['CreateCopy',['../classlibvariant_1_1_blob.html#a996caa9065444d44e48451f7980cd5c2',1,'libvariant::Blob']]],
+  ['createemitter',['CreateEmitter',['../namespacelibvariant.html#a3807fc64f41deb490aa747f4dd29a84d',1,'libvariant']]],
+  ['createfree',['CreateFree',['../classlibvariant_1_1_blob.html#a3590511eae87ba84d9b479e55a1988ca',1,'libvariant::Blob']]],
+  ['createreferenced',['CreateReferenced',['../classlibvariant_1_1_blob.html#a100bba45211b3adc57a73f62362223b1',1,'libvariant::Blob']]]
 ];

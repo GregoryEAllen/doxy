@@ -1,22 +1,12 @@
 var searchData=
 [
-  ['schema_2ecc',['Schema.cc',['../_schema_8cc.html',1,'']]],
-  ['schema_2eh',['Schema.h',['../_schema_8h.html',1,'']]],
-  ['schemaerror',['SchemaError',['../classlibvariant_1_1_schema_error.html',1,'libvariant']]],
-  ['schemaloader',['SchemaLoader',['../classlibvariant_1_1_schema_loader.html',1,'libvariant']]],
-  ['schemaloader_2ecc',['SchemaLoader.cc',['../_schema_loader_8cc.html',1,'']]],
-  ['schemaloader_2eh',['SchemaLoader.h',['../_schema_loader_8h.html',1,'']]],
-  ['schemaresult',['SchemaResult',['../classlibvariant_1_1_schema_result.html',1,'libvariant']]],
-  ['set',['Set',['../classlibvariant_1_1_variant.html#a56fb1d50f15fb3c6de45edbdb154a972',1,'libvariant::Variant']]],
-  ['setchoices',['SetChoices',['../classlibvariant_1_1_arg_parse_option.html#accc13668c53e6e847e1c636813197fca',1,'libvariant::ArgParseOption']]],
-  ['setdescription',['SetDescription',['../classlibvariant_1_1_arg_parse.html#adb37fc76637108d91ccb910afb0f6909',1,'libvariant::ArgParse']]],
-  ['setepilog',['SetEpilog',['../classlibvariant_1_1_arg_parse.html#a870981f4d73b2b5cb53f8f0e79dc70a4',1,'libvariant::ArgParse']]],
-  ['setparam',['SetParam',['../classlibvariant_1_1_emitter.html#a8d734f1f301ab808ff276bb9f5bc023b',1,'libvariant::Emitter']]],
-  ['setparams',['SetParams',['../classlibvariant_1_1_emitter.html#abee46d289d3287175e25897572e62eff',1,'libvariant::Emitter']]],
-  ['setpath',['SetPath',['../classlibvariant_1_1_variant.html#a3f42c9de6747963b4b6eaee85e043dfd',1,'libvariant::Variant']]],
-  ['setprogramname',['SetProgramName',['../classlibvariant_1_1_arg_parse.html#a7f0dfd13c4b432e5666c268f3de6eccb',1,'libvariant::ArgParse']]],
-  ['sharedptr_2eh',['SharedPtr.h',['../_shared_ptr_8h.html',1,'']]],
-  ['size',['Size',['../classlibvariant_1_1_variant.html#aed79d634f5fbd4bbe4ccd27f7b44d2a7',1,'libvariant::Variant']]],
-  ['stacktrace_2ecc',['StackTrace.cc',['../_stack_trace_8cc.html',1,'']]],
-  ['stacktrace_2eh',['StackTrace.h',['../_stack_trace_8h.html',1,'']]]
+  ['rdiff',['RDiff',['../namespacelibvariant.html#a6a931a876aba6abe9f24f997d3d2e092',1,'libvariant::RDiff(const Variant &amp;base, const Variant &amp;compare)'],['../namespacelibvariant.html#a95a01cdd42497cf5efbf36e5df663714',1,'libvariant::RDiff(VariantRef diff, const Variant &amp;base, const Variant &amp;compare)']]],
+  ['read',['Read',['../classlibvariant_1_1_parser_stream_input.html#a0c5ae958431b103002e4c7a8ad5d3d3b',1,'libvariant::ParserStreamInput::Read()'],['../classlibvariant_1_1_parser_file_input.html#a86be758acb54e3878fb5f849ba72a73b',1,'libvariant::ParserFileInput::Read()'],['../classlibvariant_1_1_parser_streambuf_input.html#a9e047e55bcc3ac827cba825931fcf2ea',1,'libvariant::ParserStreambufInput::Read()']]],
+  ['reassignref',['ReassignRef',['../classlibvariant_1_1_variant.html#a7beb4aac56e12cc8fd2ad058467734bb',1,'libvariant::Variant']]],
+  ['reftag',['RefTag',['../structlibvariant_1_1_ref_tag.html',1,'libvariant']]],
+  ['required',['Required',['../classlibvariant_1_1_arg_parse_option.html#a933bd31f8b58e52c8aaf209a46783591',1,'libvariant::ArgParseOption::Required()'],['../classlibvariant_1_1_option_group.html#a292681b6672e084536ef03c019a1de4d',1,'libvariant::OptionGroup::Required()']]],
+  ['reset',['Reset',['../classlibvariant_1_1_bundle_hdr_parser_impl.html#a3ac282447693f9f50870aeb9b4b5883d',1,'libvariant::BundleHdrParserImpl::Reset()'],['../classlibvariant_1_1_event_buffer.html#a8429128384d677af917c040932faf860',1,'libvariant::EventBuffer::Reset()'],['../classlibvariant_1_1_j_s_o_n_parser_impl.html#a9e28d47ea0d9c0710233f60b3ed0075e',1,'libvariant::JSONParserImpl::Reset()'],['../classlibvariant_1_1_msg_pack_parser_impl.html#a18a6fcf7d86311162a70713a1beb55e4',1,'libvariant::MsgPackParserImpl::Reset()'],['../classlibvariant_1_1_x_m_l_p_l_i_s_t_parser_impl.html#a6033795c464db71ee8788c778c509221',1,'libvariant::XMLPLISTParserImpl::Reset()'],['../classlibvariant_1_1_y_a_m_l_parser_impl.html#a1c4eb93d2bed100240c67d695e7f648e',1,'libvariant::YAMLParserImpl::Reset()'],['../classlibvariant_1_1_parser_impl.html#a2e3b095dc64e97ca465fdfcdc8a5fc20',1,'libvariant::ParserImpl::Reset()'],['../classlibvariant_1_1_parser.html#a0f88aa7ab687f6afe5c800217718f87b',1,'libvariant::Parser::Reset()']]],
+  ['resolve',['Resolve',['../classlibvariant_1_1_variant.html#ab8b6dc872c2ea1b5ddc8618189412cf7',1,'libvariant::Variant']]],
+  ['run',['Run',['../classlibvariant_1_1_bundle_hdr_parser_impl.html#afd8990d7f2fd75f46e6a509b0ea515de',1,'libvariant::BundleHdrParserImpl::Run()'],['../classlibvariant_1_1_event_buffer.html#a89223ee062771a86b60d850dc595797f',1,'libvariant::EventBuffer::Run()'],['../classlibvariant_1_1_j_s_o_n_parser_impl.html#a482d265b164aae9c9b70a6146966b076',1,'libvariant::JSONParserImpl::Run()'],['../classlibvariant_1_1_msg_pack_parser_impl.html#a109faadc40f6fc7f368fe0a5efffeb5e',1,'libvariant::MsgPackParserImpl::Run()'],['../classlibvariant_1_1_x_m_l_p_l_i_s_t_parser_impl.html#a25c94abba0aeef319a5dbc1bb40c406b',1,'libvariant::XMLPLISTParserImpl::Run()'],['../classlibvariant_1_1_y_a_m_l_parser_impl.html#a0404b4a591a9153c199da363ed8d4006',1,'libvariant::YAMLParserImpl::Run()'],['../classlibvariant_1_1_parser_impl.html#a18ae14b9ea3106098126821dfa811273',1,'libvariant::ParserImpl::Run()'],['../classlibvariant_1_1_parser.html#aeb7485e5d303de66ca7d217daa71e41f',1,'libvariant::Parser::Run()']]],
+  ['rupdate',['RUpdate',['../namespacelibvariant.html#aa3b376f7234df7dfea86365252753a05',1,'libvariant']]]
 ];

@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -69,7 +70,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -195,7 +196,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;    shared_ptr&lt;ParserInput&gt; CreateParserInputFile(FILE *f);</div>
 <div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;    shared_ptr&lt;ParserInput&gt; CreateParserInputFile(std::streambuf *sb);</div>
 <div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;</div>
-<div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;    Parser CreateParser(shared_ptr&lt;ParserInput&gt; i, SerializeType type);</div>
+<div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;    Parser CreateParser(shared_ptr&lt;ParserInput&gt; i, <a class="code" href="namespacelibvariant.html#a82f48a4ffe0dab6b0cf4007a63ea645a">SerializeType</a> type);</div>
 <div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;    Parser CreateParserGuess(shared_ptr&lt;ParserInput&gt; i);</div>
 <div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;    Parser JSONParser(shared_ptr&lt;ParserInput&gt; i);</div>
 <div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160;    Parser YAMLParser(shared_ptr&lt;ParserInput&gt; i);</div>
@@ -210,6 +211,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="classlibvariant_1_1_parser_html_a08f44c40bf59cf61e408fb07aadc9c96"><div class="ttname"><a href="classlibvariant_1_1_parser.html#a08f44c40bf59cf61e408fb07aadc9c96">libvariant::Parser::ErrorStr</a></div><div class="ttdeci">std::string ErrorStr() const </div><div class="ttdoc">Return a string describing the last error suitable for presentation to a user. </div><div class="ttdef"><b>Definition:</b> Parser.h:132</div></div>
 <div class="ttc" id="classlibvariant_1_1_parser_impl_html_a41c5b2b01295dcdd46b483ca5fbe5300"><div class="ttname"><a href="classlibvariant_1_1_parser_impl.html#a41c5b2b01295dcdd46b483ca5fbe5300">libvariant::ParserImpl::ErrorStr</a></div><div class="ttdeci">virtual std::string ErrorStr() const =0</div><div class="ttdoc">Return a string describing the last error suitable for presentation to a user. </div></div>
 <div class="ttc" id="classlibvariant_1_1_parser_html"><div class="ttname"><a href="classlibvariant_1_1_parser.html">libvariant::Parser</a></div><div class="ttdef"><b>Definition:</b> Parser.h:115</div></div>
+<div class="ttc" id="namespacelibvariant_html_a82f48a4ffe0dab6b0cf4007a63ea645a"><div class="ttname"><a href="namespacelibvariant.html#a82f48a4ffe0dab6b0cf4007a63ea645a">libvariant::SerializeType</a></div><div class="ttdeci">SerializeType</div><div class="ttdoc">The different types of serialization supported. </div><div class="ttdef"><b>Definition:</b> Variant.h:578</div></div>
 <div class="ttc" id="classlibvariant_1_1_parser_impl_html_a2e3b095dc64e97ca465fdfcdc8a5fc20"><div class="ttname"><a href="classlibvariant_1_1_parser_impl.html#a2e3b095dc64e97ca465fdfcdc8a5fc20">libvariant::ParserImpl::Reset</a></div><div class="ttdeci">virtual void Reset()=0</div><div class="ttdoc">Reset the parser. </div><div class="ttdef"><b>Definition:</b> Parser.cc:43</div></div>
 <div class="ttc" id="classlibvariant_1_1_parser_html_ab50b338a305693ccfaa4ea15c9080db8"><div class="ttname"><a href="classlibvariant_1_1_parser.html#ab50b338a305693ccfaa4ea15c9080db8">libvariant::Parser::PushAction</a></div><div class="ttdeci">void PushAction(shared_ptr&lt; ParserActions &gt; action)</div><div class="ttdoc">Push an action handler onto the action stack. </div><div class="ttdef"><b>Definition:</b> Parser.h:123</div></div>
 <div class="ttc" id="_blob_8h_html"><div class="ttname"><a href="_blob_8h.html">Blob.h</a></div></div>

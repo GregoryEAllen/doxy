@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -70,7 +71,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -93,16 +94,18 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    <span class="comment">//into a base64 string encoding in the buffer pointed to by</span></div>
 <div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    <span class="comment">//outptr. The buffer for outptr should be at least Base64EncodeSize(len)</span></div>
 <div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;    <span class="comment">//in length, returns the actual length of the output</span></div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;    <span class="keywordtype">unsigned</span> Base64Encode(<span class="keywordtype">char</span> *outptr, <span class="keyword">const</span> <span class="keywordtype">void</span> *inptr, <span class="keywordtype">unsigned</span> len, <span class="keywordtype">unsigned</span> cpl = 72);</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    <span class="keywordtype">unsigned</span> Base64Encode(<span class="keywordtype">char</span> *outptr, <span class="keyword">const</span> <span class="keyword">struct</span> iovec *iov, <span class="keywordtype">unsigned</span> iov_len, <span class="keywordtype">unsigned</span> cpl = 72);</div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;    <span class="keywordtype">unsigned</span> <a class="code" href="namespacelibvariant.html#aa181a781ea884704ae388691253e8782">Base64Encode</a>(<span class="keywordtype">char</span> *outptr, <span class="keyword">const</span> <span class="keywordtype">void</span> *inptr, <span class="keywordtype">unsigned</span> len, <span class="keywordtype">unsigned</span> cpl = 72);</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    <span class="keywordtype">unsigned</span> <a class="code" href="namespacelibvariant.html#aa181a781ea884704ae388691253e8782">Base64Encode</a>(<span class="keywordtype">char</span> *outptr, <span class="keyword">const</span> <span class="keyword">struct</span> iovec *iov, <span class="keywordtype">unsigned</span> iov_len, <span class="keywordtype">unsigned</span> cpl = 72);</div>
 <div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    <span class="keywordtype">unsigned</span> Base64EncodeSize(<span class="keywordtype">unsigned</span> len, <span class="keywordtype">unsigned</span> cpl=72);</div>
 <div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    <span class="comment">//The blob will be no larger than Base64DecodeSize(len)</span></div>
 <div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    <span class="comment">//returns the actual size of the blob</span></div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    <span class="keywordtype">unsigned</span> Base64Decode(<span class="keywordtype">void</span> *outptr, <span class="keyword">const</span> <span class="keywordtype">char</span> *inptr, <span class="keywordtype">unsigned</span> len);</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    <span class="keywordtype">unsigned</span> <a class="code" href="namespacelibvariant.html#a4a2fad6ae59cf8b0487c23c75d052d26">Base64Decode</a>(<span class="keywordtype">void</span> *outptr, <span class="keyword">const</span> <span class="keywordtype">char</span> *inptr, <span class="keywordtype">unsigned</span> len);</div>
 <div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <span class="keywordtype">unsigned</span> Base64DecodeSize(<span class="keywordtype">unsigned</span> len);</div>
 <div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;}</div>
 <div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;</div>
+<div class="ttc" id="namespacelibvariant_html_aa181a781ea884704ae388691253e8782"><div class="ttname"><a href="namespacelibvariant.html#aa181a781ea884704ae388691253e8782">libvariant::Base64Encode</a></div><div class="ttdeci">unsigned Base64Encode(char *outptr, const void *inptr, unsigned len, unsigned cpl)</div><div class="ttdoc">Encode the binary blob of len pointed to by inptr. </div><div class="ttdef"><b>Definition:</b> Base64.cc:9</div></div>
+<div class="ttc" id="namespacelibvariant_html_a4a2fad6ae59cf8b0487c23c75d052d26"><div class="ttname"><a href="namespacelibvariant.html#a4a2fad6ae59cf8b0487c23c75d052d26">libvariant::Base64Decode</a></div><div class="ttdeci">unsigned Base64Decode(void *outptr, const char *inptr, unsigned len)</div><div class="ttdoc">Decode a base64 encoded string of length len to a binary blob. </div><div class="ttdef"><b>Definition:</b> Base64.cc:119</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

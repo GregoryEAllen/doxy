@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -69,7 +70,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -81,6 +82,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- top -->
 <div class="header">
   <div class="summary">
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
@@ -93,6 +95,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <code>#include &lt;stdexcept&gt;</code><br />
 <code>#include &lt;string.h&gt;</code><br />
 </div><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespacelibvariant"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html">libvariant</a></td></tr>
+<tr class="memdesc:namespacelibvariant"><td class="mdescLeft">&#160;</td><td class="mdescRight">libvariant library namespace <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:ad860df584607f0d47051c589a133534a"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ad860df584607f0d47051c589a133534a"></a>
@@ -129,7 +137,7 @@ unsigned&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::Seria
 Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::DeserializeWithPayload</b> (const std::string &amp;str, SerializeType type, Variant params)</td></tr>
 <tr class="separator:ae06f9d3e3d5f6ca50b096865d7574469"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab3199efd19675de29673f813f5641462"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ab3199efd19675de29673f813f5641462"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::DeserializeWithPayload</b> (const void *ptr, unsigned len, SerializeType type, Variant params=Variant::NullType, bool be_safe=true)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#ab3199efd19675de29673f813f5641462">libvariant::DeserializeWithPayload</a> (const void *ptr, unsigned len, SerializeType type, Variant params=Variant::NullType, bool be_safe=true)</td></tr>
 <tr class="memdesc:ab3199efd19675de29673f813f5641462"><td class="mdescLeft">&#160;</td><td class="mdescRight">If the be_safe parameter is false, then it is considered OK. <br /></td></tr>
 <tr class="separator:ab3199efd19675de29673f813f5641462"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8129240b1fe2d05483dc390192fbf944"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a8129240b1fe2d05483dc390192fbf944"></a>

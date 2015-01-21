@@ -1,8 +1,26 @@
 var searchData=
 [
-  ['title',['Title',['../classlibvariant_1_1_arg_parse_option.html#a6bc95f68273e05720597d927b0426da2',1,'libvariant::ArgParseOption::Title()'],['../classlibvariant_1_1_option_group.html#ae919119363dc50f6fa6727fd25500103',1,'libvariant::OptionGroup::Title()']]],
-  ['topaction',['TopAction',['../classlibvariant_1_1_parser_impl.html#a2197d6eac9d17483ab2087c817c21c80',1,'libvariant::ParserImpl']]],
-  ['type',['Type',['../classlibvariant_1_1_arg_parse_option.html#aaa1bc210c6bba1bfcb598705e10e5985',1,'libvariant::ArgParseOption']]],
-  ['typenotindexableerror',['TypeNotIndexableError',['../classlibvariant_1_1_type_not_indexable_error.html',1,'libvariant']]],
-  ['template_20casting_20operators_2e',['Template casting operators.',['../group__variant__cast.html',1,'']]]
+  ['schema_2ecc',['Schema.cc',['../_schema_8cc.html',1,'']]],
+  ['schema_2eh',['Schema.h',['../_schema_8h.html',1,'']]],
+  ['schemaerror',['SchemaError',['../classlibvariant_1_1_schema_error.html',1,'libvariant']]],
+  ['schemaloader',['SchemaLoader',['../classlibvariant_1_1_schema_loader.html',1,'libvariant']]],
+  ['schemaloader_2ecc',['SchemaLoader.cc',['../_schema_loader_8cc.html',1,'']]],
+  ['schemaloader_2eh',['SchemaLoader.h',['../_schema_loader_8h.html',1,'']]],
+  ['schemaresult',['SchemaResult',['../classlibvariant_1_1_schema_result.html',1,'libvariant']]],
+  ['schemavalidate',['SchemaValidate',['../namespacelibvariant.html#ac850a966d64a356b2308bffe45c99ff1',1,'libvariant']]],
+  ['serialize',['Serialize',['../namespacelibvariant.html#a7f811f23bcdf4dea8550521ef1e5048e',1,'libvariant::Serialize(Variant v, SerializeType type, Variant params=Variant::NullType)'],['../namespacelibvariant.html#a6621f7fd42bb580955529797d417d968',1,'libvariant::Serialize(const std::string &amp;filename, Variant v, SerializeType type, Variant params=Variant::NullType)'],['../namespacelibvariant.html#ae178d8532c0d68207b23616b34c99398',1,'libvariant::Serialize(FILE *f, Variant v, SerializeType type, Variant params=Variant::NullType)'],['../namespacelibvariant.html#abea05f270a965aab9cd3b013cf917110',1,'libvariant::Serialize(std::streambuf *sb, Variant v, SerializeType type, Variant params=Variant::NullType)'],['../namespacelibvariant.html#a161eaced2ed6f1f4a7fb681bf44effb5',1,'libvariant::Serialize(void *ptr, unsigned len, Variant v, SerializeType type, Variant params=Variant::NullType)']]],
+  ['serializebundle',['SerializeBundle',['../namespacelibvariant.html#a2b8c81324ece6900cda860cd07887ca0',1,'libvariant']]],
+  ['serializetype',['SerializeType',['../namespacelibvariant.html#a82f48a4ffe0dab6b0cf4007a63ea645a',1,'libvariant']]],
+  ['set',['Set',['../classlibvariant_1_1_variant.html#a56fb1d50f15fb3c6de45edbdb154a972',1,'libvariant::Variant']]],
+  ['setchoices',['SetChoices',['../classlibvariant_1_1_arg_parse_option.html#accc13668c53e6e847e1c636813197fca',1,'libvariant::ArgParseOption']]],
+  ['setdescription',['SetDescription',['../classlibvariant_1_1_arg_parse.html#adb37fc76637108d91ccb910afb0f6909',1,'libvariant::ArgParse']]],
+  ['setepilog',['SetEpilog',['../classlibvariant_1_1_arg_parse.html#a870981f4d73b2b5cb53f8f0e79dc70a4',1,'libvariant::ArgParse']]],
+  ['setparam',['SetParam',['../classlibvariant_1_1_emitter.html#a8d734f1f301ab808ff276bb9f5bc023b',1,'libvariant::Emitter']]],
+  ['setparams',['SetParams',['../classlibvariant_1_1_emitter.html#abee46d289d3287175e25897572e62eff',1,'libvariant::Emitter']]],
+  ['setpath',['SetPath',['../classlibvariant_1_1_variant.html#a3f42c9de6747963b4b6eaee85e043dfd',1,'libvariant::Variant']]],
+  ['setprogramname',['SetProgramName',['../classlibvariant_1_1_arg_parse.html#a7f0dfd13c4b432e5666c268f3de6eccb',1,'libvariant::ArgParse']]],
+  ['sharedptr_2eh',['SharedPtr.h',['../_shared_ptr_8h.html',1,'']]],
+  ['size',['Size',['../classlibvariant_1_1_variant.html#aed79d634f5fbd4bbe4ccd27f7b44d2a7',1,'libvariant::Variant']]],
+  ['stacktrace_2ecc',['StackTrace.cc',['../_stack_trace_8cc.html',1,'']]],
+  ['stacktrace_2eh',['StackTrace.h',['../_stack_trace_8h.html',1,'']]]
 ];

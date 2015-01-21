@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -69,7 +70,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -81,6 +82,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- top -->
 <div class="header">
   <div class="summary">
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
@@ -89,6 +91,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="_base64_8h_source.html">Base64.h</a>&quot;</code><br />
 </div><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespacelibvariant"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html">libvariant</a></td></tr>
+<tr class="memdesc:namespacelibvariant"><td class="mdescLeft">&#160;</td><td class="mdescRight">libvariant library namespace <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:a5876459a713421a844749b6353391bd1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><b>PUSH_VALUE</b>()</td></tr>
@@ -99,7 +107,7 @@ Macros</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:aa181a781ea884704ae388691253e8782"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aa181a781ea884704ae388691253e8782"></a>
-unsigned&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::Base64Encode</b> (char *outptr, const void *inptr, unsigned len, unsigned cpl=72)</td></tr>
+unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#aa181a781ea884704ae388691253e8782">libvariant::Base64Encode</a> (char *outptr, const void *inptr, unsigned len, unsigned cpl=72)</td></tr>
 <tr class="memdesc:aa181a781ea884704ae388691253e8782"><td class="mdescLeft">&#160;</td><td class="mdescRight">Encode the binary blob of len pointed to by inptr. <br /></td></tr>
 <tr class="separator:aa181a781ea884704ae388691253e8782"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5876c79bebf4fa538422fac5fe4314a5"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a5876c79bebf4fa538422fac5fe4314a5"></a>
@@ -109,7 +117,7 @@ unsigned&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::Base6
 unsigned&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::Base64EncodeSize</b> (unsigned len, unsigned cpl)</td></tr>
 <tr class="separator:abda3f1e126462e4e605dddde5f0a4668"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4a2fad6ae59cf8b0487c23c75d052d26"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a4a2fad6ae59cf8b0487c23c75d052d26"></a>
-unsigned&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::Base64Decode</b> (void *outptr, const char *inptr, unsigned len)</td></tr>
+unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a4a2fad6ae59cf8b0487c23c75d052d26">libvariant::Base64Decode</a> (void *outptr, const char *inptr, unsigned len)</td></tr>
 <tr class="memdesc:a4a2fad6ae59cf8b0487c23c75d052d26"><td class="mdescLeft">&#160;</td><td class="mdescRight">Decode a base64 encoded string of length len to a binary blob. <br /></td></tr>
 <tr class="separator:a4a2fad6ae59cf8b0487c23c75d052d26"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a92ad2dfb94da2d78a3de056c2936d121"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a92ad2dfb94da2d78a3de056c2936d121"></a>

@@ -24,6 +24,9 @@ var searchData=
   ['exceptions_2ecc',['Exceptions.cc',['../_exceptions_8cc.html',1,'']]],
   ['exceptions_2eh',['Exceptions.h',['../_exceptions_8h.html',1,'']]],
   ['exists',['Exists',['../classlibvariant_1_1_variant.html#a4638ba5874555dc2a91e166ee81e570f',1,'libvariant::Variant']]],
+  ['expandpath',['ExpandPath',['../namespacelibvariant.html#afd5285d19107a58c576c7b20f8bf8a35',1,'libvariant']]],
+  ['expandpathto',['ExpandPathTo',['../namespacelibvariant.html#a792172e8162267369ebc366d381f5c59',1,'libvariant']]],
+  ['extensionparams',['ExtensionParams',['../namespacelibvariant.html#af8e92def96885268e0bae3bb1bad3b65',1,'libvariant::ExtensionParams()'],['../namespacelibvariant.html#a09dd534b7561991fd48086ddc88eb7c4',1,'libvariant::ExtensionParams(VariantRef params)']]],
   ['extensions_2ecc',['Extensions.cc',['../_extensions_8cc.html',1,'']]],
   ['extensions_2eh',['Extensions.h',['../_extensions_8h.html',1,'']]]
 ];

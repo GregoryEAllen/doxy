@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -69,7 +70,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Groups</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Groups</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -81,6 +82,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- top -->
 <div class="header">
   <div class="summary">
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#define-members">Macros</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
 <a href="#func-members">Functions</a>  </div>
@@ -95,6 +97,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <code>#include &lt;string.h&gt;</code><br />
 <code>#include &lt;fstream&gt;</code><br />
 </div><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespacelibvariant"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html">libvariant</a></td></tr>
+<tr class="memdesc:namespacelibvariant"><td class="mdescLeft">&#160;</td><td class="mdescRight">libvariant library namespace <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:aa3bef3cecc6fe8cda7fcff5de20253c6"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aa3bef3cecc6fe8cda7fcff5de20253c6"></a>
@@ -111,31 +119,31 @@ Variant &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::A
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ad472010446fd1cacacc92fe65d833c3b"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ad472010446fd1cacacc92fe65d833c3b"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::ParseVariant</b> (Parser &amp;p)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#ad472010446fd1cacacc92fe65d833c3b">libvariant::ParseVariant</a> (Parser &amp;p)</td></tr>
 <tr class="memdesc:ad472010446fd1cacacc92fe65d833c3b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Takes a parser and produces a <a class="el" href="classlibvariant_1_1_variant.html" title="The Variant class. This is a variant type inspired by types from several different scripting language...">Variant</a> from it. <br /></td></tr>
 <tr class="separator:ad472010446fd1cacacc92fe65d833c3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4cc90f22dd10fc67ec595caa9f877f55"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a4cc90f22dd10fc67ec595caa9f877f55"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::Deserialize</b> (const std::string &amp;str, SerializeType type)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a4cc90f22dd10fc67ec595caa9f877f55">libvariant::Deserialize</a> (const std::string &amp;str, SerializeType type)</td></tr>
 <tr class="memdesc:a4cc90f22dd10fc67ec595caa9f877f55"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempt to deserialize a string in format type to a <a class="el" href="classlibvariant_1_1_variant.html" title="The Variant class. This is a variant type inspired by types from several different scripting language...">Variant</a>. <br /></td></tr>
 <tr class="separator:a4cc90f22dd10fc67ec595caa9f877f55"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adb75799193e387097b0ba1d8ea288143"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="adb75799193e387097b0ba1d8ea288143"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::Deserialize</b> (const char *str, SerializeType type)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#adb75799193e387097b0ba1d8ea288143">libvariant::Deserialize</a> (const char *str, SerializeType type)</td></tr>
 <tr class="memdesc:adb75799193e387097b0ba1d8ea288143"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempt to deserialize a null terminated string in format type to a <a class="el" href="classlibvariant_1_1_variant.html" title="The Variant class. This is a variant type inspired by types from several different scripting language...">Variant</a>. <br /></td></tr>
 <tr class="separator:adb75799193e387097b0ba1d8ea288143"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e6ccdbbaf68595168fd62b9dc08f628"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a5e6ccdbbaf68595168fd62b9dc08f628"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::Deserialize</b> (const void *ptr, unsigned len, SerializeType type)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a5e6ccdbbaf68595168fd62b9dc08f628">libvariant::Deserialize</a> (const void *ptr, unsigned len, SerializeType type)</td></tr>
 <tr class="memdesc:a5e6ccdbbaf68595168fd62b9dc08f628"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempt to deserialize a pointer and length in format type to a <a class="el" href="classlibvariant_1_1_variant.html" title="The Variant class. This is a variant type inspired by types from several different scripting language...">Variant</a>. <br /></td></tr>
 <tr class="separator:a5e6ccdbbaf68595168fd62b9dc08f628"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a04c586429b790b6676ec8a1961a0808a"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a04c586429b790b6676ec8a1961a0808a"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::DeserializeFile</b> (const char *filename, SerializeType type)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a04c586429b790b6676ec8a1961a0808a">libvariant::DeserializeFile</a> (const char *filename, SerializeType type)</td></tr>
 <tr class="memdesc:a04c586429b790b6676ec8a1961a0808a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempt to deserialize the file to a <a class="el" href="classlibvariant_1_1_variant.html" title="The Variant class. This is a variant type inspired by types from several different scripting language...">Variant</a> in format type. <br /></td></tr>
 <tr class="separator:a04c586429b790b6676ec8a1961a0808a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a09371b11f9ca8ff0335728612782cf51"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a09371b11f9ca8ff0335728612782cf51"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::DeserializeFile</b> (FILE *f, SerializeType type)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#a09371b11f9ca8ff0335728612782cf51">libvariant::DeserializeFile</a> (FILE *f, SerializeType type)</td></tr>
 <tr class="memdesc:a09371b11f9ca8ff0335728612782cf51"><td class="mdescLeft">&#160;</td><td class="mdescRight">Deserialize from a FILE pointer to a <a class="el" href="classlibvariant_1_1_variant.html" title="The Variant class. This is a variant type inspired by types from several different scripting language...">Variant</a> in format type. <br /></td></tr>
 <tr class="separator:a09371b11f9ca8ff0335728612782cf51"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af944eddab68ab930415f0f102fcf32b8"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="af944eddab68ab930415f0f102fcf32b8"></a>
-Variant&#160;</td><td class="memItemRight" valign="bottom"><b>libvariant::DeserializeFile</b> (std::streambuf *sb, SerializeType type)</td></tr>
+Variant&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelibvariant.html#af944eddab68ab930415f0f102fcf32b8">libvariant::DeserializeFile</a> (std::streambuf *sb, SerializeType type)</td></tr>
 <tr class="memdesc:af944eddab68ab930415f0f102fcf32b8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Deserialize from a streambuf to a <a class="el" href="classlibvariant_1_1_variant.html" title="The Variant class. This is a variant type inspired by types from several different scripting language...">Variant</a> in format type. <br /></td></tr>
 <tr class="separator:af944eddab68ab930415f0f102fcf32b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gad5ae7f95ed20d0cba813fcf39c212904"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="gad5ae7f95ed20d0cba813fcf39c212904"></a>
