@@ -93,23 +93,33 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">libvariant::SchemaResult Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>Result class of a schema validation.  
+ <a href="classlibvariant_1_1_schema_result.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="_schema_8h_source.html">Variant/Schema.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a3022315d3c366d19c8dd62d0c84858bc"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a3022315d3c366d19c8dd62d0c84858bc"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>AddError</b> (const <a class="el" href="classlibvariant_1_1_validation_error.html">ValidationError</a> &amp;err)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_schema_result.html#a3022315d3c366d19c8dd62d0c84858bc">AddError</a> (const <a class="el" href="classlibvariant_1_1_validation_error.html">ValidationError</a> &amp;err)</td></tr>
+<tr class="memdesc:a3022315d3c366d19c8dd62d0c84858bc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add a validation error to the result. <br /></td></tr>
 <tr class="separator:a3022315d3c366d19c8dd62d0c84858bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af76eb6a790be01b89db51f0a2c24ae13"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="af76eb6a790be01b89db51f0a2c24ae13"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>AddSchemaError</b> (const <a class="el" href="classlibvariant_1_1_schema_error.html">SchemaError</a> &amp;err)</td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_schema_result.html#af76eb6a790be01b89db51f0a2c24ae13">AddSchemaError</a> (const <a class="el" href="classlibvariant_1_1_schema_error.html">SchemaError</a> &amp;err)</td></tr>
+<tr class="memdesc:af76eb6a790be01b89db51f0a2c24ae13"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add a schema error to the result. <br /></td></tr>
 <tr class="separator:af76eb6a790be01b89db51f0a2c24ae13"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acd5cceaf2bc82aeb754c8c5c995ef008"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="acd5cceaf2bc82aeb754c8c5c995ef008"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>Error</b> () const </td></tr>
+bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_schema_result.html#acd5cceaf2bc82aeb754c8c5c995ef008">Error</a> () const </td></tr>
+<tr class="memdesc:acd5cceaf2bc82aeb754c8c5c995ef008"><td class="mdescLeft">&#160;</td><td class="mdescRight">True if any error occured. <br /></td></tr>
 <tr class="separator:acd5cceaf2bc82aeb754c8c5c995ef008"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aab19845215d94a3d7b2bf78025d009eb"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aab19845215d94a3d7b2bf78025d009eb"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>ValidationErrors</b> () const </td></tr>
+bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_schema_result.html#aab19845215d94a3d7b2bf78025d009eb">ValidationErrors</a> () const </td></tr>
+<tr class="memdesc:aab19845215d94a3d7b2bf78025d009eb"><td class="mdescLeft">&#160;</td><td class="mdescRight">True if a validation error occured. <br /></td></tr>
 <tr class="separator:aab19845215d94a3d7b2bf78025d009eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a29db6731a295759fdfa21b753a1bce24"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a29db6731a295759fdfa21b753a1bce24"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>SchemaErrors</b> () const </td></tr>
+bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_schema_result.html#a29db6731a295759fdfa21b753a1bce24">SchemaErrors</a> () const </td></tr>
+<tr class="memdesc:a29db6731a295759fdfa21b753a1bce24"><td class="mdescLeft">&#160;</td><td class="mdescRight">True if a error occured with the schema. <br /></td></tr>
 <tr class="separator:a29db6731a295759fdfa21b753a1bce24"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a785a8b32dd7876c0742d925d97583d98"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a785a8b32dd7876c0742d925d97583d98"></a>
 const std::vector<br class="typebreak" />
@@ -119,13 +129,17 @@ const std::vector<br class="typebreak" />
 const std::vector&lt; <a class="el" href="classlibvariant_1_1_schema_error.html">SchemaError</a> &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>GetSchemaErrors</b> () const </td></tr>
 <tr class="separator:af4faa002d659afc9d841222da91161e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aceb46bca01807c66e5687ac4a457111f"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aceb46bca01807c66e5687ac4a457111f"></a>
-std::string&#160;</td><td class="memItemRight" valign="bottom"><b>PrettyPrintMessage</b> () const </td></tr>
+std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_schema_result.html#aceb46bca01807c66e5687ac4a457111f">PrettyPrintMessage</a> () const </td></tr>
+<tr class="memdesc:aceb46bca01807c66e5687ac4a457111f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pritty print any error messages to a string. <br /></td></tr>
 <tr class="separator:aceb46bca01807c66e5687ac4a457111f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a490db24b9b4aa62f19d8d69aa1990653"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a490db24b9b4aa62f19d8d69aa1990653"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>PrettyPrintMessage</b> (std::ostream &amp;os, unsigned indent=0) const </td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_schema_result.html#a490db24b9b4aa62f19d8d69aa1990653">PrettyPrintMessage</a> (std::ostream &amp;os, unsigned indent=0) const </td></tr>
+<tr class="memdesc:a490db24b9b4aa62f19d8d69aa1990653"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pritty print any error messages to the std::ostream. <br /></td></tr>
 <tr class="separator:a490db24b9b4aa62f19d8d69aa1990653"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<hr/>The documentation for this class was generated from the following files:<ul>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Result class of a schema validation. </p>
+</div><hr/>The documentation for this class was generated from the following files:<ul>
 <li>Variant/<a class="el" href="_schema_8h_source.html">Schema.h</a></li>
 <li><a class="el" href="_schema_8cc.html">Schema.cc</a></li>
 </ul>

@@ -13,6 +13,7 @@ var searchData=
   ['msgpackemitter_2ecc',['MsgPackEmitter.cc',['../_msg_pack_emitter_8cc.html',1,'']]],
   ['msgpackemitter_2eh',['MsgPackEmitter.h',['../_msg_pack_emitter_8h.html',1,'']]],
   ['msgpackemitterimpl',['MsgPackEmitterImpl',['../classlibvariant_1_1_msg_pack_emitter_impl.html',1,'libvariant']]],
+  ['msgpackparser',['MsgPackParser',['../namespacelibvariant.html#af1656021fbd6a1a7d41b8bdf1a0fdf2a',1,'libvariant']]],
   ['msgpackparser_2ecc',['MsgPackParser.cc',['../_msg_pack_parser_8cc.html',1,'']]],
   ['msgpackparser_2eh',['MsgPackParser.h',['../_msg_pack_parser_8h.html',1,'']]],
   ['msgpackparserimpl',['MsgPackParserImpl',['../classlibvariant_1_1_msg_pack_parser_impl.html',1,'libvariant']]],

@@ -92,6 +92,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">ParserInput.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>Parser input abstractions.  
+<a href="#details">More...</a></p>
 <div class="textblock"><code>#include &lt;stdio.h&gt;</code><br />
 <code>#include &lt;iosfwd&gt;</code><br />
 <code>#include &lt;vector&gt;</code><br />
@@ -102,18 +105,25 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser_input.html">libvariant::ParserInput</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The <a class="el" href="classlibvariant_1_1_parser_input.html" title="The ParserInput abstract base class. ">ParserInput</a> abstract base class.  <a href="classlibvariant_1_1_parser_input.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser_stream_input.html">libvariant::ParserStreamInput</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A partially specialized parser input adapted to stream based inputs.  <a href="classlibvariant_1_1_parser_stream_input.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser_memory_input.html">libvariant::ParserMemoryInput</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A memory parser input.  <a href="classlibvariant_1_1_parser_memory_input.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser_string_input.html">libvariant::ParserStringInput</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">std::string parser input  <a href="classlibvariant_1_1_parser_string_input.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser_file_input.html">libvariant::ParserFileInput</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">FILE handle parser input.  <a href="classlibvariant_1_1_parser_file_input.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser_filename_input.html">libvariant::ParserFilenameInput</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classlibvariant_1_1_parser.html" title="The public parser interface. ">Parser</a> input from a filename.  <a href="classlibvariant_1_1_parser_filename_input.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser_streambuf_input.html">libvariant::ParserStreambufInput</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classlibvariant_1_1_parser.html" title="The public parser interface. ">Parser</a> input from a streambuf.  <a href="classlibvariant_1_1_parser_streambuf_input.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
@@ -123,7 +133,8 @@ Namespaces</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><dl class="section author"><dt>Author</dt><dd>John Bridgman </dd></dl>
+<div class="textblock"><p>Parser input abstractions. </p>
+<dl class="section author"><dt>Author</dt><dd>John Bridgman </dd></dl>
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

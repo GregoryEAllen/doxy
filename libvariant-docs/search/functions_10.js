@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['schemaerrors',['SchemaErrors',['../classlibvariant_1_1_schema_result.html#a29db6731a295759fdfa21b753a1bce24',1,'libvariant::SchemaResult']]],
   ['schemavalidate',['SchemaValidate',['../namespacelibvariant.html#ac850a966d64a356b2308bffe45c99ff1',1,'libvariant']]],
   ['serialize',['Serialize',['../namespacelibvariant.html#a7f811f23bcdf4dea8550521ef1e5048e',1,'libvariant::Serialize(Variant v, SerializeType type, Variant params=Variant::NullType)'],['../namespacelibvariant.html#a6621f7fd42bb580955529797d417d968',1,'libvariant::Serialize(const std::string &amp;filename, Variant v, SerializeType type, Variant params=Variant::NullType)'],['../namespacelibvariant.html#ae178d8532c0d68207b23616b34c99398',1,'libvariant::Serialize(FILE *f, Variant v, SerializeType type, Variant params=Variant::NullType)'],['../namespacelibvariant.html#abea05f270a965aab9cd3b013cf917110',1,'libvariant::Serialize(std::streambuf *sb, Variant v, SerializeType type, Variant params=Variant::NullType)'],['../namespacelibvariant.html#a161eaced2ed6f1f4a7fb681bf44effb5',1,'libvariant::Serialize(void *ptr, unsigned len, Variant v, SerializeType type, Variant params=Variant::NullType)']]],
   ['serializebundle',['SerializeBundle',['../namespacelibvariant.html#a2b8c81324ece6900cda860cd07887ca0',1,'libvariant']]],

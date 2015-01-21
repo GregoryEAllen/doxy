@@ -3,6 +3,7 @@ var searchData=
   ['schema_2ecc',['Schema.cc',['../_schema_8cc.html',1,'']]],
   ['schema_2eh',['Schema.h',['../_schema_8h.html',1,'']]],
   ['schemaerror',['SchemaError',['../classlibvariant_1_1_schema_error.html',1,'libvariant']]],
+  ['schemaerrors',['SchemaErrors',['../classlibvariant_1_1_schema_result.html#a29db6731a295759fdfa21b753a1bce24',1,'libvariant::SchemaResult']]],
   ['schemaloader',['SchemaLoader',['../classlibvariant_1_1_schema_loader.html',1,'libvariant']]],
   ['schemaloader_2ecc',['SchemaLoader.cc',['../_schema_loader_8cc.html',1,'']]],
   ['schemaloader_2eh',['SchemaLoader.h',['../_schema_loader_8h.html',1,'']]],

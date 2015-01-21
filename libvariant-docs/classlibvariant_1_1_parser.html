@@ -93,15 +93,18 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">libvariant::Parser Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>The public parser interface.  
+ <a href="classlibvariant_1_1_parser.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="_parser_8h_source.html">Variant/Parser.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a956d48bb351e5782b1277657f5740340"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a956d48bb351e5782b1277657f5740340"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>Parser</b> (shared_ptr&lt; <a class="el" href="classlibvariant_1_1_parser_impl.html">ParserImpl</a> &gt; pi)</td></tr>
 <tr class="separator:a956d48bb351e5782b1277657f5740340"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeb7485e5d303de66ca7d217daa71e41f"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aeb7485e5d303de66ca7d217daa71e41f"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser.html#aeb7485e5d303de66ca7d217daa71e41f">Run</a> ()</td></tr>
-<tr class="memdesc:aeb7485e5d303de66ca7d217daa71e41f"><td class="mdescLeft">&#160;</td><td class="mdescRight">0 on success, 1 when done, -1 other problem, throw on error <br /></td></tr>
+<tr class="memitem:aeb7485e5d303de66ca7d217daa71e41f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser.html#aeb7485e5d303de66ca7d217daa71e41f">Run</a> ()</td></tr>
 <tr class="separator:aeb7485e5d303de66ca7d217daa71e41f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab50b338a305693ccfaa4ea15c9080db8"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ab50b338a305693ccfaa4ea15c9080db8"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_parser.html#ab50b338a305693ccfaa4ea15c9080db8">PushAction</a> (shared_ptr&lt; <a class="el" href="classlibvariant_1_1_parser_actions.html">ParserActions</a> &gt; action)</td></tr>
@@ -134,6 +137,33 @@ shared_ptr&lt; <a class="el" href="classlibvariant_1_1_parser_impl.html">ParserI
 <tr class="memdesc:a17fea834d064ce6e468cdb26648209c1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Internal/advanced function to get the underlying implementation. <br /></td></tr>
 <tr class="separator:a17fea834d064ce6e468cdb26648209c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>The public parser interface. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a class="anchor" id="aeb7485e5d303de66ca7d217daa71e41f"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int libvariant::Parser::Run </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>0 on success, 1 when done, -1 other problem, throw on error The parser has a action stack, the parser events go to the action on the top of the stack. At any time a new action class can be pushed or popped from the action stack and if the stack is empty the parser stops processing events and run returns. </p>
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>Variant/<a class="el" href="_parser_8h_source.html">Parser.h</a></li>
 <li><a class="el" href="_parser_8cc.html">Parser.cc</a></li>

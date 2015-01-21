@@ -2,6 +2,7 @@ var searchData=
 [
   ['jsondiff',['JSONDiff',['../namespacelibvariant.html#a096a8f67179c3195b818084a1b1fd6a2',1,'libvariant']]],
   ['jsonemitter',['JSONEmitter',['../namespacelibvariant.html#a506fb7fdc157aeff18b11d5b39b6bd5b',1,'libvariant']]],
+  ['jsonparser',['JSONParser',['../namespacelibvariant.html#a33d7f258c96a925fcaf0d4d0e0b5b5d8',1,'libvariant']]],
   ['jsonpatch',['JSONPatch',['../namespacelibvariant.html#a1501618c026d48a2fe996cf2f155925e',1,'libvariant']]],
   ['jsonpointeradd',['JSONPointerAdd',['../namespacelibvariant.html#a4ff850a0815f2b99c4d7545b36c6362e',1,'libvariant']]],
   ['jsonpointercopy',['JSONPointerCopy',['../namespacelibvariant.html#ad3c1e4035a1b92dfc9ea30ade647a86c',1,'libvariant']]],

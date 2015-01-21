@@ -93,6 +93,11 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">libvariant::ValidationError Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>This class encapsulates the information from a schema validation error.  
+ <a href="classlibvariant_1_1_validation_error.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="_schema_8h_source.html">Variant/Schema.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -103,31 +108,41 @@ Public Member Functions</h2></td></tr>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>AddSubError</b> (const <a class="el" href="classlibvariant_1_1_schema_result.html">SchemaResult</a> &amp;err)</td></tr>
 <tr class="separator:a51dedd58fabbc4fad184b509884c6baa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acb6d4bb44c6b5d22e5c56e40d1b27a85"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="acb6d4bb44c6b5d22e5c56e40d1b27a85"></a>
-const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>GetMessage</b> () const </td></tr>
+const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_validation_error.html#acb6d4bb44c6b5d22e5c56e40d1b27a85">GetMessage</a> () const </td></tr>
+<tr class="memdesc:acb6d4bb44c6b5d22e5c56e40d1b27a85"><td class="mdescLeft">&#160;</td><td class="mdescRight">The validation error message. <br /></td></tr>
 <tr class="separator:acb6d4bb44c6b5d22e5c56e40d1b27a85"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a99149458115fdaf0074e62923eecda00"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a99149458115fdaf0074e62923eecda00"></a>
-const Path &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>GetDataPath</b> () const </td></tr>
+const Path &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_validation_error.html#a99149458115fdaf0074e62923eecda00">GetDataPath</a> () const </td></tr>
+<tr class="memdesc:a99149458115fdaf0074e62923eecda00"><td class="mdescLeft">&#160;</td><td class="mdescRight">The path in the document where the error was encountered. <br /></td></tr>
 <tr class="separator:a99149458115fdaf0074e62923eecda00"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a684e1f2afb813bcdbca920c293b6dbe3"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a684e1f2afb813bcdbca920c293b6dbe3"></a>
-std::string&#160;</td><td class="memItemRight" valign="bottom"><b>GetDataPathStr</b> () const </td></tr>
+std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_validation_error.html#a684e1f2afb813bcdbca920c293b6dbe3">GetDataPathStr</a> () const </td></tr>
+<tr class="memdesc:a684e1f2afb813bcdbca920c293b6dbe3"><td class="mdescLeft">&#160;</td><td class="mdescRight">String version of the data path. <br /></td></tr>
 <tr class="separator:a684e1f2afb813bcdbca920c293b6dbe3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a74d31a9b605bf946dc02192ad2eacd26"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a74d31a9b605bf946dc02192ad2eacd26"></a>
-const Path &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>GetSchemaPath</b> () const </td></tr>
+const Path &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_validation_error.html#a74d31a9b605bf946dc02192ad2eacd26">GetSchemaPath</a> () const </td></tr>
+<tr class="memdesc:a74d31a9b605bf946dc02192ad2eacd26"><td class="mdescLeft">&#160;</td><td class="mdescRight">The path in the schema where the error was encountered. <br /></td></tr>
 <tr class="separator:a74d31a9b605bf946dc02192ad2eacd26"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7b4c0b0ec93d933d64355d5b012e5c5c"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a7b4c0b0ec93d933d64355d5b012e5c5c"></a>
-std::string&#160;</td><td class="memItemRight" valign="bottom"><b>GetSchemaPathStr</b> () const </td></tr>
+std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_validation_error.html#a7b4c0b0ec93d933d64355d5b012e5c5c">GetSchemaPathStr</a> () const </td></tr>
+<tr class="memdesc:a7b4c0b0ec93d933d64355d5b012e5c5c"><td class="mdescLeft">&#160;</td><td class="mdescRight">String version of teh schema path. <br /></td></tr>
 <tr class="separator:a7b4c0b0ec93d933d64355d5b012e5c5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a577f3806fa26bd2c5fbbc96f0955c736"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a577f3806fa26bd2c5fbbc96f0955c736"></a>
-const std::vector&lt; <a class="el" href="classlibvariant_1_1_schema_result.html">SchemaResult</a> &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>GetSubErrors</b> () const </td></tr>
+const std::vector&lt; <a class="el" href="classlibvariant_1_1_schema_result.html">SchemaResult</a> &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_validation_error.html#a577f3806fa26bd2c5fbbc96f0955c736">GetSubErrors</a> () const </td></tr>
+<tr class="memdesc:a577f3806fa26bd2c5fbbc96f0955c736"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the list of sub errors, if any. <br /></td></tr>
 <tr class="separator:a577f3806fa26bd2c5fbbc96f0955c736"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bfbf5a6c660ea4fd3fa3c8de3cb0178"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a7bfbf5a6c660ea4fd3fa3c8de3cb0178"></a>
-std::string&#160;</td><td class="memItemRight" valign="bottom"><b>PrettyPrintMessage</b> () const </td></tr>
+std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_validation_error.html#a7bfbf5a6c660ea4fd3fa3c8de3cb0178">PrettyPrintMessage</a> () const </td></tr>
+<tr class="memdesc:a7bfbf5a6c660ea4fd3fa3c8de3cb0178"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return a pretty printed string of this validation error. <br /></td></tr>
 <tr class="separator:a7bfbf5a6c660ea4fd3fa3c8de3cb0178"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6b89b11d68ddd322dfa7f08433ca923c"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a6b89b11d68ddd322dfa7f08433ca923c"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>PrettyPrintMessage</b> (std::ostream &amp;os, unsigned indent=0) const </td></tr>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibvariant_1_1_validation_error.html#a6b89b11d68ddd322dfa7f08433ca923c">PrettyPrintMessage</a> (std::ostream &amp;os, unsigned indent=0) const </td></tr>
+<tr class="memdesc:a6b89b11d68ddd322dfa7f08433ca923c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Print a pretty printed version of this validation error to the std::ostream. <br /></td></tr>
 <tr class="separator:a6b89b11d68ddd322dfa7f08433ca923c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<hr/>The documentation for this class was generated from the following files:<ul>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>This class encapsulates the information from a schema validation error. </p>
+</div><hr/>The documentation for this class was generated from the following files:<ul>
 <li>Variant/<a class="el" href="_schema_8h_source.html">Schema.h</a></li>
 <li><a class="el" href="_schema_8cc.html">Schema.cc</a></li>
 </ul>

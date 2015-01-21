@@ -12,5 +12,9 @@ var searchData=
   ['createcopy',['CreateCopy',['../classlibvariant_1_1_blob.html#a996caa9065444d44e48451f7980cd5c2',1,'libvariant::Blob']]],
   ['createemitter',['CreateEmitter',['../namespacelibvariant.html#a3807fc64f41deb490aa747f4dd29a84d',1,'libvariant']]],
   ['createfree',['CreateFree',['../classlibvariant_1_1_blob.html#a3590511eae87ba84d9b479e55a1988ca',1,'libvariant::Blob']]],
+  ['createparser',['CreateParser',['../namespacelibvariant.html#aa642df0b309aab21d9f6933958cfc88b',1,'libvariant']]],
+  ['createparserguess',['CreateParserGuess',['../namespacelibvariant.html#a8ffdf69370c917953aac1e5a96999029',1,'libvariant']]],
+  ['createparserinput',['CreateParserInput',['../namespacelibvariant.html#afe7252f9e5ef65bca567b630f634812d',1,'libvariant::CreateParserInput(const std::string &amp;str)'],['../namespacelibvariant.html#a42b9cb0728294c80dc65b881d09beed0',1,'libvariant::CreateParserInput(const char *str)'],['../namespacelibvariant.html#a31b53a18d61bfd8cf90fb8700c8d6672',1,'libvariant::CreateParserInput(const void *ptr, unsigned len)']]],
+  ['createparserinputfile',['CreateParserInputFile',['../namespacelibvariant.html#aaa59a7f8b02462220b5ca451b0afd131',1,'libvariant::CreateParserInputFile(const char *filename)'],['../namespacelibvariant.html#a1eb4fc0bf55d1dd0c6de6f51b52f96d2',1,'libvariant::CreateParserInputFile(FILE *f)'],['../namespacelibvariant.html#ad9af673d9fe9a0de5dab4f9a6d728c68',1,'libvariant::CreateParserInputFile(std::streambuf *sb)']]],
   ['createreferenced',['CreateReferenced',['../classlibvariant_1_1_blob.html#a100bba45211b3adc57a73f62362223b1',1,'libvariant::Blob']]]
 ];

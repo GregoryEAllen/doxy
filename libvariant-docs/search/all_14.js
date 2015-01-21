@@ -2,6 +2,7 @@ var searchData=
 [
   ['validate',['Validate',['../classlibvariant_1_1_arg_parse.html#a1c54f7d0287a506cea23172f3c8df86c',1,'libvariant::ArgParse']]],
   ['validationerror',['ValidationError',['../classlibvariant_1_1_validation_error.html',1,'libvariant']]],
+  ['validationerrors',['ValidationErrors',['../classlibvariant_1_1_schema_result.html#aab19845215d94a3d7b2bf78025d009eb',1,'libvariant::SchemaResult']]],
   ['variant',['Variant',['../classlibvariant_1_1_variant.html',1,'libvariant']]],
   ['variant',['Variant',['../classlibvariant_1_1_variant.html#a9b58582e9f931ec3c41e80b53b81bb1c',1,'libvariant::Variant::Variant(const std::vector&lt; T &gt; &amp;v)'],['../classlibvariant_1_1_variant.html#a0b4ac86053e329a18ce3eb2f6a7c3b57',1,'libvariant::Variant::Variant(const std::map&lt; std::string, T &gt; &amp;v)']]],
   ['variant_2ecc',['Variant.cc',['../_variant_8cc.html',1,'']]],

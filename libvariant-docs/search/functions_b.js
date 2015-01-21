@@ -10,5 +10,6 @@ var searchData=
   ['minimum',['Minimum',['../classlibvariant_1_1_arg_parse_option.html#a85c19a92652511d554c1ed4dc4f34e63',1,'libvariant::ArgParseOption']]],
   ['minlength',['MinLength',['../classlibvariant_1_1_arg_parse_option.html#a6004c1339001bfa4d5bf5a7ecb363663',1,'libvariant::ArgParseOption']]],
   ['msgpackemitter',['MsgPackEmitter',['../namespacelibvariant.html#a03eef10ceed596adc3bba7eb6efd1e02',1,'libvariant']]],
+  ['msgpackparser',['MsgPackParser',['../namespacelibvariant.html#af1656021fbd6a1a7d41b8bdf1a0fdf2a',1,'libvariant']]],
   ['mutuallyexclusive',['MutuallyExclusive',['../classlibvariant_1_1_option_group.html#a2e012e89b103510d3d19afcf4ca774d4',1,'libvariant::OptionGroup']]]
 ];

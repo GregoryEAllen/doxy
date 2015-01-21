@@ -4,6 +4,7 @@ var searchData=
   ['jsonemitter',['JSONEmitter',['../namespacelibvariant.html#a506fb7fdc157aeff18b11d5b39b6bd5b',1,'libvariant']]],
   ['jsonemitter_2eh',['JSONEmitter.h',['../_j_s_o_n_emitter_8h.html',1,'']]],
   ['jsonemitterimpl',['JSONEmitterImpl',['../classlibvariant_1_1_j_s_o_n_emitter_impl.html',1,'libvariant']]],
+  ['jsonparser',['JSONParser',['../namespacelibvariant.html#a33d7f258c96a925fcaf0d4d0e0b5b5d8',1,'libvariant']]],
   ['jsonparser_2ecc',['JSONParser.cc',['../_j_s_o_n_parser_8cc.html',1,'']]],
   ['jsonparser_2eh',['JSONParser.h',['../_j_s_o_n_parser_8h.html',1,'']]],
   ['jsonparserimpl',['JSONParserImpl',['../classlibvariant_1_1_j_s_o_n_parser_impl.html',1,'libvariant']]],
