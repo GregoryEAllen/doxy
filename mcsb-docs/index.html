@@ -82,7 +82,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="textblock"><h2>Introduction</h2>
 <p>The Multi-Client Shared Buffer, or MCSB, is a C++ middleware library designed to assist in implementing high-throughput, soft real-time DSP systems on POSIX systems. MCSB uses shared memory with a zero-copy interface to provide a scalable many-to-many message-based middleware, while providing formal guarantees about liveness and memory bounds. Message throughput on a shared memory machine is limited only by the memory bandwidth.</p>
 <p>MCSB has been in continuous use since 2009. MCSB version 2 is a significant architectural redesign, addressing limitations and lessons learned in the design of version 1.</p>
-<p>The MCSBv2 source code has been publicly released at <a href="http://bitbucket.org/gallen/mcsb/">http://bitbucket.org/gallen/mcsb/</a>.</p>
+<p>The MCSBv2 source code has been publicly released at <a href="https://github.com/GregoryEAllen/mcsb/">https://github.com/GregoryEAllen/mcsb/</a>.</p>
 <h2>Features</h2>
 <p>Features of MCSB (since v1):</p>
 <ul>
@@ -97,7 +97,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>includes first-class Python bindings with <a href="http://www.swig.org/">SWIG</a></li>
 <li>built and installed with the widely-used tool <a href="http://cmake.org">CMake</a></li>
 <li>runs nightly builds and tests on several platforms with CTest/CDash</li>
-<li>has advanced command-line argument parsing with the help of <a href="http://gallen.bitbucket.org/libvariant-docs/">libvariant</a> ArgParse</li>
+<li>has advanced command-line argument parsing with the help of <a href="https://GregoryEAllen.github.io/doxy/libvariant-docs/">libvariant</a> ArgParse</li>
 <li>has an <code>examples</code> directory providing basic examples to get started</li>
 <li>provides access to the underlying file descriptor for easy integration with external event loops (e.g. <a href="http://libev.schmorp.de/">libev</a>)</li>
 <li>MCSB recording and playback tools available</li>
@@ -107,7 +107,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <ul>
 <li>variable message sizes with guaranteed contiguous messages</li>
 <li>allocated memory can (optionally) grow to meet demand</li>
-<li>a well-documented public API (with doxygen) served at <a href="http://gallen.bitbucket.org/mcsb-docs/">http://gallen.bitbucket.org/mcsb-docs/</a></li>
+<li>a well-documented public API (with doxygen) served at <a href="https://GregoryEAllen.github.io/doxy/mcsb-docs/">GregoryEAllen.github.io/doxy/mcsb-docs/</a></li>
 <li>less sensitive to runtime queue-size parameters, including better utilization of free memory to avoid dropped messages</li>
 <li>a new message descriptor API that can provide:<ul>
 <li>multiple outstanding zero-copy send buffers with out-of-order send</li>
@@ -129,7 +129,7 @@ make install
 </pre><p>Add <code>-DCMAKE_INSTALL_PREFIX:PATH=/path/to/install_prefix</code> to the <code>cmake</code> line to install somewhere besides the default of <code>/usr/local</code>. See the CMake documentation for more details and other CMake options.</p>
 <h3>Dependencies</h3>
 <p>MCSB requires <a href="http://software.schmorp.de/pkg/libev.html">libev</a>, a high-performance event loop library.</p>
-<p>MCSB can optionally use <a href="http://bitbucket.org/gallen/libvariant/">libvariant</a>, a library that provides advanced command-line argument parsing (in addition to many other things). Without libvariant, several of the tools for testing MCSB will not get compiled.</p>
+<p>MCSB can optionally use <a href="https://github.com/GregoryEAllen/libvariant/">libvariant</a>, a library that provides advanced command-line argument parsing (in addition to many other things). Without libvariant, several of the tools for testing MCSB will not get compiled.</p>
 <h3>Testing</h3>
 <p>MCSB comes with a number of automated self tests using CTest, a component of CMake. Once MCSB configured and built, these tests can be run with: </p>
 <pre class="fragment">make test
@@ -143,7 +143,7 @@ make install
 <p>Once MCSB is configured, the Doxygen documentation can be built with: </p>
 <pre class="fragment">make doc
 </pre><p>Of course, this requires Doxygen to be installed on your system.</p>
-<p>The current MCSB Doxygen documentation is also served on the web at <a href="http://gallen.bitbucket.org/mcsb-docs/">gallen.bitbucket.org/mcsb-docs/</a>.</p>
+<p>The current MCSB Doxygen documentation is also served on the web at <a href="https://GregoryEAllen.github.io/doxy/mcsb-docs/">GregoryEAllen.github.io/doxy/mcsb-docs/</a>.</p>
 <h2>Mailing List</h2>
 <p>There is a Google mailing list for public discussion of MCSB: </p>
 <pre class="fragment">mcsb-middleware AT googlegroups DOT com

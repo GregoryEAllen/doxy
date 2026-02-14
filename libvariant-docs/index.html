@@ -115,7 +115,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </ul>
 <h3>Implementation details</h3>
 <p>Under the hood, Variant uses an explicit vtable to implement the different behaviors with the same interface. The vtable has more types than the standard types listed above. The additional types are a reference and proxy type. There is also a class that is exposed to the user as VariantRef. Several of the functions that return a Variant return a VariantRef. A VariantRef is a Variant so const Variant &amp; can bind to a VariantRef. But, in general Variant&amp; cannot bind to VariantRef as all functions that return VariantRef, return it by value. This means that if you want a function that takes a non-const Variant as a parameter to be used as an output parameter, the function must take a VariantRef by value. VariantRef can be constructed from a Variant as well, so such a function can take either a VariantRef or Variant.</p>
-<p>libvariant is <a href="https://bitbucket.org/gallen/libvariant">publicly hosted here</a>.</p>
+<p>libvariant is <a href="https://github.com/GregoryEAllen/libvariant">publicly hosted here</a>.</p>
 <h2>Building </h2>
 <p>This project uses CMake to generate a build system. Consult the CMake documentation for your preferred build system generation.</p>
 <h3>Building on unix</h3>
@@ -142,7 +142,7 @@ make
 <li>[<a href="https://github.com/andreineculau/json-schema-random">https://github.com/andreineculau/json-schema-random</a>] - requires nodejs</li>
 </ul>
 <h2>API Documentation </h2>
-<p>The main API is documented in the source code using the Doxygen format. The generated html documentation is served on the web at <a href="http://gallen.bitbucket.org/libvariant-docs">http://gallen.bitbucket.org/libvariant-docs</a>.</p>
+<p>The main API is documented in the source code using the Doxygen format. The generated html documentation is served on the web at <a href="https://GregoryEAllen.github.io/doxy/libvariant-docs/">https://GregoryEAllen.github.io/doxy/libvariant-docs</a>.</p>
 <p>If you have doxygen installed, you can generate html documentation of the libvariant public interface from the source code with: </p><pre class="fragment">cd /path/to/build_dir
 cmake /path/to/libvariant
 make doc
